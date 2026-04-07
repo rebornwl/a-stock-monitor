@@ -1,0 +1,32 @@
+{
+  "update_time": "2026-04-07 23:11",
+  "market_status": "休市",
+  "sentiment": "谨慎乐观",
+  "limit_up_count": 42,
+  "limit_down_count": 8,
+  "indices": [
+    {"name": "上证指数", "price": "3068.56", "change": 0.52},
+    {"name": "深证成指", "price": "9856.23", "change": -0.32},
+    {"name": "创业板指", "price": "1988.45", "change": -0.89},
+    {"name": "科创50", "price": "1085.32", "change": 1.25}
+  ],
+  "hot_sectors": [
+    {"name": "人工智能", "count": 28, "total_amount": "128.5亿"},
+    {"name": "半导体", "count": 19, "total_amount": "86.2亿"},
+    {"name": "医药生物", "count": 15, "total_amount": "65.3亿"},
+    {"name": "新能源汽车", "count": 12, "total_amount": "45.8亿"},
+    {"name": "军工", "count": 9, "total_amount": "32.1亿"}
+  ],
+  "dragon_stocks": [
+    {"name": "津药药业", "code": "600488", "change": "+10.0%", "amount": "12.5亿"},
+    {"name": "汇源通信", "code": "000586", "change": "+10.0%", "amount": "8.3亿"},
+    {"name": "重药控股", "code": "000950", "change": "+10.0%", "amount": "6.2亿"},
+    {"name": "AI龙头股", "code": "300xxx", "change": "+19.8%", "amount": "5.8亿"},
+    {"name": "芯片股", "code": "688xxx", "change": "+10.0%", "amount": "4.1亿"}
+  ],
+  "opportunities": [
+    {"name": "龙回头机会", "stock": "新能泰山 000720", "entry": "回踩5日线介入", "risk": "中", "potential": "8-12%"},
+    {"name": "首板机会", "stock": "人工智能板块", "entry": "突破关键位介入", "risk": "低", "potential": "5-10%"},
+    {"name": "跟风机会", "stock": "低位医药股", "entry": "龙头分歧时介入", "risk": "中", "potential": "3-8%"}
+  ]
+}

@@ -1,0 +1,117 @@
+name: A-Stock Monitor
+
+on:
+  schedule:
+    # 09:24 竞价即将结束警告 (UTC+8 = UTC+0 01:24)
+    - cron: '24 1 * * 1-5'
+    # 09:30-11:30 上午盘中，每5分钟
+    - cron: '30-55/5 1 * * 1-5'
+    - cron: '*/5 2-3 * * 1-5'
+    - cron: '0-30/5 3 * * 1-5'
+    # 13:00-14:55 下午盘中，每5分钟
+    - cron: '*/5 5-6 * * 1-5'
+    - cron: '0-55/5 6 * * 1-5'
+    # 15:00 收盘统计 (UTC 07:00)
+    - cron: '0 7 * * 1-5'
+    # 16:00 盘后复盘 (UTC 08:00)
+    - cron: '0 8 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式 (monitor/auction/close/review/data)'
+        required: true
+        default: 'data'
+        type: choice
+        options:
+          - data
+          - monitor
+          - auction
+          - close
+          - review
+
+# 必须有 write 权限才能 push 数据回仓库
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd a_stock_monitor
+          pip install -r requirements.txt -q
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "bot@a-stock-monitor.com"
+          git config --local user.name "A-Stock Monitor Bot"
+
+      # === 竞价监控 09:24 ===
+      - name: Run auction monitor
+        if: github.event.schedule == '24 1 * * 1-5' || github.event.inputs.mode == 'auction'
+        run: python a_stock_monitor/monitor_v2.py --mode auction
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+
+      # === 盘中监控 + 自动生成网页数据（所有盘中时段都执行）===
+      - name: Run intraday monitor & update web data
+        if: |
+          github.event.schedule != '24 1 * * 1-5' &&
+          github.event.schedule != '0 7 * * 1-5' &&
+          github.event.schedule != '0 8 * * 1-5' &&
+          github.event.inputs.mode != 'auction' &&
+          github.event.inputs.mode != 'close' &&
+          github.event.inputs.mode != 'review'
+        run: python a_stock_monitor/monitor_v2.py --mode monitor
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+
+      # === 仅生成数据（手动触发 data 模式）===
+      - name: Generate web data only
+        if: github.event.inputs.mode == 'data'
+        run: python a_stock_monitor/monitor_v2.py --mode data
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+
+      # === 收盘统计 15:00 ===
+      - name: Run close stats
+        if: github.event.schedule == '0 7 * * 1-5' || github.event.inputs.mode == 'close'
+        run: python a_stock_monitor/monitor_v2.py --mode close
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+
+      # === 盘后复盘 16:00 ===
+      - name: Run review
+        if: github.event.schedule == '0 8 * * 1-5' || github.event.inputs.mode == 'review'
+        run: python a_stock_monitor/monitor_v2.py --mode review
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+
+      # === 提交数据到仓库（每次运行都执行，有变化才 commit）===
+      - name: Commit and push updated data
+        run: |
+          git add docs/data/ || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "📊 Auto update: $(date '+%Y-%m-%d %H:%M' -d '+8 hours') CST"
+            git push
+            echo "Data pushed to repository"
+          fi
