@@ -1,32 +1,116 @@
 {
-  "update_time": "2026-04-07 23:11",
+  "update_time": "2026-04-07 17:35",
   "market_status": "休市",
-  "sentiment": "谨慎乐观",
-  "limit_up_count": 42,
-  "limit_down_count": 8,
+  "sentiment": "中性",
+  "limit_up_count": 100,
+  "limit_down_count": 0,
   "indices": [
-    {"name": "上证指数", "price": "3068.56", "change": 0.52},
-    {"name": "深证成指", "price": "9856.23", "change": -0.32},
-    {"name": "创业板指", "price": "1988.45", "change": -0.89},
-    {"name": "科创50", "price": "1085.32", "change": 1.25}
+    {
+      "name": "上证指数",
+      "price": "3890.16",
+      "change": 0.26
+    },
+    {
+      "name": "深证成指",
+      "price": "13400.41",
+      "change": 0.36
+    },
+    {
+      "name": "创业板",
+      "price": "3160.82",
+      "change": 0.36
+    }
   ],
   "hot_sectors": [
-    {"name": "人工智能", "count": 28, "total_amount": "128.5亿"},
-    {"name": "半导体", "count": 19, "total_amount": "86.2亿"},
-    {"name": "医药生物", "count": 15, "total_amount": "65.3亿"},
-    {"name": "新能源汽车", "count": 12, "total_amount": "45.8亿"},
-    {"name": "军工", "count": 9, "total_amount": "32.1亿"}
+    {
+      "name": "其他",
+      "count": 100,
+      "total_amount": "0"
+    }
   ],
   "dragon_stocks": [
-    {"name": "津药药业", "code": "600488", "change": "+10.0%", "amount": "12.5亿"},
-    {"name": "汇源通信", "code": "000586", "change": "+10.0%", "amount": "8.3亿"},
-    {"name": "重药控股", "code": "000950", "change": "+10.0%", "amount": "6.2亿"},
-    {"name": "AI龙头股", "code": "300xxx", "change": "+19.8%", "amount": "5.8亿"},
-    {"name": "芯片股", "code": "688xxx", "change": "+10.0%", "amount": "4.1亿"}
+    {
+      "name": "博力威",
+      "code": "688345",
+      "change": "+20.00%",
+      "amount": "0"
+    },
+    {
+      "name": "同宇新材",
+      "code": "301630",
+      "change": "+20.00%",
+      "amount": "0"
+    },
+    {
+      "name": "凌玮科技",
+      "code": "301373",
+      "change": "+20.00%",
+      "amount": "0"
+    },
+    {
+      "name": "金陵体育",
+      "code": "300651",
+      "change": "+20.00%",
+      "amount": "0"
+    },
+    {
+      "name": "江天化学",
+      "code": "300927",
+      "change": "+19.99%",
+      "amount": "0"
+    },
+    {
+      "name": "东岳硅材",
+      "code": "300821",
+      "change": "+19.98%",
+      "amount": "0"
+    },
+    {
+      "name": "天瑞仪器",
+      "code": "300165",
+      "change": "+19.96%",
+      "amount": "0"
+    },
+    {
+      "name": "霍普股份",
+      "code": "301024",
+      "change": "+16.88%",
+      "amount": "0"
+    },
+    {
+      "name": "开勒股份",
+      "code": "301070",
+      "change": "+15.48%",
+      "amount": "0"
+    },
+    {
+      "name": "申联生物",
+      "code": "688098",
+      "change": "+14.46%",
+      "amount": "0"
+    }
   ],
   "opportunities": [
-    {"name": "龙回头机会", "stock": "新能泰山 000720", "entry": "回踩5日线介入", "risk": "中", "potential": "8-12%"},
-    {"name": "首板机会", "stock": "人工智能板块", "entry": "突破关键位介入", "risk": "低", "potential": "5-10%"},
-    {"name": "跟风机会", "stock": "低位医药股", "entry": "龙头分歧时介入", "risk": "中", "potential": "3-8%"}
+    {
+      "name": "打板机会",
+      "stock": "博力威 688345",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "同宇新材 301630",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "凌玮科技 301373",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
   ]
 }
