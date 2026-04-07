@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-04-07 17:36",
+  "update_time": "2026-04-08 04:34",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 100,
+  "limit_up_count": 89,
   "limit_down_count": 0,
   "indices": [
     {
@@ -23,91 +23,111 @@
   ],
   "hot_sectors": [
     {
-      "name": "其他",
-      "count": 100,
-      "total_amount": "0"
+      "name": "化学原料",
+      "count": 11,
+      "total_amount": "53.68亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 8,
+      "total_amount": "26.61亿"
+    },
+    {
+      "name": "医药",
+      "count": 6,
+      "total_amount": "51.52亿"
+    },
+    {
+      "name": "农化制品",
+      "count": 5,
+      "total_amount": "20.33亿"
+    },
+    {
+      "name": "通信",
+      "count": 4,
+      "total_amount": "33.76亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "博力威",
-      "code": "688345",
-      "change": "+20.00%",
-      "amount": "0"
+      "name": "诺德股份",
+      "code": "600110",
+      "change": "+10.06%",
+      "amount": "33.64亿"
     },
     {
-      "name": "同宇新材",
-      "code": "301630",
-      "change": "+20.00%",
-      "amount": "0"
+      "name": "国晟科技",
+      "code": "603778",
+      "change": "+10.01%",
+      "amount": "29.96亿"
     },
     {
-      "name": "凌玮科技",
-      "code": "301373",
-      "change": "+20.00%",
-      "amount": "0"
+      "name": "通鼎互联",
+      "code": "002491",
+      "change": "+10.03%",
+      "amount": "25.01亿"
     },
     {
-      "name": "金陵体育",
-      "code": "300651",
-      "change": "+20.00%",
-      "amount": "0"
+      "name": "航天电器",
+      "code": "002025",
+      "change": "+10.01%",
+      "amount": "21.77亿"
     },
     {
-      "name": "江天化学",
-      "code": "300927",
-      "change": "+19.99%",
-      "amount": "0"
+      "name": "鹭燕医药",
+      "code": "002788",
+      "change": "+10.02%",
+      "amount": "16.18亿"
     },
     {
-      "name": "东岳硅材",
-      "code": "300821",
-      "change": "+19.98%",
-      "amount": "0"
+      "name": "中稀有色",
+      "code": "600259",
+      "change": "+10.01%",
+      "amount": "15.73亿"
     },
     {
-      "name": "天瑞仪器",
-      "code": "300165",
-      "change": "+19.96%",
-      "amount": "0"
+      "name": "中工国际",
+      "code": "002051",
+      "change": "+9.97%",
+      "amount": "15.35亿"
     },
     {
-      "name": "霍普股份",
-      "code": "301024",
-      "change": "+16.88%",
-      "amount": "0"
+      "name": "中体产业",
+      "code": "600158",
+      "change": "+10.01%",
+      "amount": "15.11亿"
     },
     {
-      "name": "开勒股份",
-      "code": "301070",
-      "change": "+15.48%",
-      "amount": "0"
+      "name": "舒华体育",
+      "code": "605299",
+      "change": "+10.02%",
+      "amount": "14.95亿"
     },
     {
-      "name": "申联生物",
-      "code": "688098",
-      "change": "+14.46%",
-      "amount": "0"
+      "name": "深圳华强",
+      "code": "000062",
+      "change": "+10.01%",
+      "amount": "14.36亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "博力威 688345",
+      "stock": "诺德股份 600110",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "同宇新材 301630",
+      "stock": "国晟科技 603778",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "凌玮科技 301373",
+      "stock": "通鼎互联 002491",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
