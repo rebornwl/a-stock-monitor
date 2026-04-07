@@ -1,17 +1,25 @@
 """
-A股打板监控系统 - 增强版 v2.0
-新增：热点板块分析、板块轮动监控、连板统计
+A股打板监控系统 - 增强版 v2.1
+修复：环境变量支持、f5/f6成交数据、f100板块、涨停区分、auction/close模式
 """
 
 import requests
 import json
+import os
+import sys
 import logging
 from datetime import datetime
 from typing import Dict, List, Optional
 
+# 修复Windows控制台编码问题
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # ==================== 推送配置 ====================
-BARK_URL = "https://api.day.app/6GZ4yMmCzeyb9GJQgffWqW/"
-SERVERCHAN_KEY = "SCT330705TA-151U7vBb7Y4QuvXLmVrSGvCz"
+# 优先从环境变量读取（支持GitHub Actions secrets），否则使用默认值
+BARK_URL = os.environ.get("BARK_URL", "https://api.day.app/6GZ4yMmCzeyb9GJQgffWqW/")
+SERVERCHAN_KEY = os.environ.get("SERVERCHAN_KEY", "SCT330705TA-151U7vBb7Y4QuvXLmVrSGvCz")
 
 # ==================== 日志配置 ====================
 logging.basicConfig(
@@ -113,7 +121,65 @@ class MarketDataService:
 
     @staticmethod
     def get_limit_up_stocks() -> List[Dict]:
-        """获取涨停股票列表"""
+        """获取涨停股票列表（区分主板10%和创业板/科创板20%）"""
+        try:
+            url = "https://push2.eastmoney.com/api/qt/clist/get"
+            params = {
+                "pn": 1,
+                "pz": 200,
+                "po": 1,
+                "np": 1,
+                "ut": "bd1d9ddb04089700cf9c27f6f7426281",
+                "fltt": 2,
+                "invt": 2,
+                "fid": "f3",
+                "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23",
+                # f5=成交量 f6=成交额 f100=所属行业 f13=市场(0深圳 1上海) f12=代码
+                "fields": "f1,f2,f3,f5,f6,f12,f13,f14,f15,f16,f17,f18,f20,f21,f23,f24,f25,f22,f11,f62,f100,f128,f136,f115,f152",
+            }
+            headers = {
+                "Referer": "https://quote.eastmoney.com/",
+                "User-Agent": "Mozilla/5.0"
+            }
+            response = requests.get(url, params=params, headers=headers, timeout=10)
+
+            if response.status_code == 200:
+                try:
+                    data = response.json()
+                    stocks = data.get("data", {}).get("diff", []) if data else []
+                except (json.JSONDecodeError, AttributeError) as e:
+                    logger.error(f"JSON解析失败: {e}")
+                    return []
+
+                limit_up_stocks = []
+                for stock in stocks:
+                    code = stock.get("f12", "")
+                    change = float(stock.get("f3", 0))
+
+                    # 区分涨停阈值：主板10% (60xxxx/00xxxx)，创业板/科创板20% (30xxxx/68xxxx)
+                    is_cyb_or_kcb = code.startswith("30") or code.startswith("68")
+                    threshold = 19.5 if is_cyb_or_kcb else 9.5
+
+                    if change >= threshold:
+                        sector_raw = stock.get("f100", "")
+                        limit_up_stocks.append({
+                            "code": code,
+                            "name": stock.get("f14", ""),
+                            "change": change,
+                            "close": stock.get("f2", 0),
+                            "volume": stock.get("f5", 0),
+                            "amount": stock.get("f6", 0),
+                            "sector": sector_raw if sector_raw else "未知",
+                        })
+                return limit_up_stocks
+            return []
+        except Exception as e:
+            logger.error(f"获取涨停股票失败: {e}")
+            return []
+
+    @staticmethod
+    def get_limit_down_stocks() -> List[Dict]:
+        """获取跌停股票列表（区分主板10%和创业板/科创板20%）"""
         try:
             url = "https://push2.eastmoney.com/api/qt/clist/get"
             params = {
@@ -125,53 +191,8 @@ class MarketDataService:
                 "fltt": 2,
                 "invt": 2,
                 "fid": "f3",
-                "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23",
-                "fields": "f1,f2,f3,f12,f13,f14,f15,f16,f17,f18,f20,f21,f23,f24,f25,f22,f11,f62,f128,f136,f115,f152",
-            }
-            headers = {
-                "Referer": "https://quote.eastmoney.com/",
-                "User-Agent": "Mozilla/5.0"
-            }
-            response = requests.get(url, params=params, headers=headers, timeout=10)
-
-            if response.status_code == 200:
-                data = response.json()
-                stocks = data.get("data", {}).get("diff", [])
-
-                limit_up_stocks = []
-                for stock in stocks:
-                    if float(stock.get("f3", 0)) >= 9.9:
-                        limit_up_stocks.append({
-                            "code": stock.get("f12", ""),
-                            "name": stock.get("f14", ""),
-                            "change": stock.get("f3", 0),
-                            "close": stock.get("f2", 0),
-                            "volume": stock.get("f5", 0),
-                            "amount": stock.get("f6", 0),
-                            "sector": stock.get("f100", "未知"),  # 板块信息
-                        })
-                return limit_up_stocks
-            return []
-        except Exception as e:
-            logger.error(f"获取涨停股票失败: {e}")
-            return []
-
-    @staticmethod
-    def get_limit_down_stocks() -> List[Dict]:
-        """获取跌停股票列表"""
-        try:
-            url = "https://push2.eastmoney.com/api/qt/clist/get"
-            params = {
-                "pn": 1,
-                "pz": 50,
-                "po": 1,
-                "np": 1,
-                "ut": "bd1d9ddb04089700cf9c27f6f7426281",
-                "fltt": 2,
-                "invt": 2,
-                "fid": "f3",
                 "fs": "m:0+t:7,m:0+t:81,m:1+t:3,m:1+t:24",
-                "fields": "f1,f2,f3,f12,f13,f14",
+                "fields": "f1,f2,f3,f5,f6,f12,f13,f14",
             }
             headers = {
                 "Referer": "https://quote.eastmoney.com/",
@@ -185,11 +206,18 @@ class MarketDataService:
 
                 limit_down_stocks = []
                 for stock in stocks:
-                    if float(stock.get("f3", 0)) <= -9.9:
+                    code = stock.get("f12", "")
+                    change = float(stock.get("f3", 0))
+
+                    # 区分跌停阈值
+                    is_cyb_or_kcb = code.startswith("30") or code.startswith("68")
+                    threshold = -19.5 if is_cyb_or_kcb else -9.5
+
+                    if change <= threshold:
                         limit_down_stocks.append({
-                            "code": stock.get("f12", ""),
+                            "code": code,
                             "name": stock.get("f14", ""),
-                            "change": stock.get("f3", 0),
+                            "change": change,
                         })
                 return limit_down_stocks
             return []
@@ -295,36 +323,56 @@ class MarketDataService:
 class SectorAnalyzer:
     """热点板块分析器"""
 
-    # 常见板块关键词映射
-    SECTOR_KEYWORDS = {
-        "AI": ["人工智能", "ChatGPT", "AIGC", "大模型"],
-        "芯片": ["半导体", "芯片", "集成电路", "光刻"],
-        "新能源": ["锂电池", "储能", "光伏", "风电", "新能源汽车"],
-        "医药": ["生物医药", "医疗器械", "中药", "创新药"],
-        "军工": ["国防军工", "航天航空", "船舶"],
-        "数字经济": ["数字货币", "数据要素", "信创", "软件"],
-        "消费": ["食品饮料", "白酒", "旅游", "零售"],
+    # 板块名称归一化映射（f100返回的名称可能包含细分后缀，做归类）
+    SECTOR_GROUP_MAP = {
+        "人工智能": ["人工智能", "AI", "AIGC", "ChatGPT", "大模型", "机器学习"],
+        "半导体": ["半导体", "芯片", "集成电路", "光刻"],
+        "新能源": ["锂电池", "储能", "光伏", "风电", "新能源汽车", "新能源车"],
+        "医药": ["医药", "生物医药", "医疗器械", "中药", "创新药", "化学制药", "中药"],
+        "军工": ["国防军工", "航天航空", "船舶", "军工"],
+        "数字经济": ["数字货币", "数据要素", "信创", "软件", "数字经济", "云计算"],
+        "消费": ["食品饮料", "白酒", "旅游", "零售", "消费"],
+        "房地产": ["房地产", "地产"],
+        "汽车": ["汽车", "整车", "汽车零部件"],
+        "机器人": ["机器人", "自动化"],
+        "通信": ["通信", "5G", "6G", "通信设备"],
     }
 
     @staticmethod
+    def _normalize_sector(sector_raw: str) -> str:
+        """将f100返回的板块名称归一化到大类"""
+        if not sector_raw or sector_raw == "未知":
+            return "其他"
+        for group_name, keywords in SectorAnalyzer.SECTOR_GROUP_MAP.items():
+            for kw in keywords:
+                if kw in sector_raw:
+                    return group_name
+        # 如果没有匹配到任何大类，保留原始名称
+        return sector_raw
+
+    @staticmethod
     def analyze_hot_sectors(stocks: List[Dict]) -> Dict:
-        """分析热点板块"""
+        """分析热点板块（使用f100真实板块数据）"""
         if not stocks:
             return {"hot_sectors": [], "summary": "暂无涨停股"}
 
-        # 按涨停股数量统计板块
+        # 按涨停股数量统计板块（使用f100字段）
         sector_count = {}
         for stock in stocks:
-            name = stock.get("name", "")
-            # 简单关键词匹配（实际应该用API获取真实板块）
-            sector = SectorAnalyzer._guess_sector(name)
+            # 优先使用f100板块字段，fallback到名称匹配
+            sector_raw = stock.get("sector", "")
+            if sector_raw and sector_raw != "未知":
+                sector = SectorAnalyzer._normalize_sector(sector_raw)
+            else:
+                sector = SectorAnalyzer._guess_sector_by_name(stock.get("name", ""))
+
             if sector not in sector_count:
                 sector_count[sector] = {"count": 0, "stocks": [], "total_amount": 0}
             sector_count[sector]["count"] += 1
             sector_count[sector]["stocks"].append(stock)
             sector_count[sector]["total_amount"] += stock.get("amount", 0)
 
-        # 排序
+        # 排序：先按数量，再按总成交额
         sorted_sectors = sorted(
             sector_count.items(),
             key=lambda x: (x[1]["count"], x[1]["total_amount"]),
@@ -349,9 +397,9 @@ class SectorAnalyzer:
         }
 
     @staticmethod
-    def _guess_sector(stock_name: str) -> str:
-        """根据股票名称猜测板块（简化版）"""
-        for sector, keywords in SectorAnalyzer.SECTOR_KEYWORDS.items():
+    def _guess_sector_by_name(stock_name: str) -> str:
+        """根据股票名称猜测板块（f100无数据时的fallback）"""
+        for sector, keywords in SectorAnalyzer.SECTOR_GROUP_MAP.items():
             for kw in keywords:
                 if kw in stock_name:
                     return sector
@@ -637,12 +685,10 @@ class ReviewService:
         limit_down = MarketDataService.get_limit_down_stocks()
         indices = MarketDataService.get_market_index()
 
-        # 分析
-        dragon_analyzer = DragonAnalyzer()
-        sector_analyzer = SectorAnalyzer()
+        # 分析（直接调用静态方法）
         sentiment = SentimentAnalyzer.analyze_sentiment(len(limit_up), len(limit_down), indices)
-        sector_analysis = sector_analyzer.analyze_hot_sectors(limit_up)
-        dragon_analysis = dragon_analyzer.analyze_limit_up_stocks(limit_up)
+        sector_analysis = SectorAnalyzer.analyze_hot_sectors(limit_up)
+        dragon_analysis = DragonAnalyzer.analyze_limit_up_stocks(limit_up)
 
         review = f"""# 📋 每日复盘报告
 **日期：{date}**
@@ -732,7 +778,7 @@ class ReviewService:
 - 情绪指示：{sentiment['sentiment']}
 
 ---
-*由A股打板监控系统 v2.0 自动生成*
+*由A股打板监控系统 v2.1 自动生成*
 """
 
         return review
@@ -864,7 +910,7 @@ def main():
     import argparse
 
     logger.info("=" * 50)
-    logger.info("A股打板监控系统 v2.0 启动")
+    logger.info("A股打板监控系统 v2.1 启动")
     logger.info("=" * 50)
 
     # 支持两种格式：python monitor_v2.py --mode data / python monitor_v2.py data
@@ -892,7 +938,55 @@ def main():
         print(json.dumps(data, ensure_ascii=False, indent=2))
         return
 
-    # 监控模式
+    if mode == "auction":
+        # 竞价模式 - 推送竞价警告
+        logger.info("运行模式：竞价监控")
+        AuctionMonitor.push_auction_warning()
+        AuctionMonitor.push_auction_summary()
+        # 同时生成网页数据
+        DataService.save_realtime_data()
+        return
+
+    if mode == "close":
+        # 收盘模式 - 完整监控并保存数据
+        logger.info("运行模式：收盘统计")
+        limit_up = MarketDataService.get_limit_up_stocks()
+        limit_down = MarketDataService.get_limit_down_stocks()
+        indices = MarketDataService.get_market_index()
+
+        dragon_analyzer = DragonAnalyzer()
+        sector_analyzer = SectorAnalyzer()
+        sentiment = SentimentAnalyzer.analyze_sentiment(len(limit_up), len(limit_down), indices)
+        sector_analysis = sector_analyzer.analyze_hot_sectors(limit_up)
+        dragon_analysis = dragon_analyzer.analyze_limit_up_stocks(limit_up)
+
+        # 输出收盘报告
+        print("\n" + "=" * 60)
+        print(f"📊 收盘总结 | 情绪: {sentiment['level']} {sentiment['sentiment']}")
+        print(f"📈 涨停: {len(limit_up)} | 跌停: {len(limit_down)} | 涨跌停比: {sentiment['up_down_ratio']}")
+        print("=" * 60)
+
+        print("\n🔥 热点板块 TOP 5")
+        print("-" * 40)
+        for i, sector in enumerate(sector_analysis.get("hot_sectors", [])[:5], 1):
+            print(f"{i}. {sector['name']} ({sector['count']}只) - {sector['total_amount']}")
+
+        print("\n🐉 龙头股 TOP 10（按成交额）")
+        print("-" * 40)
+        for stock in dragon_analysis.get("top_volume_stocks", [])[:10]:
+            print(f"{stock['rank']:2}. {stock['name']}({stock['code']}) {stock['change']} {stock['amount']}")
+
+        # 保存数据
+        DataService.save_realtime_data()
+        logger.info("收盘数据已保存到 docs/data/realtime.json")
+
+        # 推送收盘报告
+        push_officer = PushOfficer()
+        for opp in dragon_analysis.get("opportunities", []):
+            push_officer.push_opportunity(opp)
+        return
+
+    # 默认监控模式
     logger.info("运行模式：实时监控")
 
     # 检查竞价阶段
