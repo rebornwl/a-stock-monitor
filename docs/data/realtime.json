@@ -1,26 +1,10 @@
 {
-  "update_time": "2026-04-08 07:12",
+  "update_time": "2026-04-08 07:53",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
+  "sentiment": "中性",
   "limit_up_count": 12,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "3995.0",
-      "change": 2.7
-    },
-    {
-      "name": "深证成指",
-      "price": "14042.5",
-      "change": 4.79
-    },
-    {
-      "name": "创业板",
-      "price": "3347.61",
-      "change": 5.91
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
       "name": "元件",
