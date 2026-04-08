@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-04-08 04:34",
+  "update_time": "2026-04-08 04:10",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 89,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 51,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3890.16",
-      "change": 0.26
+      "price": "3964.72",
+      "change": 1.92
     },
     {
       "name": "深证成指",
-      "price": "13400.41",
-      "change": 0.36
+      "price": "13919.13",
+      "change": 3.87
     },
     {
       "name": "创业板",
-      "price": "3160.82",
-      "change": 0.36
+      "price": "3312.71",
+      "change": 4.81
     }
   ],
   "hot_sectors": [
     {
-      "name": "化学原料",
-      "count": 11,
-      "total_amount": "53.68亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 8,
-      "total_amount": "26.61亿"
-    },
-    {
-      "name": "医药",
+      "name": "元件",
       "count": 6,
-      "total_amount": "51.52亿"
+      "total_amount": "52.33亿"
     },
     {
-      "name": "农化制品",
-      "count": 5,
-      "total_amount": "20.33亿"
+      "name": "消费",
+      "count": 3,
+      "total_amount": "26.86亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 3,
+      "total_amount": "11.71亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "10.33亿"
     },
     {
       "name": "通信",
-      "count": 4,
-      "total_amount": "33.76亿"
+      "count": 3,
+      "total_amount": "10.02亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "诺德股份",
-      "code": "600110",
-      "change": "+10.06%",
-      "amount": "33.64亿"
+      "name": "蓝色光标",
+      "code": "300058",
+      "change": "+20.01%",
+      "amount": "88.19亿"
     },
     {
-      "name": "国晟科技",
-      "code": "603778",
-      "change": "+10.01%",
-      "amount": "29.96亿"
+      "name": "杰瑞股份",
+      "code": "002353",
+      "change": "+10.00%",
+      "amount": "26.64亿"
     },
     {
-      "name": "通鼎互联",
-      "code": "002491",
+      "name": "N红板",
+      "code": "603459",
+      "change": "+216.84%",
+      "amount": "25.77亿"
+    },
+    {
+      "name": "神剑股份",
+      "code": "002361",
       "change": "+10.03%",
-      "amount": "25.01亿"
+      "amount": "24.39亿"
     },
     {
-      "name": "航天电器",
-      "code": "002025",
+      "name": "利通电子",
+      "code": "603629",
+      "change": "+10.00%",
+      "amount": "19.30亿"
+    },
+    {
+      "name": "世运电路",
+      "code": "603920",
       "change": "+10.01%",
-      "amount": "21.77亿"
+      "amount": "11.94亿"
     },
     {
-      "name": "鹭燕医药",
-      "code": "002788",
+      "name": "先导基电",
+      "code": "600641",
       "change": "+10.02%",
-      "amount": "16.18亿"
+      "amount": "11.66亿"
     },
     {
-      "name": "中稀有色",
-      "code": "600259",
+      "name": "科瑞技术",
+      "code": "002957",
       "change": "+10.01%",
-      "amount": "15.73亿"
+      "amount": "11.07亿"
     },
     {
-      "name": "中工国际",
-      "code": "002051",
-      "change": "+9.97%",
-      "amount": "15.35亿"
+      "name": "中安科",
+      "code": "600654",
+      "change": "+10.00%",
+      "amount": "10.49亿"
     },
     {
-      "name": "中体产业",
-      "code": "600158",
-      "change": "+10.01%",
-      "amount": "15.11亿"
-    },
-    {
-      "name": "舒华体育",
-      "code": "605299",
+      "name": "浙文互联",
+      "code": "600986",
       "change": "+10.02%",
-      "amount": "14.95亿"
-    },
-    {
-      "name": "深圳华强",
-      "code": "000062",
-      "change": "+10.01%",
-      "amount": "14.36亿"
+      "amount": "9.22亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "诺德股份 600110",
+      "stock": "蓝色光标 300058",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "国晟科技 603778",
+      "stock": "杰瑞股份 002353",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "通鼎互联 002491",
+      "stock": "N红板 603459",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
