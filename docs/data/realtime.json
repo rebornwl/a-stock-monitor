@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-04-08 06:14",
+  "update_time": "2026-04-08 07:12",
   "market_status": "休市",
   "sentiment": "极度亢奋",
-  "limit_up_count": 13,
+  "limit_up_count": 12,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3984.45",
-      "change": 2.42
+      "price": "3995.0",
+      "change": 2.7
     },
     {
       "name": "深证成指",
-      "price": "13993.4",
-      "change": 4.43
+      "price": "14042.5",
+      "change": 4.79
     },
     {
       "name": "创业板",
-      "price": "3333.11",
-      "change": 5.45
+      "price": "3347.61",
+      "change": 5.91
     }
   ],
   "hot_sectors": [
     {
       "name": "元件",
       "count": 2,
-      "total_amount": "35.40亿"
-    },
-    {
-      "name": "通信",
-      "count": 2,
-      "total_amount": "9.77亿"
+      "total_amount": "38.74亿"
     },
     {
       "name": "广告营销",
       "count": 1,
-      "total_amount": "89.73亿"
+      "total_amount": "90.34亿"
     },
     {
       "name": "其他电子Ⅱ",
       "count": 1,
-      "total_amount": "84.23亿"
+      "total_amount": "85.42亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 1,
+      "total_amount": "28.29亿"
     },
     {
       "name": "新能源",
       "count": 1,
-      "total_amount": "18.16亿"
+      "total_amount": "19.28亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "蓝色光标",
       "code": "300058",
       "change": "+20.01%",
-      "amount": "89.73亿"
+      "amount": "90.34亿"
     },
     {
       "name": "香农芯创",
       "code": "300475",
       "change": "+20.00%",
-      "amount": "84.23亿"
+      "amount": "85.42亿"
     },
     {
       "name": "N红板",
       "code": "603459",
-      "change": "+248.14%",
-      "amount": "32.15亿"
+      "change": "+225.99%",
+      "amount": "35.46亿"
+    },
+    {
+      "name": "芯碁微装",
+      "code": "688630",
+      "change": "+20.00%",
+      "amount": "28.29亿"
     },
     {
       "name": "飞沃科技",
       "code": "301232",
-      "change": "+19.52%",
-      "amount": "18.16亿"
+      "change": "+20.00%",
+      "amount": "19.28亿"
     },
     {
       "name": "电连技术",
       "code": "300679",
-      "change": "+19.51%",
-      "amount": "15.99亿"
+      "change": "+19.99%",
+      "amount": "17.81亿"
     },
     {
       "name": "开勒股份",
       "code": "301070",
       "change": "+20.00%",
-      "amount": "9.53亿"
+      "amount": "9.59亿"
     },
     {
       "name": "平治信息",
       "code": "300571",
       "change": "+19.99%",
-      "amount": "8.72亿"
+      "amount": "8.80亿"
     },
     {
       "name": "行云科技",
       "code": "300209",
       "change": "+20.02%",
-      "amount": "8.39亿"
-    },
-    {
-      "name": "冠捷科技",
-      "code": "000727",
-      "change": "+10.16%",
-      "amount": "5.62亿"
+      "amount": "8.56亿"
     },
     {
       "name": "九州一轨",
       "code": "688485",
       "change": "+19.99%",
-      "amount": "5.54亿"
+      "amount": "5.59亿"
     }
   ],
   "opportunities": [
