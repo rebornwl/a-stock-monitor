@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-08 08:10",
+  "update_time": "2026-04-09 04:05",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 42,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3965.7",
+      "change": -0.73
+    },
+    {
+      "name": "深证成指",
+      "price": "13999.55",
+      "change": -0.31
+    },
+    {
+      "name": "创业板",
+      "price": "3325.29",
+      "change": -0.67
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 4,
+      "total_amount": "24.61亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "24.08亿"
+    },
+    {
+      "name": "专业工程",
+      "count": 3,
+      "total_amount": "24.00亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "22.26亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "17.40亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "东山精密",
+      "code": "002384",
+      "change": "+10.00%",
+      "amount": "107.74亿"
+    },
+    {
+      "name": "巨力索具",
+      "code": "002342",
+      "change": "+10.02%",
+      "amount": "32.10亿"
+    },
+    {
+      "name": "航天电器",
+      "code": "002025",
+      "change": "+10.00%",
+      "amount": "18.84亿"
+    },
+    {
+      "name": "金安国纪",
+      "code": "002636",
+      "change": "+10.00%",
+      "amount": "18.82亿"
+    },
+    {
+      "name": "天通股份",
+      "code": "600330",
+      "change": "+9.99%",
+      "amount": "17.48亿"
+    },
+    {
+      "name": "恒铭达",
+      "code": "002947",
+      "change": "+10.00%",
+      "amount": "14.89亿"
+    },
+    {
+      "name": "飞龙股份",
+      "code": "002536",
+      "change": "+10.00%",
+      "amount": "14.40亿"
+    },
+    {
+      "name": "光智科技",
+      "code": "300489",
+      "change": "+20.00%",
+      "amount": "11.79亿"
+    },
+    {
+      "name": "亚翔集成",
+      "code": "603929",
+      "change": "+10.00%",
+      "amount": "11.04亿"
+    },
+    {
+      "name": "长江通信",
+      "code": "600345",
+      "change": "+9.99%",
+      "amount": "10.83亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "东山精密 002384",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "巨力索具 002342",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "航天电器 002025",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
