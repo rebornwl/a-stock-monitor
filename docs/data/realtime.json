@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-09 05:07",
+  "update_time": "2026-04-09 06:13",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 53,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3967.27",
+      "change": -0.69
+    },
+    {
+      "name": "深证成指",
+      "price": "14019.62",
+      "change": -0.16
+    },
+    {
+      "name": "创业板",
+      "price": "3330.9",
+      "change": -0.5
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 6,
+      "total_amount": "55.09亿"
+    },
+    {
+      "name": "通信",
+      "count": 5,
+      "total_amount": "156.24亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 5,
+      "total_amount": "78.82亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "26.20亿"
+    },
+    {
+      "name": "消费",
+      "count": 3,
+      "total_amount": "28.26亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "东山精密",
+      "code": "002384",
+      "change": "+10.00%",
+      "amount": "113.85亿"
+    },
+    {
+      "name": "光迅科技",
+      "code": "002281",
+      "change": "+10.00%",
+      "amount": "92.50亿"
+    },
+    {
+      "name": "巨力索具",
+      "code": "002342",
+      "change": "+10.02%",
+      "amount": "41.12亿"
+    },
+    {
+      "name": "特发信息",
+      "code": "000070",
+      "change": "+10.01%",
+      "amount": "34.77亿"
+    },
+    {
+      "name": "金安国纪",
+      "code": "002636",
+      "change": "+10.00%",
+      "amount": "21.78亿"
+    },
+    {
+      "name": "飞龙股份",
+      "code": "002536",
+      "change": "+10.00%",
+      "amount": "21.14亿"
+    },
+    {
+      "name": "航天电器",
+      "code": "002025",
+      "change": "+10.00%",
+      "amount": "19.96亿"
+    },
+    {
+      "name": "华懋科技",
+      "code": "603306",
+      "change": "+10.00%",
+      "amount": "19.04亿"
+    },
+    {
+      "name": "恒铭达",
+      "code": "002947",
+      "change": "+10.00%",
+      "amount": "18.91亿"
+    },
+    {
+      "name": "天通股份",
+      "code": "600330",
+      "change": "+9.99%",
+      "amount": "18.33亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "东山精密 002384",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "光迅科技 002281",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "巨力索具 002342",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
