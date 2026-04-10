@@ -1,116 +1,123 @@
 {
-  "update_time": "2026-04-10 04:53",
+  "update_time": "2026-04-10 05:23",
   "market_status": "休市",
   "sentiment": "极度亢奋",
-  "limit_up_count": 51,
+  "limit_up_count": 54,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3991.14",
-      "change": 0.63
+      "price": "3990.05",
+      "change": 0.6
     },
     {
       "name": "深证成指",
-      "price": "14239.89",
-      "change": 1.74
+      "price": "14288.5",
+      "change": 2.09
     },
     {
       "name": "创业板",
-      "price": "3410.39",
-      "change": 2.62
+      "price": "3430.29",
+      "change": 3.22
     }
   ],
   "hot_sectors": [
     {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "97.01亿"
+    },
+    {
+      "name": "电池",
+      "count": 3,
+      "total_amount": "92.54亿"
+    },
+    {
       "name": "光学光电子",
       "count": 3,
-      "total_amount": "24.21亿"
+      "total_amount": "24.62亿"
     },
     {
       "name": "新能源",
       "count": 3,
-      "total_amount": "22.13亿"
+      "total_amount": "23.21亿"
     },
     {
       "name": "医药",
       "count": 3,
-      "total_amount": "15.10亿"
-    },
-    {
-      "name": "消费",
-      "count": 3,
-      "total_amount": "9.38亿"
-    },
-    {
-      "name": "电池",
-      "count": 2,
-      "total_amount": "30.25亿"
+      "total_amount": "15.90亿"
     }
   ],
   "dragon_stocks": [
     {
+      "name": "永鼎股份",
+      "code": "600105",
+      "change": "+9.99%",
+      "amount": "75.93亿"
+    },
+    {
       "name": "国轩高科",
       "code": "002074",
       "change": "+10.01%",
-      "amount": "29.18亿"
+      "amount": "37.91亿"
     },
     {
-      "name": "N三瑞",
-      "code": "301696",
-      "change": "+277.80%",
-      "amount": "18.12亿"
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+9.80%",
+      "amount": "32.70亿"
+    },
+    {
+      "name": "石大胜华",
+      "code": "603026",
+      "change": "+10.00%",
+      "amount": "21.93亿"
     },
     {
       "name": "大东南",
       "code": "002263",
       "change": "+10.11%",
-      "amount": "17.39亿"
+      "amount": "19.52亿"
+    },
+    {
+      "name": "N三瑞",
+      "code": "301696",
+      "change": "+270.79%",
+      "amount": "19.01亿"
     },
     {
       "name": "中国动力",
       "code": "600482",
       "change": "+10.01%",
-      "amount": "13.87亿"
-    },
-    {
-      "name": "长江通信",
-      "code": "600345",
-      "change": "+10.00%",
-      "amount": "13.52亿"
+      "amount": "16.20亿"
     },
     {
       "name": "德业股份",
       "code": "605117",
       "change": "+10.00%",
-      "amount": "13.48亿"
+      "amount": "14.17亿"
+    },
+    {
+      "name": "长江通信",
+      "code": "600345",
+      "change": "+10.00%",
+      "amount": "13.63亿"
     },
     {
       "name": "沃格光电",
       "code": "603773",
       "change": "+9.99%",
-      "amount": "12.55亿"
-    },
-    {
-      "name": "盈峰环境",
-      "code": "000967",
-      "change": "+10.00%",
-      "amount": "10.10亿"
-    },
-    {
-      "name": "N有研",
-      "code": "688811",
-      "change": "+176.44%",
-      "amount": "9.41亿"
-    },
-    {
-      "name": "万泽股份",
-      "code": "000534",
-      "change": "+9.99%",
-      "amount": "9.31亿"
+      "amount": "12.72亿"
     }
   ],
   "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "永鼎股份 600105",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
     {
       "name": "打板机会",
       "stock": "国轩高科 002074",
@@ -120,14 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "N三瑞 301696",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "大东南 002263",
+      "stock": "圣阳股份 002580",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
