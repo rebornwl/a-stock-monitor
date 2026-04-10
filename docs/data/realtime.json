@@ -1,123 +1,116 @@
 {
-  "update_time": "2026-04-10 06:24",
+  "update_time": "2026-04-10 07:20",
   "market_status": "休市",
   "sentiment": "极度亢奋",
-  "limit_up_count": 68,
+  "limit_up_count": 63,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3992.93",
-      "change": 0.67
+      "price": "3986.22",
+      "change": 0.51
     },
     {
       "name": "深证成指",
-      "price": "14365.02",
-      "change": 2.63
+      "price": "14309.47",
+      "change": 2.24
     },
     {
       "name": "创业板",
-      "price": "3468.37",
-      "change": 4.37
+      "price": "3448.79",
+      "change": 3.78
     }
   ],
   "hot_sectors": [
     {
       "name": "汽车",
       "count": 5,
-      "total_amount": "21.26亿"
+      "total_amount": "21.96亿"
     },
     {
       "name": "电池",
       "count": 4,
-      "total_amount": "108.37亿"
-    },
-    {
-      "name": "元件",
-      "count": 3,
-      "total_amount": "250.74亿"
+      "total_amount": "110.33亿"
     },
     {
       "name": "通信",
       "count": 3,
-      "total_amount": "104.00亿"
+      "total_amount": "105.98亿"
     },
     {
       "name": "其他电子Ⅱ",
       "count": 3,
-      "total_amount": "43.57亿"
+      "total_amount": "48.15亿"
+    },
+    {
+      "name": "新能源",
+      "count": 3,
+      "total_amount": "27.21亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "东山精密",
-      "code": "002384",
-      "change": "+10.00%",
-      "amount": "178.42亿"
-    },
-    {
       "name": "德明利",
       "code": "001309",
       "change": "+10.00%",
-      "amount": "91.22亿"
+      "amount": "101.90亿"
     },
     {
       "name": "永鼎股份",
       "code": "600105",
       "change": "+9.99%",
-      "amount": "82.63亿"
-    },
-    {
-      "name": "深南电路",
-      "code": "002916",
-      "change": "+10.00%",
-      "amount": "48.84亿"
+      "amount": "84.24亿"
     },
     {
       "name": "国轩高科",
       "code": "002074",
       "change": "+10.01%",
-      "amount": "39.18亿"
-    },
-    {
-      "name": "圣阳股份",
-      "code": "002580",
-      "change": "+10.03%",
-      "amount": "34.50亿"
+      "amount": "40.36亿"
     },
     {
       "name": "英唐智控",
       "code": "300131",
       "change": "+20.00%",
-      "amount": "33.38亿"
+      "amount": "37.81亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.03%",
+      "amount": "34.65亿"
     },
     {
       "name": "西藏矿业",
       "code": "000762",
       "change": "+10.00%",
-      "amount": "26.37亿"
+      "amount": "27.37亿"
     },
     {
       "name": "C红板",
       "code": "603459",
-      "change": "+12.04%",
-      "amount": "23.48亿"
+      "change": "+9.57%",
+      "amount": "27.24亿"
+    },
+    {
+      "name": "N三瑞",
+      "code": "301696",
+      "change": "+272.77%",
+      "amount": "23.11亿"
     },
     {
       "name": "石大胜华",
       "code": "603026",
       "change": "+10.00%",
-      "amount": "22.64亿"
+      "amount": "22.93亿"
+    },
+    {
+      "name": "大东南",
+      "code": "002263",
+      "change": "+10.11%",
+      "amount": "20.23亿"
     }
   ],
   "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "东山精密 002384",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
     {
       "name": "打板机会",
       "stock": "德明利 001309",
@@ -128,6 +121,13 @@
     {
       "name": "打板机会",
       "stock": "永鼎股份 600105",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "国轩高科 002074",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
