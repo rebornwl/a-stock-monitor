@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-04-09 08:17",
+  "update_time": "2026-04-10 04:21",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 56,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 51,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3966.17",
-      "change": -0.72
+      "price": "3991.14",
+      "change": 0.63
     },
     {
       "name": "深证成指",
-      "price": "13996.27",
-      "change": -0.33
+      "price": "14239.89",
+      "change": 1.74
     },
     {
       "name": "创业板",
-      "price": "3323.3",
-      "change": -0.73
+      "price": "3410.39",
+      "change": 2.62
     }
   ],
   "hot_sectors": [
     {
-      "name": "通信",
-      "count": 6,
-      "total_amount": "240.01亿"
-    },
-    {
-      "name": "汽车",
-      "count": 6,
-      "total_amount": "57.64亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "80.27亿"
-    },
-    {
       "name": "光学光电子",
-      "count": 4,
-      "total_amount": "26.74亿"
+      "count": 3,
+      "total_amount": "24.21亿"
+    },
+    {
+      "name": "新能源",
+      "count": 3,
+      "total_amount": "22.13亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "15.10亿"
     },
     {
       "name": "消费",
       "count": 3,
-      "total_amount": "29.67亿"
+      "total_amount": "9.38亿"
+    },
+    {
+      "name": "电池",
+      "count": 2,
+      "total_amount": "30.25亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "东山精密",
-      "code": "002384",
-      "change": "+10.00%",
-      "amount": "122.50亿"
-    },
-    {
-      "name": "光迅科技",
-      "code": "002281",
-      "change": "+10.00%",
-      "amount": "93.81亿"
-    },
-    {
-      "name": "长飞光纤",
-      "code": "601869",
-      "change": "+10.00%",
-      "amount": "80.99亿"
-    },
-    {
-      "name": "巨力索具",
-      "code": "002342",
-      "change": "+10.02%",
-      "amount": "41.59亿"
-    },
-    {
-      "name": "特发信息",
-      "code": "000070",
+      "name": "国轩高科",
+      "code": "002074",
       "change": "+10.01%",
-      "amount": "35.91亿"
+      "amount": "29.18亿"
     },
     {
-      "name": "金安国纪",
-      "code": "002636",
+      "name": "N三瑞",
+      "code": "301696",
+      "change": "+277.80%",
+      "amount": "18.12亿"
+    },
+    {
+      "name": "大东南",
+      "code": "002263",
+      "change": "+10.11%",
+      "amount": "17.39亿"
+    },
+    {
+      "name": "中国动力",
+      "code": "600482",
+      "change": "+10.01%",
+      "amount": "13.87亿"
+    },
+    {
+      "name": "长江通信",
+      "code": "600345",
       "change": "+10.00%",
-      "amount": "22.95亿"
+      "amount": "13.52亿"
     },
     {
-      "name": "飞龙股份",
-      "code": "002536",
+      "name": "德业股份",
+      "code": "605117",
       "change": "+10.00%",
-      "amount": "21.70亿"
+      "amount": "13.48亿"
     },
     {
-      "name": "大为股份",
-      "code": "002213",
-      "change": "+10.02%",
-      "amount": "20.83亿"
+      "name": "沃格光电",
+      "code": "603773",
+      "change": "+9.99%",
+      "amount": "12.55亿"
     },
     {
-      "name": "华懋科技",
-      "code": "603306",
+      "name": "盈峰环境",
+      "code": "000967",
       "change": "+10.00%",
-      "amount": "20.59亿"
+      "amount": "10.10亿"
     },
     {
-      "name": "航天电器",
-      "code": "002025",
-      "change": "+10.00%",
-      "amount": "20.46亿"
+      "name": "N有研",
+      "code": "688811",
+      "change": "+176.44%",
+      "amount": "9.41亿"
+    },
+    {
+      "name": "万泽股份",
+      "code": "000534",
+      "change": "+9.99%",
+      "amount": "9.31亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "东山精密 002384",
+      "stock": "国轩高科 002074",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "光迅科技 002281",
+      "stock": "N三瑞 301696",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "长飞光纤 601869",
+      "stock": "大东南 002263",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
