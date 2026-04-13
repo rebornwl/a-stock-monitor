@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-04-13 05:20",
+  "update_time": "2026-04-13 05:38",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 53,
+  "sentiment": "偏强",
+  "limit_up_count": 56,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3981.97",
-      "change": -0.11
+      "price": "3988.94",
+      "change": 0.07
     },
     {
       "name": "深证成指",
-      "price": "14377.7",
-      "change": 0.48
+      "price": "14421.14",
+      "change": 0.78
     },
     {
       "name": "创业板",
-      "price": "3471.11",
-      "change": 0.65
+      "price": "3485.75",
+      "change": 1.07
     }
   ],
   "hot_sectors": [
     {
+      "name": "电力",
+      "count": 4,
+      "total_amount": "31.92亿"
+    },
+    {
       "name": "玻璃玻纤",
       "count": 3,
-      "total_amount": "79.74亿"
+      "total_amount": "81.15亿"
     },
     {
       "name": "通信",
       "count": 3,
-      "total_amount": "42.24亿"
+      "total_amount": "42.99亿"
     },
     {
-      "name": "电力",
+      "name": "汽车",
       "count": 3,
-      "total_amount": "25.98亿"
-    },
-    {
-      "name": "房地产",
-      "count": 3,
-      "total_amount": "25.15亿"
+      "total_amount": "29.53亿"
     },
     {
       "name": "数字经济",
       "count": 3,
-      "total_amount": "18.91亿"
+      "total_amount": "18.98亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "中国巨石",
       "code": "600176",
       "change": "+10.00%",
-      "amount": "34.07亿"
+      "amount": "35.19亿"
     },
     {
       "name": "中材科技",
       "code": "002080",
       "change": "+10.00%",
-      "amount": "30.29亿"
+      "amount": "30.47亿"
     },
     {
       "name": "盛新锂能",
       "code": "002240",
       "change": "+10.00%",
-      "amount": "28.55亿"
+      "amount": "29.04亿"
     },
     {
       "name": "二六三",
       "code": "002467",
       "change": "+10.07%",
-      "amount": "25.85亿"
+      "amount": "26.42亿"
     },
     {
       "name": "C红板",
       "code": "603459",
-      "change": "+12.87%",
-      "amount": "25.58亿"
+      "change": "+14.74%",
+      "amount": "26.33亿"
     },
     {
       "name": "福田汽车",
       "code": "600166",
       "change": "+9.88%",
-      "amount": "21.93亿"
+      "amount": "22.47亿"
     },
     {
       "name": "圣阳股份",
       "code": "002580",
       "change": "+10.01%",
-      "amount": "20.59亿"
+      "amount": "20.61亿"
     },
     {
       "name": "C三瑞",
       "code": "301696",
-      "change": "+25.43%",
-      "amount": "19.55亿"
+      "change": "+24.13%",
+      "amount": "20.17亿"
+    },
+    {
+      "name": "通威股份",
+      "code": "600438",
+      "change": "+10.01%",
+      "amount": "17.30亿"
     },
     {
       "name": "华电辽能",
       "code": "600396",
       "change": "+9.94%",
-      "amount": "16.87亿"
-    },
-    {
-      "name": "宏和科技",
-      "code": "603256",
-      "change": "+10.00%",
-      "amount": "15.38亿"
+      "amount": "16.90亿"
     }
   ],
   "opportunities": [
