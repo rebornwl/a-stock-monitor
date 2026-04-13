@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-04-10 08:19",
+  "update_time": "2026-04-13 04:32",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 63,
+  "sentiment": "中性",
+  "limit_up_count": 45,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3986.22",
-      "change": 0.51
+      "price": "3979.26",
+      "change": -0.17
     },
     {
       "name": "深证成指",
-      "price": "14309.47",
-      "change": 2.24
+      "price": "14336.51",
+      "change": 0.19
     },
     {
       "name": "创业板",
-      "price": "3448.79",
-      "change": 3.78
+      "price": "3462.2",
+      "change": 0.39
     }
   ],
   "hot_sectors": [
     {
-      "name": "汽车",
-      "count": 5,
-      "total_amount": "21.96亿"
-    },
-    {
-      "name": "电池",
-      "count": 4,
-      "total_amount": "110.33亿"
+      "name": "玻璃玻纤",
+      "count": 3,
+      "total_amount": "78.50亿"
     },
     {
       "name": "通信",
       "count": 3,
-      "total_amount": "105.98亿"
+      "total_amount": "38.43亿"
     },
     {
-      "name": "其他电子Ⅱ",
+      "name": "房地产",
       "count": 3,
-      "total_amount": "48.15亿"
+      "total_amount": "24.76亿"
     },
     {
-      "name": "新能源",
+      "name": "数字经济",
       "count": 3,
-      "total_amount": "27.21亿"
+      "total_amount": "18.74亿"
+    },
+    {
+      "name": "元件",
+      "count": 2,
+      "total_amount": "35.54亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "德明利",
-      "code": "001309",
+      "name": "中国巨石",
+      "code": "600176",
       "change": "+10.00%",
-      "amount": "101.90亿"
+      "amount": "33.44亿"
     },
     {
-      "name": "永鼎股份",
-      "code": "600105",
-      "change": "+9.99%",
-      "amount": "84.24亿"
-    },
-    {
-      "name": "国轩高科",
-      "code": "002074",
-      "change": "+10.01%",
-      "amount": "40.36亿"
-    },
-    {
-      "name": "英唐智控",
-      "code": "300131",
-      "change": "+20.00%",
-      "amount": "37.81亿"
-    },
-    {
-      "name": "圣阳股份",
-      "code": "002580",
-      "change": "+10.03%",
-      "amount": "34.65亿"
-    },
-    {
-      "name": "西藏矿业",
-      "code": "000762",
+      "name": "中材科技",
+      "code": "002080",
       "change": "+10.00%",
-      "amount": "27.37亿"
+      "amount": "29.83亿"
     },
     {
       "name": "C红板",
       "code": "603459",
-      "change": "+9.57%",
-      "amount": "27.24亿"
+      "change": "+17.90%",
+      "amount": "24.20亿"
     },
     {
-      "name": "N三瑞",
+      "name": "二六三",
+      "code": "002467",
+      "change": "+10.07%",
+      "amount": "22.24亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.01%",
+      "amount": "20.53亿"
+    },
+    {
+      "name": "C三瑞",
       "code": "301696",
-      "change": "+272.77%",
-      "amount": "23.11亿"
+      "change": "+28.89%",
+      "amount": "17.94亿"
     },
     {
-      "name": "石大胜华",
-      "code": "603026",
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+9.94%",
+      "amount": "16.74亿"
+    },
+    {
+      "name": "宏和科技",
+      "code": "603256",
       "change": "+10.00%",
-      "amount": "22.93亿"
+      "amount": "15.23亿"
     },
     {
-      "name": "大东南",
-      "code": "002263",
-      "change": "+10.11%",
-      "amount": "20.23亿"
+      "name": "长源东谷",
+      "code": "603950",
+      "change": "+10.01%",
+      "amount": "14.26亿"
+    },
+    {
+      "name": "万通发展",
+      "code": "600246",
+      "change": "+9.97%",
+      "amount": "12.98亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "德明利 001309",
+      "stock": "中国巨石 600176",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "永鼎股份 600105",
+      "stock": "中材科技 002080",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "国轩高科 002074",
+      "stock": "C红板 603459",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
