@@ -1,116 +1,123 @@
 {
-  "update_time": "2026-04-13 05:38",
+  "update_time": "2026-04-13 07:07",
   "market_status": "休市",
   "sentiment": "偏强",
-  "limit_up_count": 56,
+  "limit_up_count": 62,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3988.94",
-      "change": 0.07
+      "price": "3988.56",
+      "change": 0.06
     },
     {
       "name": "深证成指",
-      "price": "14421.14",
-      "change": 0.78
+      "price": "14407.86",
+      "change": 0.69
     },
     {
       "name": "创业板",
-      "price": "3485.75",
-      "change": 1.07
+      "price": "3476.44",
+      "change": 0.8
     }
   ],
   "hot_sectors": [
     {
       "name": "电力",
+      "count": 5,
+      "total_amount": "47.62亿"
+    },
+    {
+      "name": "通信",
       "count": 4,
-      "total_amount": "31.92亿"
+      "total_amount": "61.82亿"
+    },
+    {
+      "name": "汽车",
+      "count": 4,
+      "total_amount": "36.15亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "93.09亿"
     },
     {
       "name": "玻璃玻纤",
       "count": 3,
-      "total_amount": "81.15亿"
-    },
-    {
-      "name": "通信",
-      "count": 3,
-      "total_amount": "42.99亿"
-    },
-    {
-      "name": "汽车",
-      "count": 3,
-      "total_amount": "29.53亿"
-    },
-    {
-      "name": "数字经济",
-      "count": 3,
-      "total_amount": "18.98亿"
+      "total_amount": "84.64亿"
     }
   ],
   "dragon_stocks": [
     {
+      "name": "兴森科技",
+      "code": "002436",
+      "change": "+9.98%",
+      "amount": "49.47亿"
+    },
+    {
       "name": "中国巨石",
       "code": "600176",
       "change": "+10.00%",
-      "amount": "35.19亿"
+      "amount": "37.69亿"
+    },
+    {
+      "name": "C红板",
+      "code": "603459",
+      "change": "+14.05%",
+      "amount": "31.95亿"
     },
     {
       "name": "中材科技",
       "code": "002080",
       "change": "+10.00%",
-      "amount": "30.47亿"
+      "amount": "31.13亿"
     },
     {
       "name": "盛新锂能",
       "code": "002240",
       "change": "+10.00%",
-      "amount": "29.04亿"
+      "amount": "30.09亿"
     },
     {
       "name": "二六三",
       "code": "002467",
       "change": "+10.07%",
-      "amount": "26.42亿"
-    },
-    {
-      "name": "C红板",
-      "code": "603459",
-      "change": "+14.74%",
-      "amount": "26.33亿"
+      "amount": "27.31亿"
     },
     {
       "name": "福田汽车",
       "code": "600166",
       "change": "+9.88%",
-      "amount": "22.47亿"
+      "amount": "25.48亿"
+    },
+    {
+      "name": "C三瑞",
+      "code": "301696",
+      "change": "+28.80%",
+      "amount": "23.74亿"
     },
     {
       "name": "圣阳股份",
       "code": "002580",
       "change": "+10.01%",
-      "amount": "20.61亿"
+      "amount": "20.75亿"
     },
     {
-      "name": "C三瑞",
-      "code": "301696",
-      "change": "+24.13%",
-      "amount": "20.17亿"
-    },
-    {
-      "name": "通威股份",
-      "code": "600438",
+      "name": "铭普光磁",
+      "code": "002902",
       "change": "+10.01%",
-      "amount": "17.30亿"
-    },
-    {
-      "name": "华电辽能",
-      "code": "600396",
-      "change": "+9.94%",
-      "amount": "16.90亿"
+      "amount": "17.56亿"
     }
   ],
   "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "兴森科技 002436",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
     {
       "name": "打板机会",
       "stock": "中国巨石 600176",
@@ -120,14 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "中材科技 002080",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "盛新锂能 002240",
+      "stock": "C红板 603459",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
