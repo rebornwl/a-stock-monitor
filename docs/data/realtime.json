@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-04-14 08:08",
+  "update_time": "2026-04-14 08:25",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 57,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,116 +21,7 @@
       "change": 2.36
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "消费",
-      "count": 5,
-      "total_amount": "78.13亿"
-    },
-    {
-      "name": "电池",
-      "count": 4,
-      "total_amount": "95.57亿"
-    },
-    {
-      "name": "房地产",
-      "count": 4,
-      "total_amount": "14.73亿"
-    },
-    {
-      "name": "医药",
-      "count": 3,
-      "total_amount": "16.21亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 3,
-      "total_amount": "9.17亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "沪电股份",
-      "code": "002463",
-      "change": "+10.00%",
-      "amount": "89.99亿"
-    },
-    {
-      "name": "协创数据",
-      "code": "300857",
-      "change": "+20.00%",
-      "amount": "42.21亿"
-    },
-    {
-      "name": "圣阳股份",
-      "code": "002580",
-      "change": "+10.01%",
-      "amount": "39.26亿"
-    },
-    {
-      "name": "中恒电气",
-      "code": "002364",
-      "change": "+9.99%",
-      "amount": "36.30亿"
-    },
-    {
-      "name": "宏和科技",
-      "code": "603256",
-      "change": "+9.74%",
-      "amount": "34.44亿"
-    },
-    {
-      "name": "西部材料",
-      "code": "002149",
-      "change": "+10.01%",
-      "amount": "33.77亿"
-    },
-    {
-      "name": "晶科科技",
-      "code": "601778",
-      "change": "+10.04%",
-      "amount": "32.92亿"
-    },
-    {
-      "name": "海科新源",
-      "code": "301292",
-      "change": "+20.00%",
-      "amount": "31.26亿"
-    },
-    {
-      "name": "盈峰环境",
-      "code": "000967",
-      "change": "+9.97%",
-      "amount": "30.98亿"
-    },
-    {
-      "name": "腾远钴业",
-      "code": "301219",
-      "change": "+20.00%",
-      "amount": "29.10亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "沪电股份 002463",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "协创数据 300857",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "圣阳股份 002580",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
