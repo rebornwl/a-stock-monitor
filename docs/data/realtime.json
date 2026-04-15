@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-04-15 05:21",
+  "update_time": "2026-04-15 06:25",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 52,
+  "sentiment": "偏弱",
+  "limit_up_count": 58,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4038.24",
-      "change": 0.29
+      "price": "4028.05",
+      "change": 0.04
     },
     {
       "name": "深证成指",
-      "price": "14588.34",
-      "change": -0.35
+      "price": "14479.6",
+      "change": -1.1
     },
     {
       "name": "创业板",
-      "price": "3546.16",
-      "change": -0.35
+      "price": "3505.14",
+      "change": -1.5
     }
   ],
   "hot_sectors": [
     {
       "name": "医药",
-      "count": 9,
-      "total_amount": "86.77亿"
+      "count": 13,
+      "total_amount": "155.57亿"
     },
     {
       "name": "消费",
       "count": 7,
-      "total_amount": "77.13亿"
+      "total_amount": "80.89亿"
     },
     {
       "name": "电网设备",
       "count": 4,
-      "total_amount": "38.09亿"
+      "total_amount": "43.51亿"
     },
     {
       "name": "塑料",
       "count": 3,
-      "total_amount": "57.14亿"
+      "total_amount": "58.33亿"
     },
     {
       "name": "专业工程",
       "count": 2,
-      "total_amount": "19.10亿"
+      "total_amount": "20.84亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "神剑股份",
       "code": "002361",
       "change": "+10.03%",
-      "amount": "52.70亿"
+      "amount": "53.80亿"
     },
     {
       "name": "利通电子",
       "code": "603629",
       "change": "+10.01%",
-      "amount": "35.97亿"
+      "amount": "36.70亿"
+    },
+    {
+      "name": "美诺华",
+      "code": "603538",
+      "change": "+9.58%",
+      "amount": "34.92亿"
     },
     {
       "name": "圣阳股份",
       "code": "002580",
       "change": "+10.01%",
-      "amount": "26.81亿"
+      "amount": "26.94亿"
     },
     {
       "name": "禾望电气",
       "code": "603063",
       "change": "+10.01%",
-      "amount": "23.61亿"
+      "amount": "24.44亿"
     },
     {
       "name": "哈药股份",
       "code": "600664",
       "change": "+9.90%",
-      "amount": "19.51亿"
+      "amount": "19.61亿"
     },
     {
       "name": "红板科技",
       "code": "603459",
       "change": "+10.00%",
-      "amount": "16.69亿"
+      "amount": "16.93亿"
+    },
+    {
+      "name": "津药药业",
+      "code": "600488",
+      "change": "+9.97%",
+      "amount": "15.49亿"
     },
     {
       "name": "博瑞医药",
       "code": "688166",
       "change": "+20.00%",
-      "amount": "14.48亿"
+      "amount": "15.03亿"
     },
     {
-      "name": "汉缆股份",
-      "code": "002498",
-      "change": "+9.96%",
-      "amount": "13.63亿"
-    },
-    {
-      "name": "吉比特",
-      "code": "603444",
-      "change": "+10.00%",
-      "amount": "13.20亿"
-    },
-    {
-      "name": "中工国际",
-      "code": "002051",
-      "change": "+9.98%",
-      "amount": "12.71亿"
+      "name": "华盛昌",
+      "code": "002980",
+      "change": "+9.99%",
+      "amount": "14.79亿"
     }
   ],
   "opportunities": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "圣阳股份 002580",
+      "stock": "美诺华 603538",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
