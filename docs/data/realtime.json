@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-15 04:30",
+  "update_time": "2026-04-15 04:51",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 45,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4041.45",
+      "change": 0.37
+    },
+    {
+      "name": "深证成指",
+      "price": "14603.61",
+      "change": -0.25
+    },
+    {
+      "name": "创业板",
+      "price": "3550.25",
+      "change": -0.23
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 8,
+      "total_amount": "71.27亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "34.57亿"
+    },
+    {
+      "name": "塑料",
+      "count": 3,
+      "total_amount": "56.67亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "29.27亿"
+    },
+    {
+      "name": "专业工程",
+      "count": 2,
+      "total_amount": "18.79亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "神剑股份",
+      "code": "002361",
+      "change": "+10.03%",
+      "amount": "52.27亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.01%",
+      "amount": "26.74亿"
+    },
+    {
+      "name": "禾望电气",
+      "code": "603063",
+      "change": "+9.75%",
+      "amount": "21.70亿"
+    },
+    {
+      "name": "哈药股份",
+      "code": "600664",
+      "change": "+9.90%",
+      "amount": "19.27亿"
+    },
+    {
+      "name": "红板科技",
+      "code": "603459",
+      "change": "+10.00%",
+      "amount": "16.61亿"
+    },
+    {
+      "name": "汉缆股份",
+      "code": "002498",
+      "change": "+9.96%",
+      "amount": "13.33亿"
+    },
+    {
+      "name": "吉比特",
+      "code": "603444",
+      "change": "+10.00%",
+      "amount": "12.84亿"
+    },
+    {
+      "name": "中工国际",
+      "code": "002051",
+      "change": "+9.98%",
+      "amount": "12.55亿"
+    },
+    {
+      "name": "博瑞医药",
+      "code": "688166",
+      "change": "+20.00%",
+      "amount": "12.38亿"
+    },
+    {
+      "name": "春秋电子",
+      "code": "603890",
+      "change": "+9.99%",
+      "amount": "11.85亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "神剑股份 002361",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "圣阳股份 002580",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "禾望电气 603063",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
