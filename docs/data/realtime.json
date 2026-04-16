@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-04-16 04:57",
+  "update_time": "2026-04-16 05:28",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 59,
+  "sentiment": "偏强",
+  "limit_up_count": 68,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4048.64",
-      "change": 0.53
+      "price": "4041.74",
+      "change": 0.36
     },
     {
       "name": "深证成指",
-      "price": "14743.22",
-      "change": 1.69
+      "price": "14717.9",
+      "change": 1.51
     },
     {
       "name": "创业板",
-      "price": "3608.52",
-      "change": 2.66
+      "price": "3602.36",
+      "change": 2.49
     }
   ],
   "hot_sectors": [
     {
       "name": "IT服务Ⅱ",
       "count": 4,
-      "total_amount": "53.23亿"
+      "total_amount": "28.92亿"
+    },
+    {
+      "name": "环境治理",
+      "count": 4,
+      "total_amount": "15.28亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "56.46亿"
     },
     {
       "name": "电池",
       "count": 3,
-      "total_amount": "32.51亿"
+      "total_amount": "33.76亿"
     },
     {
-      "name": "环境治理",
+      "name": "消费",
       "count": 3,
-      "total_amount": "10.48亿"
-    },
-    {
-      "name": "化学纤维",
-      "count": 3,
-      "total_amount": "6.67亿"
-    },
-    {
-      "name": "光学光电子",
-      "count": 2,
-      "total_amount": "83.29亿"
+      "total_amount": "22.31亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "中钨高新",
       "code": "000657",
       "change": "+10.00%",
-      "amount": "59.02亿"
+      "amount": "60.14亿"
     },
     {
-      "name": "长信科技",
-      "code": "300088",
-      "change": "+19.97%",
-      "amount": "46.78亿"
+      "name": "东方电气",
+      "code": "600875",
+      "change": "+9.99%",
+      "amount": "59.13亿"
+    },
+    {
+      "name": "厦门钨业",
+      "code": "600549",
+      "change": "+10.01%",
+      "amount": "54.43亿"
     },
     {
       "name": "N大普微-UW",
       "code": "301666",
-      "change": "+393.84%",
-      "amount": "38.33亿"
+      "change": "+402.78%",
+      "amount": "40.75亿"
     },
     {
       "name": "奥瑞德",
       "code": "600666",
       "change": "+9.95%",
-      "amount": "36.52亿"
-    },
-    {
-      "name": "利通电子",
-      "code": "603629",
-      "change": "+10.01%",
-      "amount": "35.12亿"
+      "amount": "36.88亿"
     },
     {
       "name": "大族激光",
       "code": "002008",
-      "change": "+9.82%",
-      "amount": "31.76亿"
-    },
-    {
-      "name": "宏景科技",
-      "code": "301396",
-      "change": "+19.69%",
-      "amount": "30.01亿"
+      "change": "+10.00%",
+      "amount": "35.91亿"
     },
     {
       "name": "鼎通科技",
       "code": "688668",
       "change": "+20.00%",
-      "amount": "25.06亿"
+      "amount": "25.44亿"
+    },
+    {
+      "name": "大胜达",
+      "code": "603687",
+      "change": "+9.98%",
+      "amount": "25.22亿"
+    },
+    {
+      "name": "中贝通信",
+      "code": "603220",
+      "change": "+9.92%",
+      "amount": "24.53亿"
     },
     {
       "name": "申通快递",
       "code": "002468",
       "change": "+10.01%",
-      "amount": "21.59亿"
-    },
-    {
-      "name": "博云新材",
-      "code": "002297",
-      "change": "+9.99%",
-      "amount": "20.46亿"
+      "amount": "22.81亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "长信科技 300088",
+      "stock": "东方电气 600875",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "N大普微-UW 301666",
+      "stock": "厦门钨业 600549",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
