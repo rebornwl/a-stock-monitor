@@ -1,35 +1,51 @@
 {
-  "update_time": "2026-04-16 06:27",
+  "update_time": "2026-04-16 07:25",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 73,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 70,
   "limit_down_count": 0,
-  "indices": [],
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4055.55",
+      "change": 0.7
+    },
+    {
+      "name": "深证成指",
+      "price": "14796.33",
+      "change": 2.05
+    },
+    {
+      "name": "创业板",
+      "price": "3626.27",
+      "change": 3.17
+    }
+  ],
   "hot_sectors": [
     {
       "name": "通信",
-      "count": 5,
-      "total_amount": "118.05亿"
+      "count": 6,
+      "total_amount": "159.16亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 4,
+      "total_amount": "68.56亿"
     },
     {
       "name": "电池",
       "count": 4,
-      "total_amount": "35.52亿"
-    },
-    {
-      "name": "IT服务Ⅱ",
-      "count": 3,
-      "total_amount": "26.50亿"
-    },
-    {
-      "name": "消费",
-      "count": 3,
-      "total_amount": "22.92亿"
+      "total_amount": "36.16亿"
     },
     {
       "name": "其他电子Ⅱ",
       "count": 3,
-      "total_amount": "17.43亿"
+      "total_amount": "17.66亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "13.51亿"
     }
   ],
   "dragon_stocks": [
@@ -37,61 +53,61 @@
       "name": "东方电气",
       "code": "600875",
       "change": "+9.99%",
-      "amount": "62.07亿"
+      "amount": "62.64亿"
     },
     {
       "name": "中钨高新",
       "code": "000657",
       "change": "+10.00%",
-      "amount": "60.84亿"
+      "amount": "61.31亿"
     },
     {
       "name": "厦门钨业",
       "code": "600549",
       "change": "+10.01%",
-      "amount": "58.31亿"
+      "amount": "59.08亿"
+    },
+    {
+      "name": "晶科科技",
+      "code": "601778",
+      "change": "+10.08%",
+      "amount": "49.00亿"
     },
     {
       "name": "N大普微-UW",
       "code": "301666",
-      "change": "+416.49%",
-      "amount": "44.97亿"
-    },
-    {
-      "name": "大族激光",
-      "code": "002008",
-      "change": "+10.00%",
-      "amount": "42.23亿"
+      "change": "+430.71%",
+      "amount": "48.64亿"
     },
     {
       "name": "特发信息",
       "code": "000070",
       "change": "+10.01%",
-      "amount": "41.69亿"
+      "amount": "42.71亿"
     },
     {
-      "name": "奥瑞德",
-      "code": "600666",
-      "change": "+9.95%",
-      "amount": "37.26亿"
+      "name": "大族激光",
+      "code": "002008",
+      "change": "+10.00%",
+      "amount": "42.61亿"
+    },
+    {
+      "name": "宏景科技",
+      "code": "301396",
+      "change": "+20.00%",
+      "amount": "41.60亿"
+    },
+    {
+      "name": "通鼎互联",
+      "code": "002491",
+      "change": "+10.00%",
+      "amount": "38.98亿"
     },
     {
       "name": "西藏矿业",
       "code": "000762",
       "change": "+9.99%",
-      "amount": "27.69亿"
-    },
-    {
-      "name": "中贝通信",
-      "code": "603220",
-      "change": "+9.99%",
-      "amount": "26.88亿"
-    },
-    {
-      "name": "鼎通科技",
-      "code": "688668",
-      "change": "+20.00%",
-      "amount": "25.74亿"
+      "amount": "27.97亿"
     }
   ],
   "opportunities": [
