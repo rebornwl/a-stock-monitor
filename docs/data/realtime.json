@@ -1,126 +1,110 @@
 {
-  "update_time": "2026-04-16 05:28",
+  "update_time": "2026-04-16 06:27",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 68,
+  "sentiment": "中性",
+  "limit_up_count": 73,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "4041.74",
-      "change": 0.36
-    },
-    {
-      "name": "深证成指",
-      "price": "14717.9",
-      "change": 1.51
-    },
-    {
-      "name": "创业板",
-      "price": "3602.36",
-      "change": 2.49
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
-      "name": "IT服务Ⅱ",
-      "count": 4,
-      "total_amount": "28.92亿"
-    },
-    {
-      "name": "环境治理",
-      "count": 4,
-      "total_amount": "15.28亿"
-    },
-    {
       "name": "通信",
-      "count": 3,
-      "total_amount": "56.46亿"
+      "count": 5,
+      "total_amount": "118.05亿"
     },
     {
       "name": "电池",
+      "count": 4,
+      "total_amount": "35.52亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
       "count": 3,
-      "total_amount": "33.76亿"
+      "total_amount": "26.50亿"
     },
     {
       "name": "消费",
       "count": 3,
-      "total_amount": "22.31亿"
+      "total_amount": "22.92亿"
+    },
+    {
+      "name": "其他电子Ⅱ",
+      "count": 3,
+      "total_amount": "17.43亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "中钨高新",
-      "code": "000657",
-      "change": "+10.00%",
-      "amount": "60.14亿"
-    },
-    {
       "name": "东方电气",
       "code": "600875",
       "change": "+9.99%",
-      "amount": "59.13亿"
+      "amount": "62.07亿"
+    },
+    {
+      "name": "中钨高新",
+      "code": "000657",
+      "change": "+10.00%",
+      "amount": "60.84亿"
     },
     {
       "name": "厦门钨业",
       "code": "600549",
       "change": "+10.01%",
-      "amount": "54.43亿"
+      "amount": "58.31亿"
     },
     {
       "name": "N大普微-UW",
       "code": "301666",
-      "change": "+402.78%",
-      "amount": "40.75亿"
-    },
-    {
-      "name": "奥瑞德",
-      "code": "600666",
-      "change": "+9.95%",
-      "amount": "36.88亿"
+      "change": "+416.49%",
+      "amount": "44.97亿"
     },
     {
       "name": "大族激光",
       "code": "002008",
       "change": "+10.00%",
-      "amount": "35.91亿"
+      "amount": "42.23亿"
+    },
+    {
+      "name": "特发信息",
+      "code": "000070",
+      "change": "+10.01%",
+      "amount": "41.69亿"
+    },
+    {
+      "name": "奥瑞德",
+      "code": "600666",
+      "change": "+9.95%",
+      "amount": "37.26亿"
+    },
+    {
+      "name": "西藏矿业",
+      "code": "000762",
+      "change": "+9.99%",
+      "amount": "27.69亿"
+    },
+    {
+      "name": "中贝通信",
+      "code": "603220",
+      "change": "+9.99%",
+      "amount": "26.88亿"
     },
     {
       "name": "鼎通科技",
       "code": "688668",
       "change": "+20.00%",
-      "amount": "25.44亿"
-    },
-    {
-      "name": "大胜达",
-      "code": "603687",
-      "change": "+9.98%",
-      "amount": "25.22亿"
-    },
-    {
-      "name": "中贝通信",
-      "code": "603220",
-      "change": "+9.92%",
-      "amount": "24.53亿"
-    },
-    {
-      "name": "申通快递",
-      "code": "002468",
-      "change": "+10.01%",
-      "amount": "22.81亿"
+      "amount": "25.74亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "中钨高新 000657",
+      "stock": "东方电气 600875",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "东方电气 600875",
+      "stock": "中钨高新 000657",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
