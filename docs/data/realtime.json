@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-04-16 08:25",
+  "update_time": "2026-04-17 04:24",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 70,
+  "sentiment": "中性",
+  "limit_up_count": 54,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4055.55",
-      "change": 0.7
+      "price": "4043.45",
+      "change": -0.3
     },
     {
       "name": "深证成指",
-      "price": "14796.33",
-      "change": 2.05
+      "price": "14845.89",
+      "change": 0.33
     },
     {
       "name": "创业板",
-      "price": "3626.27",
-      "change": 3.17
+      "price": "3655.83",
+      "change": 0.82
     }
   ],
   "hot_sectors": [
     {
-      "name": "通信",
-      "count": 6,
-      "total_amount": "159.16亿"
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "69.00亿"
     },
     {
-      "name": "IT服务Ⅱ",
-      "count": 4,
-      "total_amount": "68.56亿"
+      "name": "通信",
+      "count": 3,
+      "total_amount": "111.30亿"
     },
     {
       "name": "电池",
-      "count": 4,
-      "total_amount": "36.16亿"
+      "count": 3,
+      "total_amount": "45.53亿"
     },
     {
-      "name": "其他电子Ⅱ",
+      "name": "塑料",
       "count": 3,
-      "total_amount": "17.66亿"
+      "total_amount": "36.20亿"
     },
     {
-      "name": "专用设备",
-      "count": 3,
-      "total_amount": "13.51亿"
+      "name": "消费",
+      "count": 2,
+      "total_amount": "45.57亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "东方电气",
-      "code": "600875",
-      "change": "+9.99%",
-      "amount": "62.64亿"
-    },
-    {
-      "name": "中钨高新",
-      "code": "000657",
+      "name": "光迅科技",
+      "code": "002281",
       "change": "+10.00%",
-      "amount": "61.31亿"
+      "amount": "68.47亿"
     },
     {
-      "name": "厦门钨业",
-      "code": "600549",
+      "name": "云南锗业",
+      "code": "002428",
       "change": "+10.01%",
-      "amount": "59.08亿"
+      "amount": "60.11亿"
     },
     {
-      "name": "晶科科技",
-      "code": "601778",
-      "change": "+10.08%",
-      "amount": "49.00亿"
+      "name": "三安光电",
+      "code": "600703",
+      "change": "+9.98%",
+      "amount": "38.26亿"
     },
     {
-      "name": "N大普微-UW",
-      "code": "301666",
-      "change": "+430.71%",
-      "amount": "48.64亿"
-    },
-    {
-      "name": "特发信息",
-      "code": "000070",
+      "name": "利通电子",
+      "code": "603629",
       "change": "+10.01%",
-      "amount": "42.71亿"
+      "amount": "36.68亿"
     },
     {
-      "name": "大族激光",
-      "code": "002008",
+      "name": "剑桥科技",
+      "code": "603083",
       "change": "+10.00%",
-      "amount": "42.61亿"
+      "amount": "32.61亿"
     },
     {
-      "name": "宏景科技",
-      "code": "301396",
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.00%",
+      "amount": "24.35亿"
+    },
+    {
+      "name": "东材科技",
+      "code": "601208",
+      "change": "+10.00%",
+      "amount": "21.36亿"
+    },
+    {
+      "name": "博云新材",
+      "code": "002297",
+      "change": "+10.01%",
+      "amount": "19.43亿"
+    },
+    {
+      "name": "帝尔激光",
+      "code": "300776",
       "change": "+20.00%",
-      "amount": "41.60亿"
+      "amount": "18.36亿"
     },
     {
-      "name": "通鼎互联",
-      "code": "002491",
+      "name": "广合科技",
+      "code": "001389",
       "change": "+10.00%",
-      "amount": "38.98亿"
-    },
-    {
-      "name": "西藏矿业",
-      "code": "000762",
-      "change": "+9.99%",
-      "amount": "27.97亿"
+      "amount": "14.82亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "东方电气 600875",
+      "stock": "光迅科技 002281",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "中钨高新 000657",
+      "stock": "云南锗业 002428",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "厦门钨业 600549",
+      "stock": "三安光电 600703",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
