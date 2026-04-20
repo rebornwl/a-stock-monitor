@@ -1,116 +1,123 @@
 {
-  "update_time": "2026-04-20 04:43",
+  "update_time": "2026-04-20 05:19",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 63,
+  "sentiment": "偏强",
+  "limit_up_count": 72,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4078.39",
+      "price": "4078.7",
       "change": 0.67
     },
     {
       "name": "深证成指",
-      "price": "14974.78",
-      "change": 0.6
+      "price": "14988.95",
+      "change": 0.7
     },
     {
       "name": "创业板",
-      "price": "3679.88",
-      "change": 0.04
+      "price": "3688.38",
+      "change": 0.27
     }
   ],
   "hot_sectors": [
     {
       "name": "光学光电子",
       "count": 4,
-      "total_amount": "45.74亿"
+      "total_amount": "48.83亿"
     },
     {
       "name": "电网设备",
       "count": 4,
-      "total_amount": "33.09亿"
+      "total_amount": "33.39亿"
     },
     {
       "name": "通用设备",
       "count": 4,
-      "total_amount": "12.43亿"
+      "total_amount": "12.91亿"
     },
     {
       "name": "通信",
       "count": 3,
-      "total_amount": "82.61亿"
+      "total_amount": "86.00亿"
     },
     {
       "name": "汽车",
       "count": 3,
-      "total_amount": "29.59亿"
+      "total_amount": "29.92亿"
     }
   ],
   "dragon_stocks": [
     {
+      "name": "立讯精密",
+      "code": "002475",
+      "change": "+9.96%",
+      "amount": "167.94亿"
+    },
+    {
       "name": "中国卫星",
       "code": "600118",
       "change": "+10.00%",
-      "amount": "66.07亿"
+      "amount": "67.36亿"
     },
     {
       "name": "中天科技",
       "code": "600522",
       "change": "+9.99%",
-      "amount": "62.62亿"
+      "amount": "65.78亿"
     },
     {
       "name": "云南锗业",
       "code": "002428",
-      "change": "+9.89%",
-      "amount": "52.53亿"
+      "change": "+10.00%",
+      "amount": "62.69亿"
     },
     {
       "name": "西部材料",
       "code": "002149",
       "change": "+10.00%",
-      "amount": "47.12亿"
+      "amount": "47.35亿"
+    },
+    {
+      "name": "中国卫通",
+      "code": "601698",
+      "change": "+10.01%",
+      "amount": "43.67亿"
     },
     {
       "name": "水晶光电",
       "code": "002273",
       "change": "+9.99%",
-      "amount": "24.14亿"
+      "amount": "27.02亿"
     },
     {
       "name": "国晟科技",
       "code": "603778",
       "change": "+10.02%",
-      "amount": "22.25亿"
+      "amount": "22.39亿"
     },
     {
       "name": "方正科技",
       "code": "600601",
       "change": "+10.02%",
-      "amount": "21.75亿"
+      "amount": "22.28亿"
     },
     {
-      "name": "中利集团",
-      "code": "002309",
-      "change": "+10.05%",
-      "amount": "20.17亿"
-    },
-    {
-      "name": "松发股份",
-      "code": "603268",
+      "name": "有研新材",
+      "code": "600206",
       "change": "+10.00%",
-      "amount": "16.57亿"
-    },
-    {
-      "name": "博云新材",
-      "code": "002297",
-      "change": "+10.01%",
-      "amount": "16.21亿"
+      "amount": "20.92亿"
     }
   ],
   "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "立讯精密 002475",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
     {
       "name": "打板机会",
       "stock": "中国卫星 600118",
@@ -121,13 +128,6 @@
     {
       "name": "打板机会",
       "stock": "中天科技 600522",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "云南锗业 002428",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
