@@ -1,113 +1,113 @@
 {
-  "update_time": "2026-04-21 05:25",
+  "update_time": "2026-04-21 06:27",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 47,
+  "limit_up_count": 52,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4078.64",
-      "change": -0.09
+      "price": "4080.27",
+      "change": -0.05
     },
     {
       "name": "深证成指",
-      "price": "14947.1",
-      "change": -0.13
+      "price": "14959.27",
+      "change": -0.05
     },
     {
       "name": "创业板",
-      "price": "3672.6",
-      "change": -0.14
+      "price": "3679.76",
+      "change": 0.06
     }
   ],
   "hot_sectors": [
     {
-      "name": "电力",
-      "count": 5,
-      "total_amount": "58.05亿"
+      "name": "汽车",
+      "count": 6,
+      "total_amount": "40.11亿"
     },
     {
-      "name": "汽车",
+      "name": "电力",
       "count": 5,
-      "total_amount": "16.68亿"
+      "total_amount": "63.04亿"
     },
     {
       "name": "包装印刷",
       "count": 4,
-      "total_amount": "38.01亿"
+      "total_amount": "38.77亿"
     },
     {
       "name": "元件",
       "count": 3,
-      "total_amount": "28.91亿"
+      "total_amount": "29.63亿"
     },
     {
       "name": "半导体",
       "count": 2,
-      "total_amount": "93.88亿"
+      "total_amount": "109.85亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "N盛合",
       "code": "688820",
-      "change": "+293.70%",
-      "amount": "81.61亿"
+      "change": "+301.17%",
+      "amount": "96.63亿"
+    },
+    {
+      "name": "神剑股份",
+      "code": "002361",
+      "change": "+9.99%",
+      "amount": "79.13亿"
     },
     {
       "name": "致尚科技",
       "code": "301486",
       "change": "+20.00%",
-      "amount": "34.14亿"
+      "amount": "40.78亿"
     },
     {
       "name": "国晟科技",
       "code": "603778",
       "change": "+10.01%",
-      "amount": "28.44亿"
+      "amount": "33.27亿"
     },
     {
       "name": "顺灏股份",
       "code": "002565",
       "change": "+10.00%",
-      "amount": "28.40亿"
+      "amount": "28.70亿"
+    },
+    {
+      "name": "均胜电子",
+      "code": "600699",
+      "change": "+10.00%",
+      "amount": "25.12亿"
     },
     {
       "name": "华电辽能",
       "code": "600396",
       "change": "+10.01%",
-      "amount": "20.70亿"
+      "amount": "22.66亿"
     },
     {
       "name": "青山纸业",
       "code": "600103",
       "change": "+9.94%",
-      "amount": "19.60亿"
+      "amount": "19.76亿"
     },
     {
       "name": "泰晶科技",
       "code": "603738",
       "change": "+9.99%",
-      "amount": "15.79亿"
+      "amount": "15.93亿"
     },
     {
       "name": "华特气体",
       "code": "688268",
       "change": "+20.00%",
-      "amount": "15.52亿"
-    },
-    {
-      "name": "奥普光电",
-      "code": "002338",
-      "change": "+9.99%",
-      "amount": "14.15亿"
-    },
-    {
-      "name": "和林微纳",
-      "code": "688661",
-      "change": "+20.00%",
-      "amount": "12.27亿"
+      "amount": "15.69亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "致尚科技 301486",
+      "stock": "神剑股份 002361",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "国晟科技 603778",
+      "stock": "致尚科技 301486",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
