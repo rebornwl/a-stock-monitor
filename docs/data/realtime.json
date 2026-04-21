@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-21 07:28",
+  "update_time": "2026-04-21 08:15",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 55,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4085.08",
+      "change": 0.07
+    },
+    {
+      "name": "深证成指",
+      "price": "14982.14",
+      "change": 0.1
+    },
+    {
+      "name": "创业板",
+      "price": "3688.94",
+      "change": 0.31
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 6,
+      "total_amount": "43.69亿"
+    },
+    {
+      "name": "电力",
+      "count": 5,
+      "total_amount": "63.92亿"
+    },
+    {
+      "name": "包装印刷",
+      "count": 4,
+      "total_amount": "39.14亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "29.90亿"
+    },
+    {
+      "name": "半导体",
+      "count": 2,
+      "total_amount": "116.98亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "N盛合",
+      "code": "688820",
+      "change": "+289.48%",
+      "amount": "103.72亿"
+    },
+    {
+      "name": "神剑股份",
+      "code": "002361",
+      "change": "+9.99%",
+      "amount": "79.89亿"
+    },
+    {
+      "name": "巨力索具",
+      "code": "002342",
+      "change": "+10.02%",
+      "amount": "56.71亿"
+    },
+    {
+      "name": "致尚科技",
+      "code": "301486",
+      "change": "+20.00%",
+      "amount": "41.44亿"
+    },
+    {
+      "name": "顺灏股份",
+      "code": "002565",
+      "change": "+10.00%",
+      "amount": "28.91亿"
+    },
+    {
+      "name": "均胜电子",
+      "code": "600699",
+      "change": "+10.00%",
+      "amount": "28.45亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.01%",
+      "amount": "23.00亿"
+    },
+    {
+      "name": "青山纸业",
+      "code": "600103",
+      "change": "+9.94%",
+      "amount": "19.85亿"
+    },
+    {
+      "name": "泰晶科技",
+      "code": "603738",
+      "change": "+9.99%",
+      "amount": "16.06亿"
+    },
+    {
+      "name": "华特气体",
+      "code": "688268",
+      "change": "+20.00%",
+      "amount": "15.85亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "N盛合 688820",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "神剑股份 002361",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "巨力索具 002342",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
