@@ -1,116 +1,123 @@
 {
-  "update_time": "2026-04-22 04:52",
+  "update_time": "2026-04-22 05:23",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 41,
+  "sentiment": "偏强",
+  "limit_up_count": 50,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4095.07",
-      "change": 0.24
+      "price": "4095.57",
+      "change": 0.26
     },
     {
       "name": "深证成指",
-      "price": "15076.15",
-      "change": 0.63
+      "price": "15113.97",
+      "change": 0.88
     },
     {
       "name": "创业板",
-      "price": "3712.28",
-      "change": 0.63
+      "price": "3728.44",
+      "change": 1.07
     }
   ],
   "hot_sectors": [
     {
       "name": "通信",
       "count": 4,
-      "total_amount": "162.69亿"
+      "total_amount": "171.88亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "164.88亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "97.43亿"
     },
     {
       "name": "工业金属",
       "count": 3,
-      "total_amount": "68.73亿"
-    },
-    {
-      "name": "光学光电子",
-      "count": 3,
-      "total_amount": "46.69亿"
+      "total_amount": "70.01亿"
     },
     {
       "name": "电网设备",
-      "count": 2,
-      "total_amount": "32.19亿"
-    },
-    {
-      "name": "电力",
-      "count": 2,
-      "total_amount": "22.95亿"
+      "count": 3,
+      "total_amount": "53.86亿"
     }
   ],
   "dragon_stocks": [
     {
+      "name": "东山精密",
+      "code": "002384",
+      "change": "+10.00%",
+      "amount": "145.24亿"
+    },
+    {
       "name": "亨通光电",
       "code": "600487",
       "change": "+10.00%",
-      "amount": "116.78亿"
+      "amount": "125.20亿"
     },
     {
-      "name": "天通股份",
-      "code": "600330",
-      "change": "+9.99%",
-      "amount": "50.43亿"
+      "name": "长光华芯",
+      "code": "688048",
+      "change": "+20.00%",
+      "amount": "77.73亿"
     },
     {
       "name": "云南锗业",
       "code": "002428",
       "change": "+10.00%",
-      "amount": "48.99亿"
+      "amount": "51.04亿"
+    },
+    {
+      "name": "天通股份",
+      "code": "600330",
+      "change": "+9.99%",
+      "amount": "50.66亿"
     },
     {
       "name": "株冶集团",
       "code": "600961",
       "change": "+9.99%",
-      "amount": "44.60亿"
+      "amount": "45.23亿"
+    },
+    {
+      "name": "青山纸业",
+      "code": "600103",
+      "change": "+10.00%",
+      "amount": "35.75亿"
     },
     {
       "name": "永鼎股份",
       "code": "600105",
       "change": "+10.00%",
-      "amount": "30.12亿"
+      "amount": "30.46亿"
     },
     {
       "name": "三安光电",
       "code": "600703",
       "change": "+10.01%",
-      "amount": "30.11亿"
-    },
-    {
-      "name": "九鼎新材",
-      "code": "002201",
-      "change": "+9.98%",
-      "amount": "21.44亿"
+      "amount": "30.37亿"
     },
     {
       "name": "华电辽能",
       "code": "600396",
       "change": "+9.96%",
-      "amount": "21.37亿"
-    },
-    {
-      "name": "康盛股份",
-      "code": "002418",
-      "change": "+9.95%",
-      "amount": "20.26亿"
-    },
-    {
-      "name": "杭电股份",
-      "code": "603618",
-      "change": "+10.02%",
-      "amount": "19.07亿"
+      "amount": "21.57亿"
     }
   ],
   "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "东山精密 002384",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
     {
       "name": "打板机会",
       "stock": "亨通光电 600487",
@@ -120,14 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "天通股份 600330",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "云南锗业 002428",
+      "stock": "长光华芯 688048",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
