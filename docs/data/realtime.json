@@ -1,116 +1,123 @@
 {
-  "update_time": "2026-04-23 04:56",
+  "update_time": "2026-04-23 05:27",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 35,
+  "limit_up_count": 39,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4073.71",
-      "change": -0.79
+      "price": "4078.68",
+      "change": -0.67
     },
     {
       "name": "深证成指",
-      "price": "14945.2",
-      "change": -1.53
+      "price": "14992.27",
+      "change": -1.22
     },
     {
       "name": "创业板",
-      "price": "3684.12",
-      "change": -1.83
+      "price": "3707.68",
+      "change": -1.2
     }
   ],
   "hot_sectors": [
     {
-      "name": "消费",
+      "name": "电力",
       "count": 3,
-      "total_amount": "13.58亿"
+      "total_amount": "88.75亿"
     },
     {
-      "name": "通用设备",
+      "name": "消费",
+      "count": 3,
+      "total_amount": "14.31亿"
+    },
+    {
+      "name": "通信",
       "count": 2,
-      "total_amount": "31.21亿"
+      "total_amount": "42.68亿"
+    },
+    {
+      "name": "广告营销",
+      "count": 2,
+      "total_amount": "38.37亿"
     },
     {
       "name": "电网设备",
       "count": 2,
-      "total_amount": "29.30亿"
-    },
-    {
-      "name": "燃气Ⅱ",
-      "count": 2,
-      "total_amount": "6.99亿"
-    },
-    {
-      "name": "房地产",
-      "count": 2,
-      "total_amount": "6.09亿"
+      "total_amount": "34.01亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "兆驰股份",
-      "code": "002429",
-      "change": "+9.91%",
-      "amount": "37.39亿"
+      "name": "晶科科技",
+      "code": "601778",
+      "change": "+9.94%",
+      "amount": "55.07亿"
     },
     {
-      "name": "莲花控股",
-      "code": "600186",
-      "change": "+10.01%",
-      "amount": "28.97亿"
+      "name": "兆驰股份",
+      "code": "002429",
+      "change": "+9.99%",
+      "amount": "42.09亿"
+    },
+    {
+      "name": "汇绿生态",
+      "code": "001267",
+      "change": "+10.00%",
+      "amount": "35.80亿"
+    },
+    {
+      "name": "浙文互联",
+      "code": "600986",
+      "change": "+9.97%",
+      "amount": "35.15亿"
     },
     {
       "name": "杭电股份",
       "code": "603618",
       "change": "+10.02%",
-      "amount": "26.53亿"
+      "amount": "31.12亿"
     },
     {
-      "name": "应流股份",
-      "code": "603308",
-      "change": "+9.95%",
-      "amount": "24.95亿"
+      "name": "莲花控股",
+      "code": "600186",
+      "change": "+10.01%",
+      "amount": "29.43亿"
     },
     {
       "name": "华电能源",
       "code": "600726",
       "change": "+10.02%",
-      "amount": "17.41亿"
+      "amount": "17.65亿"
     },
     {
       "name": "金 螳 螂",
       "code": "002081",
       "change": "+9.92%",
-      "amount": "17.35亿"
+      "amount": "17.54亿"
+    },
+    {
+      "name": "粤电力Ａ",
+      "code": "000539",
+      "change": "+10.08%",
+      "amount": "16.03亿"
     },
     {
       "name": "联泓新科",
       "code": "003022",
       "change": "+9.99%",
-      "amount": "8.69亿"
-    },
-    {
-      "name": "华绿生物",
-      "code": "300970",
-      "change": "+20.00%",
-      "amount": "8.58亿"
-    },
-    {
-      "name": "众合科技",
-      "code": "000925",
-      "change": "+10.00%",
-      "amount": "7.49亿"
-    },
-    {
-      "name": "山东墨龙",
-      "code": "002490",
-      "change": "+10.02%",
-      "amount": "7.17亿"
+      "amount": "9.17亿"
     }
   ],
   "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "晶科科技 601778",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
     {
       "name": "打板机会",
       "stock": "兆驰股份 002429",
@@ -120,14 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "莲花控股 600186",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "杭电股份 603618",
+      "stock": "汇绿生态 001267",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
