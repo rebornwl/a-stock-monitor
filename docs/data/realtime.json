@@ -1,10 +1,26 @@
 {
-  "update_time": "2026-04-23 04:25",
+  "update_time": "2026-04-23 04:36",
   "market_status": "休市",
-  "sentiment": "中性",
+  "sentiment": "偏弱",
   "limit_up_count": 35,
   "limit_down_count": 0,
-  "indices": [],
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4073.71",
+      "change": -0.79
+    },
+    {
+      "name": "深证成指",
+      "price": "14945.2",
+      "change": -1.53
+    },
+    {
+      "name": "创业板",
+      "price": "3684.12",
+      "change": -1.83
+    }
+  ],
   "hot_sectors": [
     {
       "name": "消费",
