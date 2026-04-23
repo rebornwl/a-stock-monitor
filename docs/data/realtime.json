@@ -1,133 +1,117 @@
 {
-  "update_time": "2026-04-22 08:28",
+  "update_time": "2026-04-23 04:25",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 57,
+  "sentiment": "中性",
+  "limit_up_count": 35,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "4106.26",
-      "change": 0.52
-    },
-    {
-      "name": "深证成指",
-      "price": "15177.29",
-      "change": 1.3
-    },
-    {
-      "name": "创业板",
-      "price": "3752.76",
-      "change": 1.73
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
-      "name": "元件",
-      "count": 4,
-      "total_amount": "207.26亿"
+      "name": "消费",
+      "count": 3,
+      "total_amount": "13.58亿"
     },
     {
-      "name": "半导体",
-      "count": 4,
-      "total_amount": "183.75亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "179.23亿"
+      "name": "通用设备",
+      "count": 2,
+      "total_amount": "31.21亿"
     },
     {
       "name": "电网设备",
-      "count": 3,
-      "total_amount": "69.09亿"
+      "count": 2,
+      "total_amount": "29.30亿"
     },
     {
-      "name": "光学光电子",
-      "count": 3,
-      "total_amount": "48.19亿"
+      "name": "燃气Ⅱ",
+      "count": 2,
+      "total_amount": "6.99亿"
+    },
+    {
+      "name": "房地产",
+      "count": 2,
+      "total_amount": "6.09亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "东山精密",
-      "code": "002384",
-      "change": "+10.00%",
-      "amount": "150.39亿"
+      "name": "兆驰股份",
+      "code": "002429",
+      "change": "+9.91%",
+      "amount": "37.39亿"
     },
     {
-      "name": "亨通光电",
-      "code": "600487",
-      "change": "+10.00%",
-      "amount": "130.96亿"
-    },
-    {
-      "name": "协创数据",
-      "code": "300857",
-      "change": "+19.99%",
-      "amount": "100.67亿"
-    },
-    {
-      "name": "长光华芯",
-      "code": "688048",
-      "change": "+20.00%",
-      "amount": "79.84亿"
-    },
-    {
-      "name": "C盛合",
-      "code": "688820",
-      "change": "+23.94%",
-      "amount": "79.09亿"
-    },
-    {
-      "name": "云南锗业",
-      "code": "002428",
-      "change": "+10.00%",
-      "amount": "52.58亿"
-    },
-    {
-      "name": "天通股份",
-      "code": "600330",
-      "change": "+9.99%",
-      "amount": "51.42亿"
-    },
-    {
-      "name": "鹏鼎控股",
-      "code": "002938",
+      "name": "莲花控股",
+      "code": "600186",
       "change": "+10.01%",
-      "amount": "35.85亿"
+      "amount": "28.97亿"
     },
     {
-      "name": "远东股份",
-      "code": "600869",
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+10.02%",
+      "amount": "26.53亿"
+    },
+    {
+      "name": "应流股份",
+      "code": "603308",
+      "change": "+9.95%",
+      "amount": "24.95亿"
+    },
+    {
+      "name": "华电能源",
+      "code": "600726",
+      "change": "+10.02%",
+      "amount": "17.41亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+9.92%",
+      "amount": "17.35亿"
+    },
+    {
+      "name": "联泓新科",
+      "code": "003022",
       "change": "+9.99%",
-      "amount": "34.60亿"
+      "amount": "8.69亿"
     },
     {
-      "name": "永鼎股份",
-      "code": "600105",
+      "name": "华绿生物",
+      "code": "300970",
+      "change": "+20.00%",
+      "amount": "8.58亿"
+    },
+    {
+      "name": "众合科技",
+      "code": "000925",
       "change": "+10.00%",
-      "amount": "31.54亿"
+      "amount": "7.49亿"
+    },
+    {
+      "name": "山东墨龙",
+      "code": "002490",
+      "change": "+10.02%",
+      "amount": "7.17亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "东山精密 002384",
+      "stock": "兆驰股份 002429",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "亨通光电 600487",
+      "stock": "莲花控股 600186",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "协创数据 300857",
+      "stock": "杭电股份 603618",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
