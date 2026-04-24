@@ -1,113 +1,113 @@
 {
-  "update_time": "2026-04-24 05:15",
+  "update_time": "2026-04-24 05:32",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 48,
+  "limit_up_count": 51,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4067.05",
-      "change": -0.64
+      "price": "4071.48",
+      "change": -0.53
     },
     {
       "name": "深证成指",
-      "price": "14821.18",
-      "change": -1.48
+      "price": "14892.78",
+      "change": -1.0
     },
     {
       "name": "创业板",
-      "price": "3637.38",
-      "change": -2.23
+      "price": "3656.25",
+      "change": -1.72
     }
   ],
   "hot_sectors": [
     {
+      "name": "工业金属",
+      "count": 3,
+      "total_amount": "48.10亿"
+    },
+    {
       "name": "专用设备",
       "count": 3,
-      "total_amount": "22.32亿"
+      "total_amount": "22.48亿"
     },
     {
       "name": "汽车",
       "count": 3,
-      "total_amount": "12.32亿"
+      "total_amount": "12.88亿"
     },
     {
       "name": "物流",
       "count": 3,
-      "total_amount": "6.00亿"
+      "total_amount": "6.05亿"
     },
     {
       "name": "通用设备",
       "count": 2,
-      "total_amount": "100.59亿"
-    },
-    {
-      "name": "电池",
-      "count": 2,
-      "total_amount": "55.00亿"
+      "total_amount": "103.20亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "N联讯",
       "code": "688808",
-      "change": "+867.27%",
-      "amount": "98.47亿"
+      "change": "+841.01%",
+      "amount": "101.03亿"
     },
     {
       "name": "恩捷股份",
       "code": "002812",
-      "change": "+9.93%",
-      "amount": "46.10亿"
+      "change": "+10.01%",
+      "amount": "48.29亿"
+    },
+    {
+      "name": "西藏珠峰",
+      "code": "600338",
+      "change": "+9.55%",
+      "amount": "34.09亿"
     },
     {
       "name": "深圳华强",
       "code": "000062",
       "change": "+9.99%",
-      "amount": "27.79亿"
+      "amount": "28.02亿"
     },
     {
       "name": "融捷股份",
       "code": "002192",
       "change": "+9.99%",
-      "amount": "24.23亿"
+      "amount": "24.41亿"
     },
     {
       "name": "江特电机",
       "code": "002176",
       "change": "+10.02%",
-      "amount": "22.68亿"
+      "amount": "22.81亿"
     },
     {
       "name": "浙数文化",
       "code": "600633",
       "change": "+9.99%",
-      "amount": "19.25亿"
+      "amount": "19.40亿"
     },
     {
-      "name": "华电能源",
-      "code": "600726",
-      "change": "+10.06%",
-      "amount": "18.38亿"
+      "name": "佛塑科技",
+      "code": "000973",
+      "change": "+10.02%",
+      "amount": "17.48亿"
     },
     {
       "name": "禾盛新材",
       "code": "002290",
       "change": "+10.01%",
-      "amount": "16.39亿"
+      "amount": "17.04亿"
     },
     {
       "name": "衢州发展",
       "code": "600208",
       "change": "+10.00%",
-      "amount": "16.25亿"
-    },
-    {
-      "name": "富瀚微",
-      "code": "300613",
-      "change": "+20.01%",
-      "amount": "13.93亿"
+      "amount": "16.32亿"
     }
   ],
   "opportunities": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "深圳华强 000062",
+      "stock": "西藏珠峰 600338",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
