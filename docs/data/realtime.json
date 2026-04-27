@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-27 05:32",
+  "update_time": "2026-04-27 05:51",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 59,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4085.32",
+      "change": 0.13
+    },
+    {
+      "name": "深证成指",
+      "price": "15010.55",
+      "change": 0.47
+    },
+    {
+      "name": "创业板",
+      "price": "3656.46",
+      "change": -0.31
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "元件",
+      "count": 4,
+      "total_amount": "64.62亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "65.31亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 3,
+      "total_amount": "31.20亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "23.89亿"
+    },
+    {
+      "name": "家居用品",
+      "count": 3,
+      "total_amount": "7.13亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "中天科技",
+      "code": "600522",
+      "change": "+10.00%",
+      "amount": "87.01亿"
+    },
+    {
+      "name": "豪威集团",
+      "code": "603501",
+      "change": "+10.00%",
+      "amount": "52.10亿"
+    },
+    {
+      "name": "江淮汽车",
+      "code": "600418",
+      "change": "+10.00%",
+      "amount": "43.44亿"
+    },
+    {
+      "name": "深圳华强",
+      "code": "000062",
+      "change": "+9.99%",
+      "amount": "38.97亿"
+    },
+    {
+      "name": "华电能源",
+      "code": "600726",
+      "change": "+10.00%",
+      "amount": "32.72亿"
+    },
+    {
+      "name": "景旺电子",
+      "code": "603228",
+      "change": "+10.00%",
+      "amount": "31.16亿"
+    },
+    {
+      "name": "西藏珠峰",
+      "code": "600338",
+      "change": "+10.01%",
+      "amount": "27.73亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.00%",
+      "amount": "26.69亿"
+    },
+    {
+      "name": "维科技术",
+      "code": "600152",
+      "change": "+10.03%",
+      "amount": "19.62亿"
+    },
+    {
+      "name": "通达股份",
+      "code": "002560",
+      "change": "+10.04%",
+      "amount": "18.35亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "中天科技 600522",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "豪威集团 603501",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "江淮汽车 600418",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
