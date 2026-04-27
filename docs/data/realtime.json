@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-04-24 08:57",
+  "update_time": "2026-04-27 04:44",
   "market_status": "休市",
-  "sentiment": "偏弱",
+  "sentiment": "中性",
   "limit_up_count": 60,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4079.9",
-      "change": -0.33
+      "price": "4085.88",
+      "change": 0.15
     },
     {
       "name": "深证成指",
-      "price": "14940.3",
-      "change": -0.69
+      "price": "15018.54",
+      "change": 0.52
     },
     {
       "name": "创业板",
-      "price": "3667.79",
-      "change": -1.41
+      "price": "3660.53",
+      "change": -0.2
     }
   ],
   "hot_sectors": [
     {
-      "name": "专用设备",
+      "name": "元件",
       "count": 4,
-      "total_amount": "31.39亿"
+      "total_amount": "58.90亿"
     },
     {
-      "name": "化学制品",
-      "count": 3,
-      "total_amount": "77.80亿"
+      "name": "服装家纺",
+      "count": 4,
+      "total_amount": "9.88亿"
     },
     {
-      "name": "能源金属",
+      "name": "通信",
       "count": 3,
-      "total_amount": "73.40亿"
+      "total_amount": "97.85亿"
     },
     {
-      "name": "工业金属",
+      "name": "半导体",
       "count": 3,
-      "total_amount": "54.71亿"
+      "total_amount": "63.43亿"
     },
     {
-      "name": "汽车",
+      "name": "光学光电子",
       "count": 3,
-      "total_amount": "13.84亿"
+      "total_amount": "30.59亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "N联讯",
-      "code": "688808",
-      "change": "+875.82%",
-      "amount": "114.13亿"
+      "name": "中天科技",
+      "code": "600522",
+      "change": "+10.00%",
+      "amount": "85.36亿"
     },
     {
-      "name": "多氟多",
-      "code": "002407",
-      "change": "+9.99%",
-      "amount": "63.42亿"
-    },
-    {
-      "name": "恩捷股份",
-      "code": "002812",
-      "change": "+10.01%",
-      "amount": "49.46亿"
-    },
-    {
-      "name": "西藏珠峰",
-      "code": "600338",
-      "change": "+9.99%",
-      "amount": "39.54亿"
+      "name": "豪威集团",
+      "code": "603501",
+      "change": "+10.00%",
+      "amount": "50.50亿"
     },
     {
       "name": "深圳华强",
       "code": "000062",
       "change": "+9.99%",
-      "amount": "37.31亿"
+      "amount": "38.37亿"
     },
     {
-      "name": "盛新锂能",
-      "code": "002240",
-      "change": "+10.00%",
-      "amount": "31.75亿"
+      "name": "江淮汽车",
+      "code": "600418",
+      "change": "+9.78%",
+      "amount": "34.88亿"
     },
     {
       "name": "华电能源",
       "code": "600726",
-      "change": "+10.06%",
-      "amount": "28.59亿"
+      "change": "+9.83%",
+      "amount": "30.50亿"
     },
     {
-      "name": "华特气体",
-      "code": "688268",
-      "change": "+20.00%",
-      "amount": "26.74亿"
+      "name": "景旺电子",
+      "code": "603228",
+      "change": "+10.00%",
+      "amount": "30.48亿"
     },
     {
-      "name": "融捷股份",
-      "code": "002192",
-      "change": "+9.99%",
-      "amount": "24.77亿"
+      "name": "西藏珠峰",
+      "code": "600338",
+      "change": "+10.01%",
+      "amount": "27.06亿"
     },
     {
-      "name": "江特电机",
-      "code": "002176",
-      "change": "+10.02%",
-      "amount": "23.58亿"
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.00%",
+      "amount": "26.40亿"
+    },
+    {
+      "name": "通达股份",
+      "code": "002560",
+      "change": "+10.04%",
+      "amount": "18.13亿"
+    },
+    {
+      "name": "合力泰",
+      "code": "002217",
+      "change": "+10.04%",
+      "amount": "16.97亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "N联讯 688808",
+      "stock": "中天科技 600522",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "多氟多 002407",
+      "stock": "豪威集团 603501",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "恩捷股份 002812",
+      "stock": "深圳华强 000062",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
