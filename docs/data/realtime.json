@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-04-27 08:14",
+  "update_time": "2026-04-27 09:14",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 59,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4086.34",
+      "change": 0.16
+    },
+    {
+      "name": "深证成指",
+      "price": "14995.75",
+      "change": 0.37
+    },
+    {
+      "name": "创业板",
+      "price": "3648.79",
+      "change": -0.52
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "46.32亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "66.51亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "54.34亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "25.22亿"
+    },
+    {
+      "name": "家居用品",
+      "count": 3,
+      "total_amount": "7.30亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "豪威集团",
+      "code": "603501",
+      "change": "+10.00%",
+      "amount": "53.16亿"
+    },
+    {
+      "name": "江淮汽车",
+      "code": "600418",
+      "change": "+10.00%",
+      "amount": "44.19亿"
+    },
+    {
+      "name": "深圳华强",
+      "code": "000062",
+      "change": "+9.99%",
+      "amount": "39.53亿"
+    },
+    {
+      "name": "华电能源",
+      "code": "600726",
+      "change": "+10.00%",
+      "amount": "33.81亿"
+    },
+    {
+      "name": "景旺电子",
+      "code": "603228",
+      "change": "+10.00%",
+      "amount": "32.12亿"
+    },
+    {
+      "name": "西藏珠峰",
+      "code": "600338",
+      "change": "+10.01%",
+      "amount": "29.08亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.00%",
+      "amount": "27.32亿"
+    },
+    {
+      "name": "维科技术",
+      "code": "600152",
+      "change": "+10.03%",
+      "amount": "19.85亿"
+    },
+    {
+      "name": "通达股份",
+      "code": "002560",
+      "change": "+10.04%",
+      "amount": "18.59亿"
+    },
+    {
+      "name": "江海股份",
+      "code": "002484",
+      "change": "+9.99%",
+      "amount": "17.38亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "豪威集团 603501",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "江淮汽车 600418",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "深圳华强 000062",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
