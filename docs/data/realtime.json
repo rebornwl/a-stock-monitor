@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-04-28 04:59",
+  "update_time": "2026-04-28 05:37",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 43,
+  "sentiment": "偏弱",
+  "limit_up_count": 52,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4083.47",
-      "change": -0.07
+      "price": "4067.24",
+      "change": -0.47
     },
     {
       "name": "深证成指",
-      "price": "14934.83",
-      "change": -0.41
+      "price": "14828.02",
+      "change": -1.12
     },
     {
       "name": "创业板",
-      "price": "3629.17",
-      "change": -0.54
+      "price": "3602.9",
+      "change": -1.26
     }
   ],
   "hot_sectors": [
     {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "23.08亿"
+    },
+    {
       "name": "通用设备",
       "count": 3,
-      "total_amount": "11.46亿"
+      "total_amount": "11.82亿"
+    },
+    {
+      "name": "消费",
+      "count": 3,
+      "total_amount": "10.42亿"
     },
     {
       "name": "医药",
       "count": 3,
-      "total_amount": "10.13亿"
+      "total_amount": "10.28亿"
     },
     {
       "name": "医疗服务",
       "count": 2,
-      "total_amount": "65.32亿"
-    },
-    {
-      "name": "电池",
-      "count": 2,
-      "total_amount": "22.45亿"
-    },
-    {
-      "name": "通信",
-      "count": 2,
-      "total_amount": "12.82亿"
+      "total_amount": "67.19亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "药明康德",
       "code": "603259",
       "change": "+10.00%",
-      "amount": "53.98亿"
+      "amount": "55.37亿"
+    },
+    {
+      "name": "博云新材",
+      "code": "002297",
+      "change": "+9.99%",
+      "amount": "41.92亿"
     },
     {
       "name": "盈峰环境",
       "code": "000967",
       "change": "+10.01%",
-      "amount": "25.77亿"
+      "amount": "26.38亿"
     },
     {
-      "name": "金安国纪",
-      "code": "002636",
-      "change": "+10.00%",
-      "amount": "22.24亿"
+      "name": "水发燃气",
+      "code": "603318",
+      "change": "+9.98%",
+      "amount": "18.71亿"
+    },
+    {
+      "name": "智微智能",
+      "code": "001339",
+      "change": "+10.01%",
+      "amount": "15.11亿"
+    },
+    {
+      "name": "华银电力",
+      "code": "600744",
+      "change": "+10.03%",
+      "amount": "13.89亿"
     },
     {
       "name": "罗曼股份",
       "code": "605289",
       "change": "+10.00%",
-      "amount": "13.18亿"
+      "amount": "13.34亿"
     },
     {
       "name": "综艺股份",
       "code": "600770",
       "change": "+10.06%",
-      "amount": "13.08亿"
+      "amount": "13.23亿"
     },
     {
       "name": "德龙汇能",
       "code": "000593",
       "change": "+9.99%",
-      "amount": "12.75亿"
+      "amount": "13.07亿"
     },
     {
-      "name": "凯莱英",
-      "code": "002821",
-      "change": "+10.00%",
-      "amount": "11.34亿"
-    },
-    {
-      "name": "雄韬股份",
-      "code": "002733",
-      "change": "+9.99%",
-      "amount": "11.31亿"
-    },
-    {
-      "name": "维科技术",
-      "code": "600152",
-      "change": "+10.03%",
-      "amount": "11.14亿"
-    },
-    {
-      "name": "仁东控股",
-      "code": "002647",
-      "change": "+9.99%",
-      "amount": "9.86亿"
+      "name": "蜀道装备",
+      "code": "300540",
+      "change": "+20.00%",
+      "amount": "12.45亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "盈峰环境 000967",
+      "stock": "博云新材 002297",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "金安国纪 002636",
+      "stock": "盈峰环境 000967",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
