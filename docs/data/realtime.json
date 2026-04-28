@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-04-28 05:57",
+  "update_time": "2026-04-28 07:25",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 53,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4069.59",
-      "change": -0.41
+      "price": "4078.64",
+      "change": -0.19
     },
     {
       "name": "深证成指",
-      "price": "14830.83",
+      "price": "14830.46",
       "change": -1.1
     },
     {
       "name": "创业板",
-      "price": "3602.06",
-      "change": -1.28
+      "price": "3596.71",
+      "change": -1.43
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "专用设备",
-      "count": 3,
-      "total_amount": "24.58亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 3,
-      "total_amount": "11.94亿"
-    },
-    {
-      "name": "消费",
-      "count": 3,
-      "total_amount": "10.70亿"
-    },
-    {
-      "name": "医药",
-      "count": 3,
-      "total_amount": "10.36亿"
-    },
-    {
-      "name": "医疗服务",
-      "count": 2,
-      "total_amount": "68.57亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "药明康德",
-      "code": "603259",
-      "change": "+10.00%",
-      "amount": "56.56亿"
-    },
-    {
-      "name": "博云新材",
-      "code": "002297",
-      "change": "+9.99%",
-      "amount": "42.66亿"
-    },
-    {
-      "name": "盈峰环境",
-      "code": "000967",
-      "change": "+10.01%",
-      "amount": "26.45亿"
-    },
-    {
-      "name": "水发燃气",
-      "code": "603318",
-      "change": "+9.98%",
-      "amount": "18.76亿"
-    },
-    {
-      "name": "华银电力",
-      "code": "600744",
-      "change": "+10.03%",
-      "amount": "14.74亿"
-    },
-    {
-      "name": "罗曼股份",
-      "code": "605289",
-      "change": "+10.00%",
-      "amount": "13.37亿"
-    },
-    {
-      "name": "综艺股份",
-      "code": "600770",
-      "change": "+10.06%",
-      "amount": "13.30亿"
-    },
-    {
-      "name": "德龙汇能",
-      "code": "000593",
-      "change": "+9.99%",
-      "amount": "13.11亿"
-    },
-    {
-      "name": "蜀道装备",
-      "code": "300540",
-      "change": "+20.00%",
-      "amount": "12.51亿"
-    },
-    {
-      "name": "凯莱英",
-      "code": "002821",
-      "change": "+10.00%",
-      "amount": "12.02亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "药明康德 603259",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "博云新材 002297",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "盈峰环境 000967",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
