@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-04-28 08:16",
-  "market_status": "休市",
+  "update_time": "2026-04-28 09:16",
+  "market_status": "盘中",
   "sentiment": "偏弱",
-  "limit_up_count": 0,
+  "limit_up_count": 58,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": -1.43
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "电力",
+      "count": 3,
+      "total_amount": "57.77亿"
+    },
+    {
+      "name": "装修装饰Ⅱ",
+      "count": 3,
+      "total_amount": "32.75亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "25.34亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "25.31亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "12.29亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "药明康德",
+      "code": "603259",
+      "change": "+10.00%",
+      "amount": "59.25亿"
+    },
+    {
+      "name": "博云新材",
+      "code": "002297",
+      "change": "+9.99%",
+      "amount": "43.41亿"
+    },
+    {
+      "name": "华电能源",
+      "code": "600726",
+      "change": "+10.03%",
+      "amount": "36.84亿"
+    },
+    {
+      "name": "盈峰环境",
+      "code": "000967",
+      "change": "+10.01%",
+      "amount": "26.95亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+9.93%",
+      "amount": "22.24亿"
+    },
+    {
+      "name": "水发燃气",
+      "code": "603318",
+      "change": "+9.98%",
+      "amount": "18.84亿"
+    },
+    {
+      "name": "华银电力",
+      "code": "600744",
+      "change": "+10.03%",
+      "amount": "16.37亿"
+    },
+    {
+      "name": "雄韬股份",
+      "code": "002733",
+      "change": "+9.99%",
+      "amount": "13.74亿"
+    },
+    {
+      "name": "罗曼股份",
+      "code": "605289",
+      "change": "+10.00%",
+      "amount": "13.68亿"
+    },
+    {
+      "name": "综艺股份",
+      "code": "600770",
+      "change": "+10.06%",
+      "amount": "13.68亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "药明康德 603259",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "博云新材 002297",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华电能源 600726",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
