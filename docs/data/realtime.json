@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-04-29 09:07",
+  "update_time": "2026-04-30 04:47",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 73,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4107.51",
-      "change": 0.71
+      "price": "4111.02",
+      "change": 0.09
     },
     {
       "name": "深证成指",
-      "price": "15120.92",
-      "change": 1.96
+      "price": "15111.33",
+      "change": -0.06
     },
     {
       "name": "创业板",
-      "price": "3687.17",
-      "change": 2.52
+      "price": "3682.49",
+      "change": -0.13
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "电池",
-      "count": 7,
-      "total_amount": "296.59亿"
-    },
-    {
-      "name": "小金属",
-      "count": 6,
-      "total_amount": "253.44亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "50.57亿"
-    },
-    {
-      "name": "专用设备",
-      "count": 4,
-      "total_amount": "16.03亿"
-    },
-    {
-      "name": "塑料",
-      "count": 3,
-      "total_amount": "30.50亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "天赐材料",
-      "code": "002709",
-      "change": "+9.99%",
-      "amount": "103.01亿"
-    },
-    {
-      "name": "北方稀土",
-      "code": "600111",
-      "change": "+10.00%",
-      "amount": "93.53亿"
-    },
-    {
-      "name": "鹏辉能源",
-      "code": "300438",
-      "change": "+20.00%",
-      "amount": "55.24亿"
-    },
-    {
-      "name": "铜冠铜箔",
-      "code": "301217",
-      "change": "+20.00%",
-      "amount": "50.00亿"
-    },
-    {
-      "name": "剑桥科技",
-      "code": "603083",
-      "change": "+10.00%",
-      "amount": "48.82亿"
-    },
-    {
-      "name": "中钨高新",
-      "code": "000657",
-      "change": "+10.00%",
-      "amount": "45.51亿"
-    },
-    {
-      "name": "融捷股份",
-      "code": "002192",
-      "change": "+10.00%",
-      "amount": "37.57亿"
-    },
-    {
-      "name": "西藏珠峰",
-      "code": "600338",
-      "change": "+10.00%",
-      "amount": "36.40亿"
-    },
-    {
-      "name": "章源钨业",
-      "code": "002378",
-      "change": "+9.99%",
-      "amount": "35.49亿"
-    },
-    {
-      "name": "德方纳米",
-      "code": "300769",
-      "change": "+20.00%",
-      "amount": "32.69亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "天赐材料 002709",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "北方稀土 600111",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "鹏辉能源 300438",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
