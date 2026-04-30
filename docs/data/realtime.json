@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-04-30 07:22",
+  "update_time": "2026-04-30 08:12",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 66,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": -0.27
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "36.17亿"
+    },
+    {
+      "name": "半导体",
+      "count": 4,
+      "total_amount": "401.75亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 4,
+      "total_amount": "71.97亿"
+    },
+    {
+      "name": "房地产",
+      "count": 3,
+      "total_amount": "23.82亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "19.76亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "寒武纪",
+      "code": "688256",
+      "change": "+20.00%",
+      "amount": "284.66亿"
+    },
+    {
+      "name": "芯原股份",
+      "code": "688521",
+      "change": "+20.00%",
+      "amount": "111.24亿"
+    },
+    {
+      "name": "利通电子",
+      "code": "603629",
+      "change": "+9.99%",
+      "amount": "63.52亿"
+    },
+    {
+      "name": "盛新锂能",
+      "code": "002240",
+      "change": "+9.99%",
+      "amount": "52.39亿"
+    },
+    {
+      "name": "西部材料",
+      "code": "002149",
+      "change": "+9.99%",
+      "amount": "46.84亿"
+    },
+    {
+      "name": "创世纪",
+      "code": "300083",
+      "change": "+20.02%",
+      "amount": "40.40亿"
+    },
+    {
+      "name": "融捷股份",
+      "code": "002192",
+      "change": "+10.00%",
+      "amount": "36.46亿"
+    },
+    {
+      "name": "翔鹭钨业",
+      "code": "002842",
+      "change": "+10.00%",
+      "amount": "33.58亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+10.07%",
+      "amount": "32.20亿"
+    },
+    {
+      "name": "日联科技",
+      "code": "688531",
+      "change": "+20.00%",
+      "amount": "28.27亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "寒武纪 688256",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "芯原股份 688521",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "利通电子 603629",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
