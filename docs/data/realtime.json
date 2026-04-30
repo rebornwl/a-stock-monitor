@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-30 04:59",
+  "update_time": "2026-04-30 05:36",
   "market_status": "休市",
   "sentiment": "中性",
   "limit_up_count": 0,
@@ -7,17 +7,17 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "4111.02",
-      "change": 0.09
+      "price": "4106.36",
+      "change": -0.03
     },
     {
       "name": "深证成指",
-      "price": "15111.33",
-      "change": -0.06
+      "price": "15103.3",
+      "change": -0.12
     },
     {
       "name": "创业板",
-      "price": "3682.49",
+      "price": "3682.42",
       "change": -0.13
     }
   ],
