@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-05-06 05:35",
+  "update_time": "2026-05-06 05:54",
   "market_status": "休市",
   "sentiment": "极度亢奋",
-  "limit_up_count": 39,
+  "limit_up_count": 41,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4159.15",
-      "change": 1.14
+      "price": "4161.27",
+      "change": 1.19
     },
     {
       "name": "深证成指",
-      "price": "15470.26",
-      "change": 2.4
+      "price": "15485.01",
+      "change": 2.5
     },
     {
       "name": "创业板",
-      "price": "3787.93",
-      "change": 3.01
+      "price": "3789.23",
+      "change": 3.05
     }
   ],
   "hot_sectors": [
     {
       "name": "电力",
       "count": 4,
-      "total_amount": "74.99亿"
+      "total_amount": "75.30亿"
     },
     {
       "name": "半导体",
       "count": 3,
-      "total_amount": "225.32亿"
+      "total_amount": "229.14亿"
     },
     {
       "name": "IT服务Ⅱ",
       "count": 3,
-      "total_amount": "78.44亿"
+      "total_amount": "78.63亿"
     },
     {
       "name": "计算机设备",
       "count": 3,
-      "total_amount": "48.79亿"
+      "total_amount": "49.28亿"
     },
     {
       "name": "光学光电子",
       "count": 2,
-      "total_amount": "51.27亿"
+      "total_amount": "51.49亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "海光信息",
       "code": "688041",
       "change": "+20.00%",
-      "amount": "116.02亿"
+      "amount": "118.17亿"
     },
     {
       "name": "江波龙",
       "code": "301308",
       "change": "+20.00%",
-      "amount": "104.71亿"
+      "amount": "105.00亿"
     },
     {
       "name": "东方国信",
       "code": "300166",
       "change": "+20.01%",
-      "amount": "43.70亿"
+      "amount": "43.76亿"
+    },
+    {
+      "name": "盈峰环境",
+      "code": "000967",
+      "change": "+10.02%",
+      "amount": "35.95亿"
     },
     {
       "name": "三安光电",
       "code": "600703",
       "change": "+10.02%",
-      "amount": "33.80亿"
+      "amount": "33.97亿"
     },
     {
       "name": "协鑫能科",
       "code": "002015",
       "change": "+10.03%",
-      "amount": "30.83亿"
+      "amount": "30.93亿"
     },
     {
       "name": "德福科技",
       "code": "301511",
       "change": "+20.00%",
-      "amount": "30.30亿"
+      "amount": "30.67亿"
     },
     {
       "name": "节能风电",
       "code": "601016",
       "change": "+10.09%",
-      "amount": "26.15亿"
+      "amount": "26.29亿"
     },
     {
       "name": "朗科科技",
       "code": "300042",
       "change": "+19.99%",
-      "amount": "25.99亿"
-    },
-    {
-      "name": "大位科技",
-      "code": "600589",
-      "change": "+10.03%",
-      "amount": "24.65亿"
+      "amount": "26.04亿"
     },
     {
       "name": "瑞可达",
       "code": "688800",
       "change": "+20.00%",
-      "amount": "23.18亿"
+      "amount": "25.52亿"
     }
   ],
   "opportunities": [
