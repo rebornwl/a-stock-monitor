@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-08 05:10",
+  "update_time": "2026-05-08 05:28",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 73,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4169.85",
-      "change": -0.24
+      "price": "4176.57",
+      "change": -0.08
     },
     {
       "name": "深证成指",
-      "price": "15518.83",
-      "change": -0.79
+      "price": "15579.66",
+      "change": -0.4
     },
     {
       "name": "创业板",
-      "price": "3800.49",
-      "change": -0.85
+      "price": "3819.03",
+      "change": -0.37
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通用设备",
-      "count": 9,
-      "total_amount": "70.80亿"
-    },
-    {
-      "name": "汽车",
-      "count": 6,
-      "total_amount": "44.64亿"
-    },
-    {
-      "name": "通信",
-      "count": 5,
-      "total_amount": "77.99亿"
-    },
-    {
-      "name": "IT服务Ⅱ",
-      "count": 5,
-      "total_amount": "26.04亿"
-    },
-    {
-      "name": "房地产",
-      "count": 5,
-      "total_amount": "17.79亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "大唐发电",
-      "code": "601991",
-      "change": "+9.92%",
-      "amount": "65.02亿"
-    },
-    {
-      "name": "汇绿生态",
-      "code": "001267",
-      "change": "+10.00%",
-      "amount": "30.71亿"
-    },
-    {
-      "name": "五洲新春",
-      "code": "603667",
-      "change": "+10.01%",
-      "amount": "27.67亿"
-    },
-    {
-      "name": "圣阳股份",
-      "code": "002580",
-      "change": "+10.00%",
-      "amount": "27.31亿"
-    },
-    {
-      "name": "立昂微",
-      "code": "605358",
-      "change": "+9.99%",
-      "amount": "24.83亿"
-    },
-    {
-      "name": "通鼎互联",
-      "code": "002491",
-      "change": "+10.01%",
-      "amount": "22.97亿"
-    },
-    {
-      "name": "飞龙股份",
-      "code": "002536",
-      "change": "+10.00%",
-      "amount": "20.21亿"
-    },
-    {
-      "name": "共达电声",
-      "code": "002655",
-      "change": "+10.00%",
-      "amount": "16.64亿"
-    },
-    {
-      "name": "润建股份",
-      "code": "002929",
-      "change": "+10.00%",
-      "amount": "15.72亿"
-    },
-    {
-      "name": "雷赛智能",
-      "code": "002979",
-      "change": "+10.00%",
-      "amount": "15.63亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "大唐发电 601991",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "汇绿生态 001267",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "五洲新春 603667",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
