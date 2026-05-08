@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-08 05:28",
+  "update_time": "2026-05-08 06:26",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 75,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4176.57",
-      "change": -0.08
+      "price": "4175.9",
+      "change": -0.1
     },
     {
       "name": "深证成指",
-      "price": "15579.66",
-      "change": -0.4
+      "price": "15554.79",
+      "change": -0.56
     },
     {
       "name": "创业板",
-      "price": "3819.03",
-      "change": -0.37
+      "price": "3796.42",
+      "change": -0.96
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "通用设备",
+      "count": 9,
+      "total_amount": "99.56亿"
+    },
+    {
+      "name": "通信",
+      "count": 7,
+      "total_amount": "169.86亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 6,
+      "total_amount": "68.89亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "50.47亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "38.15亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "烽火通信",
+      "code": "600498",
+      "change": "+10.00%",
+      "amount": "75.28亿"
+    },
+    {
+      "name": "航天发展",
+      "code": "000547",
+      "change": "+10.01%",
+      "amount": "62.11亿"
+    },
+    {
+      "name": "大位科技",
+      "code": "600589",
+      "change": "+10.03%",
+      "amount": "41.79亿"
+    },
+    {
+      "name": "电科蓝天",
+      "code": "688818",
+      "change": "+19.99%",
+      "amount": "36.11亿"
+    },
+    {
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+10.00%",
+      "amount": "35.16亿"
+    },
+    {
+      "name": "汇绿生态",
+      "code": "001267",
+      "change": "+10.00%",
+      "amount": "33.86亿"
+    },
+    {
+      "name": "立昂微",
+      "code": "605358",
+      "change": "+9.99%",
+      "amount": "28.62亿"
+    },
+    {
+      "name": "钧达股份",
+      "code": "002865",
+      "change": "+10.01%",
+      "amount": "28.39亿"
+    },
+    {
+      "name": "五洲新春",
+      "code": "603667",
+      "change": "+10.01%",
+      "amount": "28.31亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.00%",
+      "amount": "27.57亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "烽火通信 600498",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "航天发展 000547",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "大位科技 600589",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
