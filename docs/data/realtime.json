@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-12 05:45",
+  "update_time": "2026-05-12 06:12",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 50,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4205.38",
-      "change": -0.46
+      "price": "4206.92",
+      "change": -0.43
     },
     {
       "name": "深证成指",
-      "price": "15780.21",
-      "change": -0.75
+      "price": "15792.1",
+      "change": -0.67
     },
     {
       "name": "创业板",
-      "price": "3918.69",
-      "change": -0.26
+      "price": "3927.52",
+      "change": -0.04
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "电网设备",
+      "count": 8,
+      "total_amount": "101.24亿"
+    },
+    {
+      "name": "电力",
+      "count": 5,
+      "total_amount": "86.03亿"
+    },
+    {
+      "name": "房地产",
+      "count": 4,
+      "total_amount": "44.11亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "43.20亿"
+    },
+    {
+      "name": "汽车",
+      "count": 4,
+      "total_amount": "20.30亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "大唐发电",
+      "code": "601991",
+      "change": "+10.02%",
+      "amount": "44.98亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+10.07%",
+      "amount": "39.22亿"
+    },
+    {
+      "name": "黄河旋风",
+      "code": "600172",
+      "change": "+10.02%",
+      "amount": "35.60亿"
+    },
+    {
+      "name": "科翔股份",
+      "code": "300903",
+      "change": "+19.59%",
+      "amount": "30.97亿"
+    },
+    {
+      "name": "通鼎互联",
+      "code": "002491",
+      "change": "+9.99%",
+      "amount": "30.91亿"
+    },
+    {
+      "name": "汉缆股份",
+      "code": "002498",
+      "change": "+10.00%",
+      "amount": "27.95亿"
+    },
+    {
+      "name": "石英股份",
+      "code": "603688",
+      "change": "+10.00%",
+      "amount": "27.57亿"
+    },
+    {
+      "name": "通光线缆",
+      "code": "300265",
+      "change": "+20.00%",
+      "amount": "21.69亿"
+    },
+    {
+      "name": "通达股份",
+      "code": "002560",
+      "change": "+10.00%",
+      "amount": "18.41亿"
+    },
+    {
+      "name": "宝鼎科技",
+      "code": "002552",
+      "change": "+9.99%",
+      "amount": "16.87亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "大唐发电 601991",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "金 螳 螂 002081",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "黄河旋风 600172",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
