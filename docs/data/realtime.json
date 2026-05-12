@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-05-12 07:35",
+  "update_time": "2026-05-12 08:32",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 57,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,116 +21,7 @@
       "change": 0.15
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "电网设备",
-      "count": 8,
-      "total_amount": "102.76亿"
-    },
-    {
-      "name": "电力",
-      "count": 6,
-      "total_amount": "134.55亿"
-    },
-    {
-      "name": "房地产",
-      "count": 4,
-      "total_amount": "45.08亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 4,
-      "total_amount": "44.42亿"
-    },
-    {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "21.45亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "云南锗业",
-      "code": "002428",
-      "change": "+10.00%",
-      "amount": "107.64亿"
-    },
-    {
-      "name": "华电辽能",
-      "code": "600396",
-      "change": "+10.01%",
-      "amount": "47.28亿"
-    },
-    {
-      "name": "大唐发电",
-      "code": "601991",
-      "change": "+10.02%",
-      "amount": "45.29亿"
-    },
-    {
-      "name": "金 螳 螂",
-      "code": "002081",
-      "change": "+10.07%",
-      "amount": "42.25亿"
-    },
-    {
-      "name": "太极实业",
-      "code": "600667",
-      "change": "+10.04%",
-      "amount": "38.01亿"
-    },
-    {
-      "name": "黄河旋风",
-      "code": "600172",
-      "change": "+10.02%",
-      "amount": "36.62亿"
-    },
-    {
-      "name": "通鼎互联",
-      "code": "002491",
-      "change": "+9.99%",
-      "amount": "31.26亿"
-    },
-    {
-      "name": "汉缆股份",
-      "code": "002498",
-      "change": "+10.00%",
-      "amount": "28.46亿"
-    },
-    {
-      "name": "石英股份",
-      "code": "603688",
-      "change": "+10.00%",
-      "amount": "27.93亿"
-    },
-    {
-      "name": "通光线缆",
-      "code": "300265",
-      "change": "+20.00%",
-      "amount": "21.95亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "云南锗业 002428",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "华电辽能 600396",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "大唐发电 601991",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
