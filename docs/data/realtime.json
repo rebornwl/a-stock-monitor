@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-14 06:22",
+  "update_time": "2026-05-14 07:36",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 60,
+  "sentiment": "极度低迷",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4218.62",
-      "change": -0.56
+      "price": "4177.92",
+      "change": -1.52
     },
     {
       "name": "深证成指",
-      "price": "15973.76",
-      "change": -0.72
+      "price": "15745.74",
+      "change": -2.14
     },
     {
       "name": "创业板",
-      "price": "4016.72",
-      "change": -0.54
+      "price": "3951.14",
+      "change": -2.16
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "化学制品",
-      "count": 6,
-      "total_amount": "41.43亿"
-    },
-    {
-      "name": "消费",
-      "count": 5,
-      "total_amount": "101.33亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "101.21亿"
-    },
-    {
-      "name": "新能源",
-      "count": 4,
-      "total_amount": "80.80亿"
-    },
-    {
-      "name": "电力",
-      "count": 4,
-      "total_amount": "56.95亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "领益智造",
-      "code": "002600",
-      "change": "+9.63%",
-      "amount": "84.92亿"
-    },
-    {
-      "name": "汇绿生态",
-      "code": "001267",
-      "change": "+9.99%",
-      "amount": "40.07亿"
-    },
-    {
-      "name": "蔚蓝锂芯",
-      "code": "002245",
-      "change": "+10.00%",
-      "amount": "39.44亿"
-    },
-    {
-      "name": "协鑫集成",
-      "code": "002506",
-      "change": "+10.11%",
-      "amount": "37.45亿"
-    },
-    {
-      "name": "中船特气",
-      "code": "688146",
-      "change": "+20.00%",
-      "amount": "37.20亿"
-    },
-    {
-      "name": "露笑科技",
-      "code": "002617",
-      "change": "+9.98%",
-      "amount": "29.32亿"
-    },
-    {
-      "name": "中瓷电子",
-      "code": "003031",
-      "change": "+10.00%",
-      "amount": "25.73亿"
-    },
-    {
-      "name": "招商南油",
-      "code": "601975",
-      "change": "+9.96%",
-      "amount": "24.29亿"
-    },
-    {
-      "name": "双良节能",
-      "code": "600481",
-      "change": "+9.95%",
-      "amount": "22.57亿"
-    },
-    {
-      "name": "正帆科技",
-      "code": "688596",
-      "change": "+19.99%",
-      "amount": "19.21亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "领益智造 002600",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "汇绿生态 001267",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "蔚蓝锂芯 002245",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
