@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-15 05:02",
+  "update_time": "2026-05-15 05:32",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 64,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4163.38",
-      "change": -0.35
+      "price": "4152.31",
+      "change": -0.61
     },
     {
       "name": "深证成指",
-      "price": "15658.32",
-      "change": -0.56
+      "price": "15630.96",
+      "change": -0.73
     },
     {
       "name": "创业板",
-      "price": "3940.27",
-      "change": -0.28
+      "price": "3943.93",
+      "change": -0.18
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "通用设备",
+      "count": 7,
+      "total_amount": "112.01亿"
+    },
+    {
+      "name": "汽车",
+      "count": 6,
+      "total_amount": "20.77亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 5,
+      "total_amount": "74.37亿"
+    },
+    {
+      "name": "机器人",
+      "count": 4,
+      "total_amount": "28.06亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "47.59亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "大唐发电",
+      "code": "601991",
+      "change": "+10.00%",
+      "amount": "98.85亿"
+    },
+    {
+      "name": "多氟多",
+      "code": "002407",
+      "change": "+10.02%",
+      "amount": "53.02亿"
+    },
+    {
+      "name": "五洲新春",
+      "code": "603667",
+      "change": "+10.01%",
+      "amount": "46.31亿"
+    },
+    {
+      "name": "N维通利",
+      "code": "001393",
+      "change": "+327.95%",
+      "amount": "38.73亿"
+    },
+    {
+      "name": "巨轮智能",
+      "code": "002031",
+      "change": "+9.95%",
+      "amount": "37.44亿"
+    },
+    {
+      "name": "京能电力",
+      "code": "600578",
+      "change": "+9.89%",
+      "amount": "26.33亿"
+    },
+    {
+      "name": "长盈通",
+      "code": "688143",
+      "change": "+20.00%",
+      "amount": "25.52亿"
+    },
+    {
+      "name": "隆华科技",
+      "code": "300263",
+      "change": "+20.00%",
+      "amount": "22.13亿"
+    },
+    {
+      "name": "中南文化",
+      "code": "002445",
+      "change": "+10.05%",
+      "amount": "14.98亿"
+    },
+    {
+      "name": "粤 传 媒",
+      "code": "002181",
+      "change": "+10.00%",
+      "amount": "14.75亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "大唐发电 601991",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "多氟多 002407",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "五洲新春 603667",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
