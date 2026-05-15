@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-15 06:01",
+  "update_time": "2026-05-15 06:32",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 0,
+  "sentiment": "极度低迷",
+  "limit_up_count": 54,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4122.72",
-      "change": -1.32
+      "price": "4116.69",
+      "change": -1.47
     },
     {
       "name": "深证成指",
-      "price": "15498.31",
-      "change": -1.57
+      "price": "15458.42",
+      "change": -1.82
     },
     {
       "name": "创业板",
-      "price": "3907.69",
-      "change": -1.1
+      "price": "3895.04",
+      "change": -1.42
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "74.86亿"
+    },
+    {
+      "name": "机器人",
+      "count": 4,
+      "total_amount": "31.33亿"
+    },
+    {
+      "name": "汽车",
+      "count": 4,
+      "total_amount": "11.27亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "49.83亿"
+    },
+    {
+      "name": "电机Ⅱ",
+      "count": 3,
+      "total_amount": "19.71亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "大唐发电",
+      "code": "601991",
+      "change": "+10.00%",
+      "amount": "110.83亿"
+    },
+    {
+      "name": "多氟多",
+      "code": "002407",
+      "change": "+10.02%",
+      "amount": "55.03亿"
+    },
+    {
+      "name": "N维通利",
+      "code": "001393",
+      "change": "+304.81%",
+      "amount": "42.99亿"
+    },
+    {
+      "name": "巨轮智能",
+      "code": "002031",
+      "change": "+9.95%",
+      "amount": "38.34亿"
+    },
+    {
+      "name": "隆华科技",
+      "code": "300263",
+      "change": "+19.91%",
+      "amount": "30.32亿"
+    },
+    {
+      "name": "京能电力",
+      "code": "600578",
+      "change": "+10.05%",
+      "amount": "28.80亿"
+    },
+    {
+      "name": "粤 传 媒",
+      "code": "002181",
+      "change": "+10.00%",
+      "amount": "19.24亿"
+    },
+    {
+      "name": "方正电机",
+      "code": "002196",
+      "change": "+10.03%",
+      "amount": "15.69亿"
+    },
+    {
+      "name": "三瑞智能",
+      "code": "301696",
+      "change": "+20.00%",
+      "amount": "14.25亿"
+    },
+    {
+      "name": "江化微",
+      "code": "603078",
+      "change": "+10.00%",
+      "amount": "12.46亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "大唐发电 601991",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "多氟多 002407",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "N维通利 001393",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
