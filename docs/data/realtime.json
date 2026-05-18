@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-18 05:47",
+  "update_time": "2026-05-18 06:22",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 66,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4132.76",
-      "change": -0.06
+      "price": "4119.94",
+      "change": -0.37
     },
     {
       "name": "深证成指",
-      "price": "15547.88",
-      "change": -0.09
+      "price": "15490.93",
+      "change": -0.45
     },
     {
       "name": "创业板",
-      "price": "3918.28",
-      "change": -0.27
+      "price": "3904.84",
+      "change": -0.62
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "元件",
-      "count": 6,
-      "total_amount": "114.09亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "44.23亿"
-    },
-    {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "38.78亿"
-    },
-    {
-      "name": "机器人",
-      "count": 3,
-      "total_amount": "120.30亿"
-    },
-    {
-      "name": "光学光电子",
-      "count": 3,
-      "total_amount": "24.59亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "华工科技",
-      "code": "000988",
-      "change": "+10.00%",
-      "amount": "95.04亿"
-    },
-    {
-      "name": "生益科技",
-      "code": "600183",
-      "change": "+10.01%",
-      "amount": "63.03亿"
-    },
-    {
-      "name": "深科技",
-      "code": "000021",
-      "change": "+10.01%",
-      "amount": "33.39亿"
-    },
-    {
-      "name": "再升科技",
-      "code": "603601",
-      "change": "+10.02%",
-      "amount": "31.22亿"
-    },
-    {
-      "name": "同有科技",
-      "code": "300302",
-      "change": "+20.00%",
-      "amount": "27.95亿"
-    },
-    {
-      "name": "风华高科",
-      "code": "000636",
-      "change": "+10.00%",
-      "amount": "26.77亿"
-    },
-    {
-      "name": "N天海",
-      "code": "001365",
-      "change": "+160.72%",
-      "amount": "25.03亿"
-    },
-    {
-      "name": "雅克科技",
-      "code": "002409",
-      "change": "+10.00%",
-      "amount": "20.20亿"
-    },
-    {
-      "name": "万润科技",
-      "code": "002654",
-      "change": "+10.02%",
-      "amount": "18.11亿"
-    },
-    {
-      "name": "理奇智能",
-      "code": "301599",
-      "change": "+20.00%",
-      "amount": "15.66亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "华工科技 000988",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "生益科技 600183",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "深科技 000021",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
