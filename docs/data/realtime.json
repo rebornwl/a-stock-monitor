@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-05-19 05:14",
+  "update_time": "2026-05-19 05:42",
   "market_status": "休市",
-  "sentiment": "偏弱",
+  "sentiment": "中性",
   "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4139.07",
-      "change": 0.18
+      "price": "4142.36",
+      "change": 0.26
     },
     {
       "name": "深证成指",
-      "price": "15415.01",
-      "change": -0.74
+      "price": "15481.57",
+      "change": -0.31
     },
     {
       "name": "创业板",
-      "price": "3861.63",
-      "change": -1.36
+      "price": "3881.1",
+      "change": -0.86
     }
   ],
   "hot_sectors": [],
