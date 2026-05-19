@@ -1,27 +1,120 @@
 {
-  "update_time": "2026-05-19 05:42",
+  "update_time": "2026-05-19 06:16",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 77,
   "limit_down_count": 0,
-  "indices": [
+  "indices": [],
+  "hot_sectors": [
     {
-      "name": "上证指数",
-      "price": "4142.36",
-      "change": 0.26
+      "name": "电力",
+      "count": 9,
+      "total_amount": "124.72亿"
     },
     {
-      "name": "深证成指",
-      "price": "15481.57",
-      "change": -0.31
+      "name": "元件",
+      "count": 8,
+      "total_amount": "137.56亿"
     },
     {
-      "name": "创业板",
-      "price": "3881.1",
-      "change": -0.86
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "47.08亿"
+    },
+    {
+      "name": "通信",
+      "count": 4,
+      "total_amount": "16.24亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "13.14亿"
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "dragon_stocks": [
+    {
+      "name": "合肥城建",
+      "code": "002208",
+      "change": "+9.98%",
+      "amount": "46.39亿"
+    },
+    {
+      "name": "莲花控股",
+      "code": "600186",
+      "change": "+9.99%",
+      "amount": "42.30亿"
+    },
+    {
+      "name": "弘信电子",
+      "code": "300657",
+      "change": "+20.00%",
+      "amount": "42.22亿"
+    },
+    {
+      "name": "京能电力",
+      "code": "600578",
+      "change": "+9.99%",
+      "amount": "38.95亿"
+    },
+    {
+      "name": "江海股份",
+      "code": "002484",
+      "change": "+10.01%",
+      "amount": "29.46亿"
+    },
+    {
+      "name": "光莆股份",
+      "code": "300632",
+      "change": "+19.94%",
+      "amount": "27.18亿"
+    },
+    {
+      "name": "风华高科",
+      "code": "000636",
+      "change": "+9.99%",
+      "amount": "22.22亿"
+    },
+    {
+      "name": "豫能控股",
+      "code": "001896",
+      "change": "+9.99%",
+      "amount": "20.32亿"
+    },
+    {
+      "name": "万通发展",
+      "code": "600246",
+      "change": "+10.04%",
+      "amount": "19.50亿"
+    },
+    {
+      "name": "振华股份",
+      "code": "603067",
+      "change": "+10.01%",
+      "amount": "19.27亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "合肥城建 002208",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "莲花控股 600186",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "弘信电子 300657",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
