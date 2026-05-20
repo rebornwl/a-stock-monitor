@@ -1,113 +1,113 @@
 {
-  "update_time": "2026-05-20 06:16",
+  "update_time": "2026-05-20 06:46",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 57,
+  "limit_up_count": 63,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4151.84",
-      "change": -0.42
+      "price": "4161.72",
+      "change": -0.19
     },
     {
       "name": "深证成指",
-      "price": "15535.06",
-      "change": -0.22
+      "price": "15570.73",
+      "change": 0.01
     },
     {
       "name": "创业板",
-      "price": "3916.38",
-      "change": 0.2
+      "price": "3921.28",
+      "change": 0.33
     }
   ],
   "hot_sectors": [
     {
       "name": "半导体",
-      "count": 5,
-      "total_amount": "308.33亿"
+      "count": 6,
+      "total_amount": "338.08亿"
     },
     {
       "name": "电网设备",
       "count": 4,
-      "total_amount": "64.16亿"
+      "total_amount": "66.32亿"
     },
     {
       "name": "汽车",
       "count": 3,
-      "total_amount": "30.99亿"
+      "total_amount": "31.70亿"
     },
     {
       "name": "房地产",
       "count": 3,
-      "total_amount": "24.51亿"
+      "total_amount": "24.76亿"
     },
     {
       "name": "通用设备",
       "count": 3,
-      "total_amount": "24.11亿"
+      "total_amount": "24.32亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "兆易创新",
       "code": "603986",
-      "change": "+9.66%",
-      "amount": "238.55亿"
+      "change": "+10.00%",
+      "amount": "262.50亿"
     },
     {
       "name": "多氟多",
       "code": "002407",
       "change": "+10.00%",
-      "amount": "78.61亿"
+      "amount": "79.36亿"
+    },
+    {
+      "name": "万润科技",
+      "code": "002654",
+      "change": "+9.58%",
+      "amount": "46.76亿"
     },
     {
       "name": "杭电股份",
       "code": "603618",
       "change": "+10.00%",
-      "amount": "26.56亿"
+      "amount": "26.68亿"
+    },
+    {
+      "name": "联芸科技",
+      "code": "688449",
+      "change": "+20.01%",
+      "amount": "24.85亿"
+    },
+    {
+      "name": "C维通利",
+      "code": "001393",
+      "change": "+18.58%",
+      "amount": "24.58亿"
     },
     {
       "name": "晶方科技",
       "code": "603005",
       "change": "+10.01%",
-      "amount": "23.70亿"
+      "amount": "23.98亿"
     },
     {
-      "name": "联芸科技",
-      "code": "688449",
-      "change": "+19.79%",
-      "amount": "22.79亿"
-    },
-    {
-      "name": "C维通利",
-      "code": "001393",
-      "change": "+16.24%",
-      "amount": "22.78亿"
+      "name": "沃格光电",
+      "code": "603773",
+      "change": "+9.98%",
+      "amount": "23.55亿"
     },
     {
       "name": "达实智能",
       "code": "002421",
       "change": "+10.05%",
-      "amount": "22.02亿"
+      "amount": "22.20亿"
     },
     {
       "name": "利和兴",
       "code": "301013",
       "change": "+20.00%",
-      "amount": "21.86亿"
-    },
-    {
-      "name": "张江高科",
-      "code": "600895",
-      "change": "+10.01%",
-      "amount": "21.46亿"
-    },
-    {
-      "name": "银轮股份",
-      "code": "002126",
-      "change": "+10.01%",
-      "amount": "20.30亿"
+      "amount": "21.98亿"
     }
   ],
   "opportunities": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "杭电股份 603618",
+      "stock": "万润科技 002654",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
