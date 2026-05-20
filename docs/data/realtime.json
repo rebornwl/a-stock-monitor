@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-20 05:45",
+  "update_time": "2026-05-20 06:16",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 57,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4154.78",
-      "change": -0.35
+      "price": "4151.84",
+      "change": -0.42
     },
     {
       "name": "深证成指",
-      "price": "15534.14",
-      "change": -0.23
+      "price": "15535.06",
+      "change": -0.22
     },
     {
       "name": "创业板",
-      "price": "3914.05",
-      "change": 0.14
+      "price": "3916.38",
+      "change": 0.2
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "半导体",
+      "count": 5,
+      "total_amount": "308.33亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 4,
+      "total_amount": "64.16亿"
+    },
+    {
+      "name": "汽车",
+      "count": 3,
+      "total_amount": "30.99亿"
+    },
+    {
+      "name": "房地产",
+      "count": 3,
+      "total_amount": "24.51亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "24.11亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "兆易创新",
+      "code": "603986",
+      "change": "+9.66%",
+      "amount": "238.55亿"
+    },
+    {
+      "name": "多氟多",
+      "code": "002407",
+      "change": "+10.00%",
+      "amount": "78.61亿"
+    },
+    {
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+10.00%",
+      "amount": "26.56亿"
+    },
+    {
+      "name": "晶方科技",
+      "code": "603005",
+      "change": "+10.01%",
+      "amount": "23.70亿"
+    },
+    {
+      "name": "联芸科技",
+      "code": "688449",
+      "change": "+19.79%",
+      "amount": "22.79亿"
+    },
+    {
+      "name": "C维通利",
+      "code": "001393",
+      "change": "+16.24%",
+      "amount": "22.78亿"
+    },
+    {
+      "name": "达实智能",
+      "code": "002421",
+      "change": "+10.05%",
+      "amount": "22.02亿"
+    },
+    {
+      "name": "利和兴",
+      "code": "301013",
+      "change": "+20.00%",
+      "amount": "21.86亿"
+    },
+    {
+      "name": "张江高科",
+      "code": "600895",
+      "change": "+10.01%",
+      "amount": "21.46亿"
+    },
+    {
+      "name": "银轮股份",
+      "code": "002126",
+      "change": "+10.01%",
+      "amount": "20.30亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "兆易创新 603986",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "多氟多 002407",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "杭电股份 603618",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
