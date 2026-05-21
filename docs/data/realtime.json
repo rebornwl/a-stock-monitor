@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-21 06:52",
+  "update_time": "2026-05-21 08:25",
   "market_status": "休市",
   "sentiment": "极度低迷",
   "limit_up_count": 36,
@@ -7,120 +7,120 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "4076.56",
-      "change": -2.06
+      "price": "4077.28",
+      "change": -2.04
     },
     {
       "name": "深证成指",
-      "price": "15244.6",
-      "change": -2.09
+      "price": "15247.27",
+      "change": -2.07
     },
     {
       "name": "创业板",
-      "price": "3831.42",
-      "change": -2.3
+      "price": "3829.78",
+      "change": -2.35
     }
   ],
   "hot_sectors": [
     {
       "name": "光学光电子",
-      "count": 7,
-      "total_amount": "87.00亿"
+      "count": 6,
+      "total_amount": "93.37亿"
     },
     {
       "name": "汽车",
-      "count": 5,
-      "total_amount": "64.93亿"
+      "count": 4,
+      "total_amount": "56.00亿"
     },
     {
       "name": "生物制品",
       "count": 3,
-      "total_amount": "15.16亿"
+      "total_amount": "15.41亿"
     },
     {
       "name": "电力",
       "count": 2,
-      "total_amount": "87.22亿"
+      "total_amount": "88.36亿"
     },
     {
-      "name": "机器人",
-      "count": 1,
-      "total_amount": "30.22亿"
+      "name": "消费",
+      "count": 2,
+      "total_amount": "24.31亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "豫能控股",
-      "code": "001896",
-      "change": "+10.01%",
-      "amount": "46.06亿"
-    },
-    {
       "name": "京东方Ａ",
       "code": "000725",
       "change": "+10.09%",
-      "amount": "43.51亿"
+      "amount": "48.59亿"
+    },
+    {
+      "name": "豫能控股",
+      "code": "001896",
+      "change": "+10.01%",
+      "amount": "46.81亿"
     },
     {
       "name": "京能电力",
       "code": "600578",
       "change": "+9.95%",
-      "amount": "41.16亿"
+      "amount": "41.55亿"
     },
     {
       "name": "德赛西威",
       "code": "002920",
       "change": "+10.00%",
-      "amount": "32.58亿"
+      "amount": "33.34亿"
     },
     {
       "name": "埃斯顿",
       "code": "002747",
-      "change": "+10.00%",
-      "amount": "30.22亿"
+      "change": "+9.96%",
+      "amount": "31.43亿"
     },
     {
       "name": "昭衍新药",
       "code": "603127",
       "change": "+10.01%",
-      "amount": "25.23亿"
+      "amount": "25.52亿"
     },
     {
       "name": "彩虹股份",
       "code": "600707",
-      "change": "+10.01%",
-      "amount": "19.85亿"
+      "change": "+9.91%",
+      "amount": "22.07亿"
     },
     {
       "name": "诚邦股份",
       "code": "603316",
       "change": "+10.01%",
-      "amount": "19.36亿"
+      "amount": "21.31亿"
+    },
+    {
+      "name": "威龙股份",
+      "code": "603779",
+      "change": "+10.00%",
+      "amount": "20.38亿"
     },
     {
       "name": "华微电子",
       "code": "600360",
-      "change": "+9.94%",
-      "amount": "16.11亿"
-    },
-    {
-      "name": "浙江世宝",
-      "code": "002703",
-      "change": "+9.99%",
-      "amount": "13.09亿"
+      "change": "+10.03%",
+      "amount": "17.05亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "豫能控股 001896",
+      "stock": "京东方Ａ 000725",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "京东方Ａ 000725",
+      "stock": "豫能控股 001896",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
