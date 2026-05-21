@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-20 10:22",
-  "market_status": "盘中",
+  "update_time": "2026-05-21 05:37",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 56,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4162.18",
-      "change": -0.18
+      "price": "4156.42",
+      "change": -0.14
     },
     {
       "name": "深证成指",
-      "price": "15569.98",
-      "change": 0.0
+      "price": "15645.82",
+      "change": 0.49
     },
     {
       "name": "创业板",
-      "price": "3921.79",
-      "change": 0.34
+      "price": "3946.77",
+      "change": 0.64
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 10,
+      "total_amount": "121.52亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 7,
+      "total_amount": "47.65亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "35.48亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "25.44亿"
+    },
+    {
+      "name": "电力",
+      "count": 2,
+      "total_amount": "41.50亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "豫能控股",
+      "code": "001896",
+      "change": "+9.74%",
+      "amount": "36.55亿"
+    },
+    {
+      "name": "博云新材",
+      "code": "002297",
+      "change": "+10.02%",
+      "amount": "36.38亿"
+    },
+    {
+      "name": "新泉股份",
+      "code": "603179",
+      "change": "+10.00%",
+      "amount": "30.03亿"
+    },
+    {
+      "name": "万通发展",
+      "code": "600246",
+      "change": "+9.99%",
+      "amount": "29.46亿"
+    },
+    {
+      "name": "京东方Ａ",
+      "code": "000725",
+      "change": "+10.09%",
+      "amount": "25.51亿"
+    },
+    {
+      "name": "招商南油",
+      "code": "601975",
+      "change": "+9.94%",
+      "amount": "24.33亿"
+    },
+    {
+      "name": "华安证券",
+      "code": "600909",
+      "change": "+9.82%",
+      "amount": "22.48亿"
+    },
+    {
+      "name": "埃斯顿",
+      "code": "002747",
+      "change": "+10.00%",
+      "amount": "22.20亿"
+    },
+    {
+      "name": "德赛西威",
+      "code": "002920",
+      "change": "+10.00%",
+      "amount": "22.02亿"
+    },
+    {
+      "name": "昭衍新药",
+      "code": "603127",
+      "change": "+10.01%",
+      "amount": "20.72亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "豫能控股 001896",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "博云新材 002297",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "新泉股份 603179",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
