@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-05-21 10:35",
-  "market_status": "盘中",
-  "sentiment": "极度低迷",
-  "limit_up_count": 36,
+  "update_time": "2026-05-22 05:14",
+  "market_status": "休市",
+  "sentiment": "偏强",
+  "limit_up_count": 49,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4077.28",
-      "change": -2.04
+      "price": "4106.58",
+      "change": 0.72
     },
     {
       "name": "深证成指",
-      "price": "15247.27",
-      "change": -2.07
+      "price": "15501.0",
+      "change": 1.66
     },
     {
       "name": "创业板",
-      "price": "3829.78",
-      "change": -2.35
+      "price": "3908.13",
+      "change": 2.05
     }
   ],
   "hot_sectors": [
     {
-      "name": "光学光电子",
-      "count": 6,
-      "total_amount": "93.37亿"
+      "name": "通用设备",
+      "count": 5,
+      "total_amount": "86.03亿"
     },
     {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "56.00亿"
-    },
-    {
-      "name": "生物制品",
+      "name": "塑料",
       "count": 3,
-      "total_amount": "15.41亿"
+      "total_amount": "50.60亿"
     },
     {
-      "name": "电力",
-      "count": 2,
-      "total_amount": "88.36亿"
+      "name": "电子化学品Ⅱ",
+      "count": 3,
+      "total_amount": "43.01亿"
     },
     {
-      "name": "消费",
-      "count": 2,
-      "total_amount": "24.31亿"
+      "name": "化学制品",
+      "count": 3,
+      "total_amount": "42.77亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "35.54亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "京东方Ａ",
-      "code": "000725",
-      "change": "+10.09%",
-      "amount": "48.59亿"
-    },
-    {
-      "name": "豫能控股",
-      "code": "001896",
-      "change": "+10.01%",
-      "amount": "46.81亿"
-    },
-    {
-      "name": "京能电力",
-      "code": "600578",
-      "change": "+9.95%",
-      "amount": "41.55亿"
-    },
-    {
-      "name": "德赛西威",
-      "code": "002920",
+      "name": "东材科技",
+      "code": "601208",
       "change": "+10.00%",
-      "amount": "33.34亿"
+      "amount": "35.38亿"
     },
     {
-      "name": "埃斯顿",
-      "code": "002747",
-      "change": "+9.96%",
-      "amount": "31.43亿"
-    },
-    {
-      "name": "昭衍新药",
-      "code": "603127",
+      "name": "巨化股份",
+      "code": "600160",
       "change": "+10.01%",
-      "amount": "25.52亿"
+      "amount": "29.30亿"
     },
     {
-      "name": "彩虹股份",
-      "code": "600707",
-      "change": "+9.91%",
-      "amount": "22.07亿"
+      "name": "N嘉德",
+      "code": "603435",
+      "change": "+700.44%",
+      "amount": "26.77亿"
     },
     {
-      "name": "诚邦股份",
-      "code": "603316",
-      "change": "+10.01%",
-      "amount": "21.31亿"
+      "name": "四方达",
+      "code": "300179",
+      "change": "+19.99%",
+      "amount": "26.76亿"
     },
     {
-      "name": "威龙股份",
-      "code": "603779",
-      "change": "+10.00%",
-      "amount": "20.38亿"
+      "name": "达实智能",
+      "code": "002421",
+      "change": "+10.10%",
+      "amount": "26.61亿"
     },
     {
-      "name": "华微电子",
-      "code": "600360",
+      "name": "蔚蓝锂芯",
+      "code": "002245",
       "change": "+10.03%",
-      "amount": "17.05亿"
+      "amount": "26.49亿"
+    },
+    {
+      "name": "利和兴",
+      "code": "301013",
+      "change": "+20.00%",
+      "amount": "25.08亿"
+    },
+    {
+      "name": "莲花控股",
+      "code": "600186",
+      "change": "+10.02%",
+      "amount": "24.80亿"
+    },
+    {
+      "name": "N惠康",
+      "code": "001237",
+      "change": "+148.24%",
+      "amount": "22.93亿"
+    },
+    {
+      "name": "东方钽业",
+      "code": "000962",
+      "change": "+10.00%",
+      "amount": "17.17亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "京东方Ａ 000725",
+      "stock": "东材科技 601208",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "豫能控股 001896",
+      "stock": "巨化股份 600160",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "京能电力 600578",
+      "stock": "N嘉德 603435",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
