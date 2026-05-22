@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-22 05:14",
+  "update_time": "2026-05-22 05:42",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 49,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4106.58",
-      "change": 0.72
+      "price": "4112.22",
+      "change": 0.86
     },
     {
       "name": "深证成指",
-      "price": "15501.0",
-      "change": 1.66
+      "price": "15563.43",
+      "change": 2.07
     },
     {
       "name": "创业板",
-      "price": "3908.13",
-      "change": 2.05
+      "price": "3923.11",
+      "change": 2.44
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "86.03亿"
-    },
-    {
-      "name": "塑料",
-      "count": 3,
-      "total_amount": "50.60亿"
-    },
-    {
-      "name": "电子化学品Ⅱ",
-      "count": 3,
-      "total_amount": "43.01亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 3,
-      "total_amount": "42.77亿"
-    },
-    {
-      "name": "元件",
-      "count": 3,
-      "total_amount": "35.54亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "东材科技",
-      "code": "601208",
-      "change": "+10.00%",
-      "amount": "35.38亿"
-    },
-    {
-      "name": "巨化股份",
-      "code": "600160",
-      "change": "+10.01%",
-      "amount": "29.30亿"
-    },
-    {
-      "name": "N嘉德",
-      "code": "603435",
-      "change": "+700.44%",
-      "amount": "26.77亿"
-    },
-    {
-      "name": "四方达",
-      "code": "300179",
-      "change": "+19.99%",
-      "amount": "26.76亿"
-    },
-    {
-      "name": "达实智能",
-      "code": "002421",
-      "change": "+10.10%",
-      "amount": "26.61亿"
-    },
-    {
-      "name": "蔚蓝锂芯",
-      "code": "002245",
-      "change": "+10.03%",
-      "amount": "26.49亿"
-    },
-    {
-      "name": "利和兴",
-      "code": "301013",
-      "change": "+20.00%",
-      "amount": "25.08亿"
-    },
-    {
-      "name": "莲花控股",
-      "code": "600186",
-      "change": "+10.02%",
-      "amount": "24.80亿"
-    },
-    {
-      "name": "N惠康",
-      "code": "001237",
-      "change": "+148.24%",
-      "amount": "22.93亿"
-    },
-    {
-      "name": "东方钽业",
-      "code": "000962",
-      "change": "+10.00%",
-      "amount": "17.17亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "东材科技 601208",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "巨化股份 600160",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "N嘉德 603435",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
