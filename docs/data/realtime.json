@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-05-27 07:02",
+  "update_time": "2026-05-27 08:33",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 49,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4093.73",
+      "change": -1.25
+    },
+    {
+      "name": "深证成指",
+      "price": "15736.47",
+      "change": -0.88
+    },
+    {
+      "name": "创业板",
+      "price": "4045.77",
+      "change": 0.07
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "电力",
+      "count": 6,
+      "total_amount": "121.32亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "39.23亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 4,
+      "total_amount": "56.34亿"
+    },
+    {
+      "name": "元件",
+      "count": 4,
+      "total_amount": "54.44亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "8.05亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "N长进",
+      "code": "688635",
+      "change": "+1510.52%",
+      "amount": "78.98亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.01%",
+      "amount": "43.18亿"
+    },
+    {
+      "name": "XD四方股",
+      "code": "601126",
+      "change": "+10.00%",
+      "amount": "35.56亿"
+    },
+    {
+      "name": "华能蒙电",
+      "code": "600863",
+      "change": "+10.00%",
+      "amount": "25.43亿"
+    },
+    {
+      "name": "TCL中环",
+      "code": "002129",
+      "change": "+9.97%",
+      "amount": "22.25亿"
+    },
+    {
+      "name": "旭光电子",
+      "code": "600353",
+      "change": "+10.00%",
+      "amount": "18.79亿"
+    },
+    {
+      "name": "中京电子",
+      "code": "002579",
+      "change": "+9.97%",
+      "amount": "16.91亿"
+    },
+    {
+      "name": "美格智能",
+      "code": "002881",
+      "change": "+10.01%",
+      "amount": "16.27亿"
+    },
+    {
+      "name": "韶能股份",
+      "code": "000601",
+      "change": "+9.99%",
+      "amount": "15.31亿"
+    },
+    {
+      "name": "海星股份",
+      "code": "603115",
+      "change": "+10.00%",
+      "amount": "14.52亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "N长进 688635",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华电辽能 600396",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "XD四方股 601126",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
