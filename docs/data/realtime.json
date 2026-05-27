@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-05-27 05:55",
+  "update_time": "2026-05-27 06:36",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 0,
+  "sentiment": "中性",
+  "limit_up_count": 51,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4086.07",
-      "change": -1.43
+      "price": "4104.54",
+      "change": -0.98
     },
     {
       "name": "深证成指",
-      "price": "15704.01",
-      "change": -1.08
+      "price": "15797.43",
+      "change": -0.5
     },
     {
       "name": "创业板",
-      "price": "4032.66",
-      "change": -0.26
+      "price": "4066.71",
+      "change": 0.58
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "电力",
+      "count": 6,
+      "total_amount": "119.73亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "38.21亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 4,
+      "total_amount": "55.70亿"
+    },
+    {
+      "name": "元件",
+      "count": 4,
+      "total_amount": "53.23亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "7.89亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "华天科技",
+      "code": "002185",
+      "change": "+10.02%",
+      "amount": "224.40亿"
+    },
+    {
+      "name": "N长进",
+      "code": "688635",
+      "change": "+1308.00%",
+      "amount": "73.14亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.01%",
+      "amount": "42.77亿"
+    },
+    {
+      "name": "XD四方股",
+      "code": "601126",
+      "change": "+10.00%",
+      "amount": "35.24亿"
+    },
+    {
+      "name": "华能蒙电",
+      "code": "600863",
+      "change": "+10.00%",
+      "amount": "25.03亿"
+    },
+    {
+      "name": "TCL中环",
+      "code": "002129",
+      "change": "+9.97%",
+      "amount": "21.97亿"
+    },
+    {
+      "name": "旭光电子",
+      "code": "600353",
+      "change": "+10.00%",
+      "amount": "18.62亿"
+    },
+    {
+      "name": "中京电子",
+      "code": "002579",
+      "change": "+9.97%",
+      "amount": "16.74亿"
+    },
+    {
+      "name": "美格智能",
+      "code": "002881",
+      "change": "+10.01%",
+      "amount": "15.75亿"
+    },
+    {
+      "name": "韶能股份",
+      "code": "000601",
+      "change": "+9.99%",
+      "amount": "15.15亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "华天科技 002185",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "N长进 688635",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华电辽能 600396",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
