@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-28 05:36",
+  "update_time": "2026-05-28 05:52",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 66,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4091.28",
-      "change": -0.06
+      "price": "4107.92",
+      "change": 0.35
     },
     {
       "name": "深证成指",
-      "price": "15799.21",
-      "change": 0.4
+      "price": "15849.33",
+      "change": 0.72
     },
     {
       "name": "创业板",
-      "price": "4103.12",
-      "change": 1.42
+      "price": "4109.12",
+      "change": 1.57
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "65.21亿"
-    },
-    {
-      "name": "元件",
-      "count": 4,
-      "total_amount": "139.74亿"
-    },
-    {
-      "name": "电池",
-      "count": 4,
-      "total_amount": "62.00亿"
-    },
-    {
-      "name": "电力",
-      "count": 4,
-      "total_amount": "50.94亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 4,
-      "total_amount": "10.80亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "云南锗业",
-      "code": "002428",
-      "change": "+10.00%",
-      "amount": "75.56亿"
-    },
-    {
-      "name": "风华高科",
-      "code": "000636",
-      "change": "+10.00%",
-      "amount": "72.53亿"
-    },
-    {
-      "name": "天通股份",
-      "code": "600330",
-      "change": "+10.00%",
-      "amount": "68.03亿"
-    },
-    {
-      "name": "万通发展",
-      "code": "600246",
-      "change": "+10.01%",
-      "amount": "39.92亿"
-    },
-    {
-      "name": "金安国纪",
-      "code": "002636",
-      "change": "+9.99%",
-      "amount": "33.63亿"
-    },
-    {
-      "name": "金钼股份",
-      "code": "601958",
-      "change": "+10.00%",
-      "amount": "31.92亿"
-    },
-    {
-      "name": "宏和科技",
-      "code": "603256",
-      "change": "+10.00%",
-      "amount": "30.78亿"
-    },
-    {
-      "name": "沃格光电",
-      "code": "603773",
-      "change": "+10.00%",
-      "amount": "27.90亿"
-    },
-    {
-      "name": "燕东微",
-      "code": "688172",
-      "change": "+20.00%",
-      "amount": "25.77亿"
-    },
-    {
-      "name": "诺德股份",
-      "code": "600110",
-      "change": "+10.04%",
-      "amount": "25.50亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "云南锗业 002428",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "风华高科 000636",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "天通股份 600330",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
