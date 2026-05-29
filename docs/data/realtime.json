@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-29 06:53",
+  "update_time": "2026-05-29 08:35",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 51,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4065.82",
-      "change": -0.8
+      "price": "4068.57",
+      "change": -0.73
     },
     {
       "name": "深证成指",
-      "price": "15557.74",
-      "change": -1.92
+      "price": "15575.13",
+      "change": -1.81
     },
     {
       "name": "创业板",
-      "price": "4031.91",
-      "change": -2.26
+      "price": "4037.95",
+      "change": -2.11
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "消费",
-      "count": 11,
-      "total_amount": "62.55亿"
-    },
-    {
-      "name": "电力",
-      "count": 8,
-      "total_amount": "143.21亿"
-    },
-    {
-      "name": "房地产",
-      "count": 5,
-      "total_amount": "15.68亿"
-    },
-    {
-      "name": "医药",
-      "count": 4,
-      "total_amount": "28.50亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 2,
-      "total_amount": "33.68亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "华能蒙电",
-      "code": "600863",
-      "change": "+9.94%",
-      "amount": "41.96亿"
-    },
-    {
-      "name": "华能国际",
-      "code": "600011",
-      "change": "+10.05%",
-      "amount": "38.19亿"
-    },
-    {
-      "name": "诺德股份",
-      "code": "600110",
-      "change": "+9.99%",
-      "amount": "34.20亿"
-    },
-    {
-      "name": "远东股份",
-      "code": "600869",
-      "change": "+10.00%",
-      "amount": "31.34亿"
-    },
-    {
-      "name": "金 螳 螂",
-      "code": "002081",
-      "change": "+10.00%",
-      "amount": "21.48亿"
-    },
-    {
-      "name": "晋控电力",
-      "code": "000767",
-      "change": "+10.06%",
-      "amount": "20.07亿"
-    },
-    {
-      "name": "华电能源",
-      "code": "600726",
-      "change": "+9.99%",
-      "amount": "16.85亿"
-    },
-    {
-      "name": "步步高",
-      "code": "002251",
-      "change": "+9.91%",
-      "amount": "15.71亿"
-    },
-    {
-      "name": "合锻智能",
-      "code": "603011",
-      "change": "+10.02%",
-      "amount": "13.46亿"
-    },
-    {
-      "name": "东杰智能",
-      "code": "300486",
-      "change": "+20.02%",
-      "amount": "12.99亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "华能蒙电 600863",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "华能国际 600011",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "诺德股份 600110",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
