@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-05-29 08:35",
-  "market_status": "休市",
+  "update_time": "2026-05-29 09:43",
+  "market_status": "盘中",
   "sentiment": "极度低迷",
-  "limit_up_count": 0,
+  "limit_up_count": 52,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": -2.11
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "消费",
+      "count": 11,
+      "total_amount": "63.15亿"
+    },
+    {
+      "name": "电力",
+      "count": 8,
+      "total_amount": "144.44亿"
+    },
+    {
+      "name": "房地产",
+      "count": 5,
+      "total_amount": "15.81亿"
+    },
+    {
+      "name": "医药",
+      "count": 4,
+      "total_amount": "28.68亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "90.92亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+9.99%",
+      "amount": "57.08亿"
+    },
+    {
+      "name": "华能蒙电",
+      "code": "600863",
+      "change": "+9.94%",
+      "amount": "42.15亿"
+    },
+    {
+      "name": "华能国际",
+      "code": "600011",
+      "change": "+10.05%",
+      "amount": "38.79亿"
+    },
+    {
+      "name": "诺德股份",
+      "code": "600110",
+      "change": "+9.99%",
+      "amount": "34.39亿"
+    },
+    {
+      "name": "远东股份",
+      "code": "600869",
+      "change": "+10.00%",
+      "amount": "31.47亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+10.00%",
+      "amount": "21.56亿"
+    },
+    {
+      "name": "晋控电力",
+      "code": "000767",
+      "change": "+10.06%",
+      "amount": "20.22亿"
+    },
+    {
+      "name": "华电能源",
+      "code": "600726",
+      "change": "+9.99%",
+      "amount": "16.95亿"
+    },
+    {
+      "name": "步步高",
+      "code": "002251",
+      "change": "+9.91%",
+      "amount": "15.77亿"
+    },
+    {
+      "name": "合锻智能",
+      "code": "603011",
+      "change": "+10.02%",
+      "amount": "13.52亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "杭电股份 603618",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华能蒙电 600863",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华能国际 600011",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
