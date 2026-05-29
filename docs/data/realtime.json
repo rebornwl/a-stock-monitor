@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-05-29 05:40",
+  "update_time": "2026-05-29 05:52",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 60,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4088.48",
-      "change": -0.25
+      "price": "4085.16",
+      "change": -0.33
     },
     {
       "name": "深证成指",
-      "price": "15728.07",
-      "change": -0.84
+      "price": "15708.12",
+      "change": -0.97
     },
     {
       "name": "创业板",
-      "price": "4084.24",
-      "change": -0.99
+      "price": "4079.54",
+      "change": -1.1
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "电力",
-      "count": 11,
-      "total_amount": "162.94亿"
-    },
-    {
-      "name": "消费",
-      "count": 11,
-      "total_amount": "56.38亿"
-    },
-    {
-      "name": "房地产",
-      "count": 6,
-      "total_amount": "16.71亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 3,
-      "total_amount": "76.89亿"
-    },
-    {
-      "name": "医药",
-      "count": 2,
-      "total_amount": "16.32亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "亨通光电",
-      "code": "600487",
-      "change": "+10.00%",
-      "amount": "167.31亿"
-    },
-    {
-      "name": "杭电股份",
-      "code": "603618",
-      "change": "+9.89%",
-      "amount": "48.60亿"
-    },
-    {
-      "name": "华能蒙电",
-      "code": "600863",
-      "change": "+9.94%",
-      "amount": "40.21亿"
-    },
-    {
-      "name": "华能国际",
-      "code": "600011",
-      "change": "+9.93%",
-      "amount": "29.53亿"
-    },
-    {
-      "name": "诺德股份",
-      "code": "600110",
-      "change": "+9.99%",
-      "amount": "29.01亿"
-    },
-    {
-      "name": "远东股份",
-      "code": "600869",
-      "change": "+10.00%",
-      "amount": "26.22亿"
-    },
-    {
-      "name": "博杰股份",
-      "code": "002975",
-      "change": "+10.00%",
-      "amount": "24.66亿"
-    },
-    {
-      "name": "金 螳 螂",
-      "code": "002081",
-      "change": "+10.00%",
-      "amount": "21.01亿"
-    },
-    {
-      "name": "晋控电力",
-      "code": "000767",
-      "change": "+10.06%",
-      "amount": "19.54亿"
-    },
-    {
-      "name": "华电能源",
-      "code": "600726",
-      "change": "+9.99%",
-      "amount": "16.44亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "亨通光电 600487",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "杭电股份 603618",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "华能蒙电 600863",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
