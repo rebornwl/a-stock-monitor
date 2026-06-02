@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-06-02 06:16",
+  "update_time": "2026-06-02 06:49",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 66,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4069.76",
-      "change": 0.3
+      "price": "4075.4",
+      "change": 0.44
     },
     {
       "name": "深证成指",
-      "price": "15565.9",
-      "change": 1.47
+      "price": "15593.29",
+      "change": 1.65
     },
     {
       "name": "创业板",
-      "price": "4054.63",
-      "change": 2.62
+      "price": "4056.89",
+      "change": 2.68
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "通信",
+      "count": 8,
+      "total_amount": "350.09亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 5,
+      "total_amount": "18.30亿"
+    },
+    {
+      "name": "机器人",
+      "count": 4,
+      "total_amount": "48.34亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "262.14亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "85.60亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "东山精密",
+      "code": "002384",
+      "change": "+10.00%",
+      "amount": "220.01亿"
+    },
+    {
+      "name": "亨通光电",
+      "code": "600487",
+      "change": "+10.01%",
+      "amount": "154.37亿"
+    },
+    {
+      "name": "永鼎股份",
+      "code": "600105",
+      "change": "+10.00%",
+      "amount": "90.85亿"
+    },
+    {
+      "name": "长飞光纤",
+      "code": "601869",
+      "change": "+10.00%",
+      "amount": "78.05亿"
+    },
+    {
+      "name": "太极实业",
+      "code": "600667",
+      "change": "+10.01%",
+      "amount": "55.34亿"
+    },
+    {
+      "name": "麦格米特",
+      "code": "002851",
+      "change": "+10.00%",
+      "amount": "48.92亿"
+    },
+    {
+      "name": "锡业股份",
+      "code": "000960",
+      "change": "+10.01%",
+      "amount": "48.25亿"
+    },
+    {
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+9.99%",
+      "amount": "45.66亿"
+    },
+    {
+      "name": "江西铜业",
+      "code": "600362",
+      "change": "+10.01%",
+      "amount": "38.20亿"
+    },
+    {
+      "name": "圣泉集团",
+      "code": "605589",
+      "change": "+10.00%",
+      "amount": "36.79亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "东山精密 002384",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "亨通光电 600487",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "永鼎股份 600105",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
