@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-06-03 06:29",
+  "update_time": "2026-06-03 07:00",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 74,
+  "sentiment": "偏强",
+  "limit_up_count": 66,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4079.33",
-      "change": 0.1
+      "price": "4083.97",
+      "change": 0.22
     },
     {
       "name": "深证成指",
-      "price": "15637.87",
-      "change": 0.3
+      "price": "15704.71",
+      "change": 0.73
     },
     {
       "name": "创业板",
-      "price": "4096.55",
-      "change": 1.0
+      "price": "4122.99",
+      "change": 1.65
     }
   ],
   "hot_sectors": [
     {
       "name": "电力",
-      "count": 8,
-      "total_amount": "152.20亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "75.73亿"
+      "count": 7,
+      "total_amount": "144.11亿"
     },
     {
       "name": "汽车",
-      "count": 4,
-      "total_amount": "27.48亿"
+      "count": 5,
+      "total_amount": "54.75亿"
     },
     {
-      "name": "煤炭开采",
+      "name": "通信",
       "count": 3,
-      "total_amount": "35.43亿"
+      "total_amount": "77.97亿"
     },
     {
       "name": "化学原料",
       "count": 3,
-      "total_amount": "24.68亿"
+      "total_amount": "32.23亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "20.50亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "通富微电",
       "code": "002156",
       "change": "+9.99%",
-      "amount": "63.64亿"
+      "amount": "122.84亿"
     },
     {
-      "name": "华电辽能",
-      "code": "600396",
-      "change": "+10.00%",
-      "amount": "58.92亿"
+      "name": "东材科技",
+      "code": "601208",
+      "change": "+10.01%",
+      "amount": "79.07亿"
     },
     {
       "name": "亨通光电",
       "code": "600487",
       "change": "+10.00%",
-      "amount": "58.77亿"
+      "amount": "63.33亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.00%",
+      "amount": "61.43亿"
     },
     {
       "name": "豫能控股",
       "code": "001896",
       "change": "+10.03%",
-      "amount": "31.33亿"
+      "amount": "31.92亿"
     },
     {
       "name": "京能电力",
       "code": "600578",
       "change": "+10.01%",
-      "amount": "29.23亿"
+      "amount": "30.05亿"
     },
     {
       "name": "华特气体",
       "code": "688268",
       "change": "+20.00%",
-      "amount": "25.14亿"
+      "amount": "26.75亿"
+    },
+    {
+      "name": "模塑科技",
+      "code": "000700",
+      "change": "+10.02%",
+      "amount": "23.89亿"
     },
     {
       "name": "美湖股份",
       "code": "603319",
       "change": "+9.99%",
-      "amount": "21.19亿"
+      "amount": "23.69亿"
     },
     {
-      "name": "郑州煤电",
-      "code": "600121",
-      "change": "+10.06%",
-      "amount": "15.02亿"
-    },
-    {
-      "name": "新安股份",
-      "code": "600596",
+      "name": "环旭电子",
+      "code": "601231",
       "change": "+10.01%",
-      "amount": "14.42亿"
-    },
-    {
-      "name": "华盛昌",
-      "code": "002980",
-      "change": "+9.99%",
-      "amount": "14.35亿"
+      "amount": "20.10亿"
     }
   ],
   "opportunities": [
@@ -120,7 +120,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "华电辽能 600396",
+      "stock": "东材科技 601208",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
