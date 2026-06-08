@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-06-08 06:20",
+  "update_time": "2026-06-08 06:53",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 48,
+  "limit_up_count": 54,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3958.38",
-      "change": -1.72
+      "price": "3956.85",
+      "change": -1.76
     },
     {
       "name": "深证成指",
-      "price": "14846.37",
-      "change": -3.06
+      "price": "14806.02",
+      "change": -3.32
     },
     {
       "name": "创业板",
-      "price": "3828.26",
-      "change": -3.28
+      "price": "3804.64",
+      "change": -3.87
     }
   ],
   "hot_sectors": [
     {
       "name": "通用设备",
       "count": 5,
-      "total_amount": "58.37亿"
+      "total_amount": "59.40亿"
     },
     {
       "name": "IT服务Ⅱ",
       "count": 3,
-      "total_amount": "49.18亿"
+      "total_amount": "49.63亿"
     },
     {
       "name": "房地产",
       "count": 3,
-      "total_amount": "19.63亿"
+      "total_amount": "20.04亿"
     },
     {
       "name": "消费",
       "count": 3,
-      "total_amount": "18.62亿"
+      "total_amount": "18.77亿"
     },
     {
       "name": "数字经济",
       "count": 3,
-      "total_amount": "14.32亿"
+      "total_amount": "14.56亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "神剑股份",
       "code": "002361",
       "change": "+9.99%",
-      "amount": "47.98亿"
+      "amount": "48.18亿"
     },
     {
       "name": "埃斯顿",
       "code": "002747",
       "change": "+9.99%",
-      "amount": "36.29亿"
+      "amount": "36.73亿"
+    },
+    {
+      "name": "华正新材",
+      "code": "603186",
+      "change": "+10.00%",
+      "amount": "32.60亿"
+    },
+    {
+      "name": "中巨芯-U",
+      "code": "688549",
+      "change": "+20.01%",
+      "amount": "27.90亿"
     },
     {
       "name": "达实智能",
       "code": "002421",
       "change": "+9.98%",
-      "amount": "26.86亿"
+      "amount": "27.00亿"
     },
     {
       "name": "国机精工",
       "code": "002046",
       "change": "+10.00%",
-      "amount": "24.66亿"
+      "amount": "25.25亿"
     },
     {
       "name": "金安国纪",
       "code": "002636",
       "change": "+10.01%",
-      "amount": "24.19亿"
+      "amount": "24.49亿"
     },
     {
       "name": "能科科技",
       "code": "603859",
       "change": "+9.99%",
-      "amount": "18.87亿"
+      "amount": "19.13亿"
+    },
+    {
+      "name": "大有能源",
+      "code": "600403",
+      "change": "+9.95%",
+      "amount": "18.84亿"
     },
     {
       "name": "亚翔集成",
       "code": "603929",
       "change": "+10.00%",
-      "amount": "18.11亿"
-    },
-    {
-      "name": "凡拓数创",
-      "code": "301313",
-      "change": "+19.99%",
-      "amount": "16.58亿"
-    },
-    {
-      "name": "盈新发展",
-      "code": "000620",
-      "change": "+10.07%",
-      "amount": "15.88亿"
-    },
-    {
-      "name": "锋龙股份",
-      "code": "002931",
-      "change": "+9.99%",
-      "amount": "12.19亿"
+      "amount": "18.64亿"
     }
   ],
   "opportunities": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "达实智能 002421",
+      "stock": "华正新材 603186",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
