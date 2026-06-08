@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-08 06:09",
+  "update_time": "2026-06-08 06:20",
   "market_status": "休市",
   "sentiment": "极度低迷",
   "limit_up_count": 48,
@@ -7,45 +7,45 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "3953.69",
-      "change": -1.84
+      "price": "3958.38",
+      "change": -1.72
     },
     {
       "name": "深证成指",
-      "price": "14840.26",
-      "change": -3.1
+      "price": "14846.37",
+      "change": -3.06
     },
     {
       "name": "创业板",
-      "price": "3828.47",
-      "change": -3.27
+      "price": "3828.26",
+      "change": -3.28
     }
   ],
   "hot_sectors": [
     {
       "name": "通用设备",
       "count": 5,
-      "total_amount": "57.23亿"
+      "total_amount": "58.37亿"
     },
     {
       "name": "IT服务Ⅱ",
       "count": 3,
-      "total_amount": "48.99亿"
+      "total_amount": "49.18亿"
     },
     {
       "name": "房地产",
       "count": 3,
-      "total_amount": "19.47亿"
+      "total_amount": "19.63亿"
     },
     {
       "name": "消费",
       "count": 3,
-      "total_amount": "18.57亿"
+      "total_amount": "18.62亿"
     },
     {
       "name": "数字经济",
       "count": 3,
-      "total_amount": "14.17亿"
+      "total_amount": "14.32亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "神剑股份",
       "code": "002361",
       "change": "+9.99%",
-      "amount": "47.84亿"
+      "amount": "47.98亿"
     },
     {
       "name": "埃斯顿",
       "code": "002747",
       "change": "+9.99%",
-      "amount": "36.18亿"
+      "amount": "36.29亿"
     },
     {
       "name": "达实智能",
       "code": "002421",
       "change": "+9.98%",
-      "amount": "26.83亿"
+      "amount": "26.86亿"
     },
     {
       "name": "国机精工",
       "code": "002046",
       "change": "+10.00%",
-      "amount": "24.44亿"
+      "amount": "24.66亿"
     },
     {
       "name": "金安国纪",
       "code": "002636",
       "change": "+10.01%",
-      "amount": "24.13亿"
+      "amount": "24.19亿"
     },
     {
       "name": "能科科技",
       "code": "603859",
       "change": "+9.99%",
-      "amount": "18.74亿"
+      "amount": "18.87亿"
     },
     {
       "name": "亚翔集成",
       "code": "603929",
       "change": "+10.00%",
-      "amount": "18.04亿"
+      "amount": "18.11亿"
     },
     {
       "name": "凡拓数创",
       "code": "301313",
       "change": "+19.99%",
-      "amount": "16.57亿"
+      "amount": "16.58亿"
     },
     {
       "name": "盈新发展",
       "code": "000620",
       "change": "+10.07%",
-      "amount": "15.74亿"
+      "amount": "15.88亿"
     },
     {
       "name": "锋龙股份",
       "code": "002931",
       "change": "+9.99%",
-      "amount": "12.18亿"
+      "amount": "12.19亿"
     }
   ],
   "opportunities": [
