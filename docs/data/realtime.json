@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-06-10 10:52",
-  "market_status": "盘中",
+  "update_time": "2026-06-11 06:08",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 69,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "半导体",
+      "count": 8,
+      "total_amount": "205.05亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 8,
+      "total_amount": "176.05亿"
+    },
+    {
+      "name": "小金属",
+      "count": 5,
+      "total_amount": "82.79亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 4,
+      "total_amount": "105.59亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "76.83亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "多氟多",
+      "code": "002407",
+      "change": "+9.99%",
+      "amount": "76.42亿"
+    },
+    {
+      "name": "雅克科技",
+      "code": "002409",
+      "change": "+9.89%",
+      "amount": "62.82亿"
+    },
+    {
+      "name": "金安国纪",
+      "code": "002636",
+      "change": "+10.00%",
+      "amount": "61.10亿"
+    },
+    {
+      "name": "江丰电子",
+      "code": "300666",
+      "change": "+20.00%",
+      "amount": "59.03亿"
+    },
+    {
+      "name": "太极实业",
+      "code": "600667",
+      "change": "+9.99%",
+      "amount": "55.41亿"
+    },
+    {
+      "name": "昊华科技",
+      "code": "600378",
+      "change": "+10.00%",
+      "amount": "48.52亿"
+    },
+    {
+      "name": "中巨芯-U",
+      "code": "688549",
+      "change": "+20.00%",
+      "amount": "44.55亿"
+    },
+    {
+      "name": "章源钨业",
+      "code": "002378",
+      "change": "+10.01%",
+      "amount": "40.48亿"
+    },
+    {
+      "name": "华特气体",
+      "code": "688268",
+      "change": "+20.00%",
+      "amount": "35.69亿"
+    },
+    {
+      "name": "宗申动力",
+      "code": "001696",
+      "change": "+10.03%",
+      "amount": "29.41亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "多氟多 002407",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "雅克科技 002409",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "金安国纪 002636",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
