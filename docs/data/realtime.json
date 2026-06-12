@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-06-11 11:19",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-06-12 06:02",
+  "market_status": "休市",
+  "sentiment": "偏强",
+  "limit_up_count": 79,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4035.35",
+      "change": 1.21
+    },
+    {
+      "name": "深证成指",
+      "price": "15028.45",
+      "change": 1.19
+    },
+    {
+      "name": "创业板",
+      "price": "3846.01",
+      "change": 0.91
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "工业金属",
+      "count": 7,
+      "total_amount": "190.05亿"
+    },
+    {
+      "name": "航空装备Ⅱ",
+      "count": 5,
+      "total_amount": "22.81亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "21.65亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 5,
+      "total_amount": "16.98亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 5,
+      "total_amount": "11.97亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "洛阳钼业",
+      "code": "603993",
+      "change": "+10.02%",
+      "amount": "80.46亿"
+    },
+    {
+      "name": "方正科技",
+      "code": "600601",
+      "change": "+9.98%",
+      "amount": "43.87亿"
+    },
+    {
+      "name": "铜陵有色",
+      "code": "000630",
+      "change": "+10.08%",
+      "amount": "40.49亿"
+    },
+    {
+      "name": "恩捷股份",
+      "code": "002812",
+      "change": "+10.00%",
+      "amount": "28.33亿"
+    },
+    {
+      "name": "海亮股份",
+      "code": "002203",
+      "change": "+10.00%",
+      "amount": "21.59亿"
+    },
+    {
+      "name": "宗申动力",
+      "code": "001696",
+      "change": "+10.02%",
+      "amount": "20.65亿"
+    },
+    {
+      "name": "航天发展",
+      "code": "000547",
+      "change": "+10.02%",
+      "amount": "17.69亿"
+    },
+    {
+      "name": "迪安诊断",
+      "code": "300244",
+      "change": "+19.98%",
+      "amount": "15.62亿"
+    },
+    {
+      "name": "金田股份",
+      "code": "601609",
+      "change": "+9.99%",
+      "amount": "13.79亿"
+    },
+    {
+      "name": "北方铜业",
+      "code": "000737",
+      "change": "+10.00%",
+      "amount": "13.32亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "洛阳钼业 603993",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "方正科技 600601",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "铜陵有色 000630",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
