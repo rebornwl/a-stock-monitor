@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-06-12 06:14",
+  "update_time": "2026-06-12 06:51",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 75,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4036.84",
-      "change": 1.25
+      "price": "4030.97",
+      "change": 1.1
     },
     {
       "name": "深证成指",
-      "price": "15035.5",
-      "change": 1.24
+      "price": "14980.7",
+      "change": 0.87
     },
     {
       "name": "创业板",
-      "price": "3846.91",
-      "change": 0.94
+      "price": "3834.21",
+      "change": 0.6
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "工业金属",
-      "count": 7,
-      "total_amount": "192.62亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 6,
-      "total_amount": "87.63亿"
-    },
-    {
-      "name": "航空装备Ⅱ",
-      "count": 5,
-      "total_amount": "23.28亿"
-    },
-    {
-      "name": "汽车",
-      "count": 5,
-      "total_amount": "21.84亿"
-    },
-    {
-      "name": "元件",
-      "count": 4,
-      "total_amount": "68.45亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "洛阳钼业",
-      "code": "603993",
-      "change": "+10.02%",
-      "amount": "81.46亿"
-    },
-    {
-      "name": "方正科技",
-      "code": "600601",
-      "change": "+9.98%",
-      "amount": "45.17亿"
-    },
-    {
-      "name": "中化国际",
-      "code": "600500",
-      "change": "+9.99%",
-      "amount": "41.84亿"
-    },
-    {
-      "name": "铜陵有色",
-      "code": "000630",
-      "change": "+10.08%",
-      "amount": "41.22亿"
-    },
-    {
-      "name": "和远气体",
-      "code": "002971",
-      "change": "+10.01%",
-      "amount": "31.97亿"
-    },
-    {
-      "name": "恩捷股份",
-      "code": "002812",
-      "change": "+10.00%",
-      "amount": "28.70亿"
-    },
-    {
-      "name": "海亮股份",
-      "code": "002203",
-      "change": "+10.00%",
-      "amount": "21.72亿"
-    },
-    {
-      "name": "宗申动力",
-      "code": "001696",
-      "change": "+10.02%",
-      "amount": "20.70亿"
-    },
-    {
-      "name": "航天发展",
-      "code": "000547",
-      "change": "+10.02%",
-      "amount": "17.86亿"
-    },
-    {
-      "name": "迪安诊断",
-      "code": "300244",
-      "change": "+19.92%",
-      "amount": "16.05亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "洛阳钼业 603993",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "方正科技 600601",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "中化国际 600500",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
