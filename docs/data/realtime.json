@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-16 07:03",
+  "update_time": "2026-06-16 07:35",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 44,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,116 +21,7 @@
       "change": 1.72
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "电网设备",
-      "count": 4,
-      "total_amount": "26.53亿"
-    },
-    {
-      "name": "专用设备",
-      "count": 4,
-      "total_amount": "24.59亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "22.02亿"
-    },
-    {
-      "name": "其他电子Ⅱ",
-      "count": 4,
-      "total_amount": "20.24亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 4,
-      "total_amount": "17.05亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "有研新材",
-      "code": "600206",
-      "change": "+10.01%",
-      "amount": "32.49亿"
-    },
-    {
-      "name": "长进光子",
-      "code": "688635",
-      "change": "+20.00%",
-      "amount": "27.15亿"
-    },
-    {
-      "name": "逸豪新材",
-      "code": "301176",
-      "change": "+19.99%",
-      "amount": "21.58亿"
-    },
-    {
-      "name": "南芯科技",
-      "code": "688484",
-      "change": "+20.00%",
-      "amount": "19.50亿"
-    },
-    {
-      "name": "宏昌电子",
-      "code": "603002",
-      "change": "+10.02%",
-      "amount": "18.77亿"
-    },
-    {
-      "name": "杭电股份",
-      "code": "603618",
-      "change": "+10.01%",
-      "amount": "17.80亿"
-    },
-    {
-      "name": "神州数码",
-      "code": "000034",
-      "change": "+10.02%",
-      "amount": "16.99亿"
-    },
-    {
-      "name": "新疆众和",
-      "code": "600888",
-      "change": "+10.04%",
-      "amount": "13.12亿"
-    },
-    {
-      "name": "南方泵业",
-      "code": "300145",
-      "change": "+19.96%",
-      "amount": "12.53亿"
-    },
-    {
-      "name": "旗滨集团",
-      "code": "601636",
-      "change": "+10.06%",
-      "amount": "12.08亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "有研新材 600206",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "长进光子 688635",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "逸豪新材 301176",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
