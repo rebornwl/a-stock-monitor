@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-06-16 06:44",
+  "update_time": "2026-06-16 07:03",
   "market_status": "休市",
   "sentiment": "偏强",
-  "limit_up_count": 46,
+  "limit_up_count": 44,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4086.41",
-      "change": -0.25
+      "price": "4091.89",
+      "change": -0.11
     },
     {
       "name": "深证成指",
-      "price": "15643.31",
-      "change": 0.72
+      "price": "15675.25",
+      "change": 0.93
     },
     {
       "name": "创业板",
-      "price": "4094.59",
-      "change": 1.51
+      "price": "4102.94",
+      "change": 1.72
     }
   ],
   "hot_sectors": [
     {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "25.21亿"
-    },
-    {
       "name": "电网设备",
       "count": 4,
-      "total_amount": "26.34亿"
+      "total_amount": "26.53亿"
     },
     {
       "name": "专用设备",
       "count": 4,
-      "total_amount": "24.48亿"
+      "total_amount": "24.59亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "22.02亿"
     },
     {
       "name": "其他电子Ⅱ",
       "count": 4,
-      "total_amount": "20.01亿"
+      "total_amount": "20.24亿"
     },
     {
-      "name": "通信",
-      "count": 3,
-      "total_amount": "38.97亿"
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "17.05亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "有研新材",
       "code": "600206",
       "change": "+10.01%",
-      "amount": "32.09亿"
-    },
-    {
-      "name": "彩虹股份",
-      "code": "600707",
-      "change": "+10.03%",
-      "amount": "27.20亿"
+      "amount": "32.49亿"
     },
     {
       "name": "长进光子",
       "code": "688635",
       "change": "+20.00%",
-      "amount": "26.99亿"
+      "amount": "27.15亿"
     },
     {
-      "name": "宏昌电子",
-      "code": "603002",
-      "change": "+10.02%",
-      "amount": "18.69亿"
+      "name": "逸豪新材",
+      "code": "301176",
+      "change": "+19.99%",
+      "amount": "21.58亿"
     },
     {
       "name": "南芯科技",
       "code": "688484",
       "change": "+20.00%",
-      "amount": "17.80亿"
+      "amount": "19.50亿"
+    },
+    {
+      "name": "宏昌电子",
+      "code": "603002",
+      "change": "+10.02%",
+      "amount": "18.77亿"
     },
     {
       "name": "杭电股份",
       "code": "603618",
       "change": "+10.01%",
-      "amount": "17.66亿"
+      "amount": "17.80亿"
     },
     {
       "name": "神州数码",
       "code": "000034",
       "change": "+10.02%",
-      "amount": "16.76亿"
+      "amount": "16.99亿"
     },
     {
       "name": "新疆众和",
       "code": "600888",
       "change": "+10.04%",
-      "amount": "13.04亿"
+      "amount": "13.12亿"
     },
     {
       "name": "南方泵业",
       "code": "300145",
       "change": "+19.96%",
-      "amount": "12.44亿"
+      "amount": "12.53亿"
     },
     {
       "name": "旗滨集团",
       "code": "601636",
       "change": "+10.06%",
-      "amount": "12.01亿"
+      "amount": "12.08亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "彩虹股份 600707",
+      "stock": "长进光子 688635",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "长进光子 688635",
+      "stock": "逸豪新材 301176",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
