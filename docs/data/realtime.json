@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-06-17 11:42",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-06-18 06:11",
+  "market_status": "休市",
+  "sentiment": "偏强",
+  "limit_up_count": 72,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4097.03",
+      "change": -0.27
+    },
+    {
+      "name": "深证成指",
+      "price": "16057.03",
+      "change": 1.11
+    },
+    {
+      "name": "创业板",
+      "price": "4256.83",
+      "change": 2.15
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "通信",
+      "count": 6,
+      "total_amount": "160.88亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "32.55亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "50.35亿"
+    },
+    {
+      "name": "医药",
+      "count": 4,
+      "total_amount": "25.77亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "325.54亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "兆易创新",
+      "code": "603986",
+      "change": "+10.00%",
+      "amount": "305.44亿"
+    },
+    {
+      "name": "光迅科技",
+      "code": "002281",
+      "change": "+10.00%",
+      "amount": "101.74亿"
+    },
+    {
+      "name": "中钨高新",
+      "code": "000657",
+      "change": "+10.00%",
+      "amount": "82.10亿"
+    },
+    {
+      "name": "盛和资源",
+      "code": "600392",
+      "change": "+10.01%",
+      "amount": "79.74亿"
+    },
+    {
+      "name": "江西铜业",
+      "code": "600362",
+      "change": "+10.01%",
+      "amount": "64.29亿"
+    },
+    {
+      "name": "麦捷科技",
+      "code": "300319",
+      "change": "+20.02%",
+      "amount": "45.25亿"
+    },
+    {
+      "name": "东方国信",
+      "code": "300166",
+      "change": "+20.03%",
+      "amount": "34.38亿"
+    },
+    {
+      "name": "博云新材",
+      "code": "002297",
+      "change": "+10.01%",
+      "amount": "32.61亿"
+    },
+    {
+      "name": "铂力特",
+      "code": "688333",
+      "change": "+20.00%",
+      "amount": "31.62亿"
+    },
+    {
+      "name": "江钨装备",
+      "code": "600397",
+      "change": "+10.02%",
+      "amount": "28.55亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "兆易创新 603986",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "光迅科技 002281",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "中钨高新 000657",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
