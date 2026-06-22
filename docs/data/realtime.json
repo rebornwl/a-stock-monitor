@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-22 07:00",
+  "update_time": "2026-06-22 07:34",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 43,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,116 +21,7 @@
       "change": 2.52
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "工业金属",
-      "count": 4,
-      "total_amount": "46.39亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 3,
-      "total_amount": "55.03亿"
-    },
-    {
-      "name": "数字经济",
-      "count": 3,
-      "total_amount": "47.52亿"
-    },
-    {
-      "name": "医药",
-      "count": 3,
-      "total_amount": "25.74亿"
-    },
-    {
-      "name": "农化制品",
-      "count": 3,
-      "total_amount": "15.49亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "四方达",
-      "code": "300179",
-      "change": "+20.00%",
-      "amount": "61.43亿"
-    },
-    {
-      "name": "中国西电",
-      "code": "601179",
-      "change": "+10.03%",
-      "amount": "41.77亿"
-    },
-    {
-      "name": "银之杰",
-      "code": "300085",
-      "change": "+19.99%",
-      "amount": "33.98亿"
-    },
-    {
-      "name": "力量钻石",
-      "code": "301071",
-      "change": "+20.00%",
-      "amount": "32.64亿"
-    },
-    {
-      "name": "驰宏锌锗",
-      "code": "600497",
-      "change": "+10.02%",
-      "amount": "29.04亿"
-    },
-    {
-      "name": "富信科技",
-      "code": "688662",
-      "change": "+20.00%",
-      "amount": "19.50亿"
-    },
-    {
-      "name": "花园生物",
-      "code": "300401",
-      "change": "+19.99%",
-      "amount": "16.67亿"
-    },
-    {
-      "name": "世名科技",
-      "code": "300522",
-      "change": "+19.99%",
-      "amount": "14.75亿"
-    },
-    {
-      "name": "瑞丰高材",
-      "code": "300243",
-      "change": "+20.00%",
-      "amount": "14.17亿"
-    },
-    {
-      "name": "豫光金铅",
-      "code": "600531",
-      "change": "+10.03%",
-      "amount": "13.82亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "四方达 300179",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "中国西电 601179",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "银之杰 300085",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
