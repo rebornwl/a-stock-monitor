@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-06-22 12:45",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-06-23 05:15",
+  "market_status": "休市",
+  "sentiment": "极度低迷",
+  "limit_up_count": 72,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4138.43",
+      "change": -0.59
+    },
+    {
+      "name": "深证成指",
+      "price": "15996.89",
+      "change": -2.29
+    },
+    {
+      "name": "创业板",
+      "price": "4231.43",
+      "change": -2.94
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 6,
+      "total_amount": "7.73亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 5,
+      "total_amount": "38.39亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "18.27亿"
+    },
+    {
+      "name": "化学原料",
+      "count": 4,
+      "total_amount": "37.98亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "37.84亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "黄河旋风",
+      "code": "600172",
+      "change": "+9.99%",
+      "amount": "45.73亿"
+    },
+    {
+      "name": "银之杰",
+      "code": "300085",
+      "change": "+20.00%",
+      "amount": "41.13亿"
+    },
+    {
+      "name": "江钨装备",
+      "code": "600397",
+      "change": "+9.99%",
+      "amount": "35.10亿"
+    },
+    {
+      "name": "华安证券",
+      "code": "600909",
+      "change": "+9.98%",
+      "amount": "34.92亿"
+    },
+    {
+      "name": "特发信息",
+      "code": "000070",
+      "change": "+10.00%",
+      "amount": "26.76亿"
+    },
+    {
+      "name": "龙磁科技",
+      "code": "300835",
+      "change": "+20.00%",
+      "amount": "25.27亿"
+    },
+    {
+      "name": "三孚股份",
+      "code": "603938",
+      "change": "+10.00%",
+      "amount": "21.17亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+10.01%",
+      "amount": "13.39亿"
+    },
+    {
+      "name": "长江证券",
+      "code": "000783",
+      "change": "+10.00%",
+      "amount": "13.23亿"
+    },
+    {
+      "name": "锌业股份",
+      "code": "000751",
+      "change": "+10.05%",
+      "amount": "11.35亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "黄河旋风 600172",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "银之杰 300085",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "江钨装备 600397",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
