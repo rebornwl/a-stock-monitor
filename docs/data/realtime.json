@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-06-24 05:12",
+  "update_time": "2026-06-24 05:42",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 70,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4106.32",
-      "change": 0.0
+      "price": "4108.44",
+      "change": 0.05
     },
     {
       "name": "深证成指",
-      "price": "15964.07",
-      "change": 0.69
+      "price": "16024.56",
+      "change": 1.07
     },
     {
       "name": "创业板",
-      "price": "4215.12",
-      "change": 0.55
+      "price": "4241.89",
+      "change": 1.19
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "半导体",
-      "count": 8,
-      "total_amount": "423.58亿"
-    },
-    {
-      "name": "专业工程",
-      "count": 4,
-      "total_amount": "57.82亿"
-    },
-    {
-      "name": "能源金属",
-      "count": 3,
-      "total_amount": "76.80亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 3,
-      "total_amount": "24.44亿"
-    },
-    {
-      "name": "元件",
-      "count": 3,
-      "total_amount": "16.07亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "长电科技",
-      "code": "600584",
-      "change": "+10.00%",
-      "amount": "233.43亿"
-    },
-    {
-      "name": "中国巨石",
-      "code": "600176",
-      "change": "+9.99%",
-      "amount": "103.30亿"
-    },
-    {
-      "name": "永鼎股份",
-      "code": "600105",
-      "change": "+9.99%",
-      "amount": "91.20亿"
-    },
-    {
-      "name": "深科技",
-      "code": "000021",
-      "change": "+10.00%",
-      "amount": "87.59亿"
-    },
-    {
-      "name": "N臻宝",
-      "code": "688797",
-      "change": "+995.15%",
-      "amount": "77.69亿"
-    },
-    {
-      "name": "华安证券",
-      "code": "600909",
-      "change": "+10.04%",
-      "amount": "55.42亿"
-    },
-    {
-      "name": "东方锆业",
-      "code": "002167",
-      "change": "+9.99%",
-      "amount": "55.04亿"
-    },
-    {
-      "name": "三安光电",
-      "code": "600703",
-      "change": "+9.98%",
-      "amount": "47.51亿"
-    },
-    {
-      "name": "驰宏锌锗",
-      "code": "600497",
-      "change": "+10.00%",
-      "amount": "47.31亿"
-    },
-    {
-      "name": "太极实业",
-      "code": "600667",
-      "change": "+9.99%",
-      "amount": "46.60亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "长电科技 600584",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "中国巨石 600176",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "永鼎股份 600105",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
