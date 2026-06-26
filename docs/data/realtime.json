@@ -1,113 +1,113 @@
 {
-  "update_time": "2026-06-26 06:18",
+  "update_time": "2026-06-26 06:53",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 62,
+  "limit_up_count": 60,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4039.21",
-      "change": -1.97
+      "price": "4031.46",
+      "change": -2.16
     },
     {
       "name": "深证成指",
-      "price": "15841.6",
-      "change": -3.07
+      "price": "15796.32",
+      "change": -3.35
     },
     {
       "name": "创业板",
-      "price": "4214.74",
-      "change": -3.6
+      "price": "4199.69",
+      "change": -3.94
     }
   ],
   "hot_sectors": [
     {
       "name": "专用设备",
       "count": 7,
-      "total_amount": "57.45亿"
+      "total_amount": "58.50亿"
     },
     {
       "name": "光学光电子",
       "count": 5,
-      "total_amount": "187.99亿"
+      "total_amount": "200.26亿"
     },
     {
       "name": "化学制品",
       "count": 5,
-      "total_amount": "36.87亿"
+      "total_amount": "38.26亿"
     },
     {
       "name": "元件",
       "count": 3,
-      "total_amount": "85.55亿"
+      "total_amount": "86.69亿"
     },
     {
       "name": "通用设备",
       "count": 3,
-      "total_amount": "30.25亿"
+      "total_amount": "30.79亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "N惠科",
       "code": "001399",
-      "change": "+339.33%",
-      "amount": "113.86亿"
+      "change": "+319.96%",
+      "amount": "125.14亿"
     },
     {
       "name": "中国卫星",
       "code": "600118",
-      "change": "+9.92%",
-      "amount": "64.31亿"
+      "change": "+10.00%",
+      "amount": "66.83亿"
     },
     {
       "name": "TCL中环",
       "code": "002129",
       "change": "+10.03%",
-      "amount": "56.48亿"
+      "amount": "56.99亿"
     },
     {
       "name": "凯盛科技",
       "code": "600552",
       "change": "+10.00%",
-      "amount": "43.83亿"
+      "amount": "44.37亿"
     },
     {
       "name": "广合科技",
       "code": "001389",
       "change": "+10.00%",
-      "amount": "42.10亿"
+      "amount": "42.41亿"
     },
     {
       "name": "天娱数科",
       "code": "002354",
       "change": "+9.96%",
-      "amount": "38.97亿"
+      "amount": "41.14亿"
     },
     {
       "name": "红星发展",
       "code": "600367",
       "change": "+10.00%",
-      "amount": "38.96亿"
+      "amount": "39.30亿"
     },
     {
       "name": "康强电子",
       "code": "002119",
       "change": "+10.01%",
-      "amount": "30.13亿"
+      "amount": "30.39亿"
     },
     {
       "name": "超声电子",
       "code": "000823",
       "change": "+10.01%",
-      "amount": "29.74亿"
+      "amount": "30.01亿"
     },
     {
       "name": "彤程新材",
       "code": "603650",
       "change": "+10.00%",
-      "amount": "28.76亿"
+      "amount": "29.90亿"
     }
   ],
   "opportunities": [
