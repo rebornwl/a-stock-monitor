@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-06-29 06:58",
+  "update_time": "2026-06-29 07:28",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 23,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4075.18",
-      "change": 1.19
+      "price": "4073.9",
+      "change": 1.16
     },
     {
       "name": "深证成指",
-      "price": "15817.71",
-      "change": 0.22
+      "price": "15812.87",
+      "change": 0.19
     },
     {
       "name": "创业板",
-      "price": "4218.07",
-      "change": 0.57
+      "price": "4216.7",
+      "change": 0.54
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "医药",
-      "count": 5,
-      "total_amount": "32.65亿"
-    },
-    {
-      "name": "半导体",
-      "count": 4,
-      "total_amount": "127.96亿"
-    },
-    {
-      "name": "生物制品",
-      "count": 2,
-      "total_amount": "11.90亿"
-    },
-    {
-      "name": "医疗服务",
-      "count": 2,
-      "total_amount": "4.70亿"
-    },
-    {
-      "name": "电子化学品Ⅱ",
-      "count": 1,
-      "total_amount": "27.08亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "华海清科",
-      "code": "688120",
-      "change": "+20.00%",
-      "amount": "52.28亿"
-    },
-    {
-      "name": "神工股份",
-      "code": "688233",
-      "change": "+20.00%",
-      "amount": "41.88亿"
-    },
-    {
-      "name": "有研硅",
-      "code": "688432",
-      "change": "+20.00%",
-      "amount": "32.93亿"
-    },
-    {
-      "name": "广钢气体",
-      "code": "688548",
-      "change": "+20.01%",
-      "amount": "27.08亿"
-    },
-    {
-      "name": "美利信",
-      "code": "301307",
-      "change": "+20.00%",
-      "amount": "14.16亿"
-    },
-    {
-      "name": "广生堂",
-      "code": "300436",
-      "change": "+20.00%",
-      "amount": "13.61亿"
-    },
-    {
-      "name": "舒泰神",
-      "code": "300204",
-      "change": "+20.00%",
-      "amount": "12.12亿"
-    },
-    {
-      "name": "锌业股份",
-      "code": "000751",
-      "change": "+10.09%",
-      "amount": "9.50亿"
-    },
-    {
-      "name": "三生国健",
-      "code": "688336",
-      "change": "+20.00%",
-      "amount": "9.35亿"
-    },
-    {
-      "name": "多浦乐",
-      "code": "301528",
-      "change": "+20.00%",
-      "amount": "4.23亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "华海清科 688120",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "神工股份 688233",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "有研硅 688432",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
