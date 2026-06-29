@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-06-26 10:19",
-  "market_status": "盘中",
-  "sentiment": "极度低迷",
-  "limit_up_count": 0,
+  "update_time": "2026-06-29 06:08",
+  "market_status": "休市",
+  "sentiment": "中性",
+  "limit_up_count": 49,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4027.26",
-      "change": -2.26
+      "price": "4051.37",
+      "change": 0.6
     },
     {
       "name": "深证成指",
-      "price": "15782.22",
-      "change": -3.44
+      "price": "15707.28",
+      "change": -0.47
     },
     {
       "name": "创业板",
-      "price": "4194.21",
-      "change": -4.07
+      "price": "4180.48",
+      "change": -0.33
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 15,
+      "total_amount": "69.76亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "25.95亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "9.99亿"
+    },
+    {
+      "name": "半导体",
+      "count": 2,
+      "total_amount": "33.39亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 2,
+      "total_amount": "17.95亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "正帆科技",
+      "code": "688596",
+      "change": "+19.78%",
+      "amount": "37.08亿"
+    },
+    {
+      "name": "有研硅",
+      "code": "688432",
+      "change": "+20.00%",
+      "amount": "32.58亿"
+    },
+    {
+      "name": "众生药业",
+      "code": "002317",
+      "change": "+10.00%",
+      "amount": "14.35亿"
+    },
+    {
+      "name": "巨力索具",
+      "code": "002342",
+      "change": "+10.05%",
+      "amount": "14.15亿"
+    },
+    {
+      "name": "美利信",
+      "code": "301307",
+      "change": "+20.00%",
+      "amount": "14.03亿"
+    },
+    {
+      "name": "广生堂",
+      "code": "300436",
+      "change": "+20.00%",
+      "amount": "13.37亿"
+    },
+    {
+      "name": "凯美特气",
+      "code": "002549",
+      "change": "+10.01%",
+      "amount": "12.63亿"
+    },
+    {
+      "name": "舒泰神",
+      "code": "300204",
+      "change": "+20.00%",
+      "amount": "11.96亿"
+    },
+    {
+      "name": "创元科技",
+      "code": "000551",
+      "change": "+10.03%",
+      "amount": "11.88亿"
+    },
+    {
+      "name": "奔图科技",
+      "code": "002180",
+      "change": "+10.03%",
+      "amount": "11.36亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "正帆科技 688596",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "有研硅 688432",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "众生药业 002317",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
