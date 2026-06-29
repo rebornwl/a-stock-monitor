@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-29 07:28",
-  "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-06-29 09:20",
+  "market_status": "盘中",
+  "sentiment": "偏强",
+  "limit_up_count": 24,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": 0.54
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 5,
+      "total_amount": "32.69亿"
+    },
+    {
+      "name": "半导体",
+      "count": 4,
+      "total_amount": "128.44亿"
+    },
+    {
+      "name": "生物制品",
+      "count": 2,
+      "total_amount": "11.91亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 2,
+      "total_amount": "4.71亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 1,
+      "total_amount": "27.23亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "华海清科",
+      "code": "688120",
+      "change": "+20.00%",
+      "amount": "52.61亿"
+    },
+    {
+      "name": "神工股份",
+      "code": "688233",
+      "change": "+20.00%",
+      "amount": "42.02亿"
+    },
+    {
+      "name": "有研硅",
+      "code": "688432",
+      "change": "+20.00%",
+      "amount": "32.94亿"
+    },
+    {
+      "name": "广钢气体",
+      "code": "688548",
+      "change": "+20.01%",
+      "amount": "27.23亿"
+    },
+    {
+      "name": "美利信",
+      "code": "301307",
+      "change": "+20.00%",
+      "amount": "14.17亿"
+    },
+    {
+      "name": "广生堂",
+      "code": "300436",
+      "change": "+20.00%",
+      "amount": "13.63亿"
+    },
+    {
+      "name": "舒泰神",
+      "code": "300204",
+      "change": "+20.00%",
+      "amount": "12.13亿"
+    },
+    {
+      "name": "锌业股份",
+      "code": "000751",
+      "change": "+10.09%",
+      "amount": "9.51亿"
+    },
+    {
+      "name": "三生国健",
+      "code": "688336",
+      "change": "+20.00%",
+      "amount": "9.36亿"
+    },
+    {
+      "name": "多浦乐",
+      "code": "301528",
+      "change": "+20.00%",
+      "amount": "4.23亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "华海清科 688120",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "神工股份 688233",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "有研硅 688432",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
