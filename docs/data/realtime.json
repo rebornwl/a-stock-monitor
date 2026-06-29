@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-06-29 06:18",
+  "update_time": "2026-06-29 06:58",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 47,
+  "sentiment": "偏强",
+  "limit_up_count": 23,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4056.05",
-      "change": 0.71
+      "price": "4075.18",
+      "change": 1.19
     },
     {
       "name": "深证成指",
-      "price": "15740.01",
-      "change": -0.27
+      "price": "15817.71",
+      "change": 0.22
     },
     {
       "name": "创业板",
-      "price": "4193.2",
-      "change": -0.02
+      "price": "4218.07",
+      "change": 0.57
     }
   ],
   "hot_sectors": [
     {
       "name": "医药",
-      "count": 14,
-      "total_amount": "59.35亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 4,
-      "total_amount": "25.99亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "10.01亿"
+      "count": 5,
+      "total_amount": "32.65亿"
     },
     {
       "name": "半导体",
-      "count": 2,
-      "total_amount": "33.50亿"
+      "count": 4,
+      "total_amount": "127.96亿"
     },
     {
-      "name": "化学制品",
+      "name": "生物制品",
       "count": 2,
-      "total_amount": "18.00亿"
+      "total_amount": "11.90亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 2,
+      "total_amount": "4.70亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 1,
+      "total_amount": "27.08亿"
     }
   ],
   "dragon_stocks": [
     {
+      "name": "华海清科",
+      "code": "688120",
+      "change": "+20.00%",
+      "amount": "52.28亿"
+    },
+    {
+      "name": "神工股份",
+      "code": "688233",
+      "change": "+20.00%",
+      "amount": "41.88亿"
+    },
+    {
       "name": "有研硅",
       "code": "688432",
       "change": "+20.00%",
-      "amount": "32.69亿"
+      "amount": "32.93亿"
     },
     {
-      "name": "众生药业",
-      "code": "002317",
-      "change": "+10.00%",
-      "amount": "14.40亿"
-    },
-    {
-      "name": "巨力索具",
-      "code": "002342",
-      "change": "+10.05%",
-      "amount": "14.16亿"
+      "name": "广钢气体",
+      "code": "688548",
+      "change": "+20.01%",
+      "amount": "27.08亿"
     },
     {
       "name": "美利信",
       "code": "301307",
       "change": "+20.00%",
-      "amount": "14.07亿"
+      "amount": "14.16亿"
     },
     {
       "name": "广生堂",
       "code": "300436",
       "change": "+20.00%",
-      "amount": "13.41亿"
-    },
-    {
-      "name": "凯美特气",
-      "code": "002549",
-      "change": "+10.01%",
-      "amount": "12.65亿"
+      "amount": "13.61亿"
     },
     {
       "name": "舒泰神",
       "code": "300204",
       "change": "+20.00%",
-      "amount": "11.96亿"
-    },
-    {
-      "name": "创元科技",
-      "code": "000551",
-      "change": "+10.03%",
-      "amount": "11.94亿"
-    },
-    {
-      "name": "奔图科技",
-      "code": "002180",
-      "change": "+10.03%",
-      "amount": "11.38亿"
+      "amount": "12.12亿"
     },
     {
       "name": "锌业股份",
       "code": "000751",
       "change": "+10.09%",
-      "amount": "9.44亿"
+      "amount": "9.50亿"
+    },
+    {
+      "name": "三生国健",
+      "code": "688336",
+      "change": "+20.00%",
+      "amount": "9.35亿"
+    },
+    {
+      "name": "多浦乐",
+      "code": "301528",
+      "change": "+20.00%",
+      "amount": "4.23亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
+      "stock": "华海清科 688120",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "神工股份 688233",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
       "stock": "有研硅 688432",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "众生药业 002317",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "巨力索具 002342",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
