@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-06-30 05:47",
+  "update_time": "2026-06-30 06:21",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 24,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4078.95",
-      "change": 0.12
+      "price": "4078.03",
+      "change": 0.1
     },
     {
       "name": "深证成指",
-      "price": "16147.46",
-      "change": 2.12
+      "price": "16152.94",
+      "change": 2.15
     },
     {
       "name": "创业板",
-      "price": "4332.95",
-      "change": 2.76
+      "price": "4332.78",
+      "change": 2.75
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "半导体",
+      "count": 8,
+      "total_amount": "204.71亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 5,
+      "total_amount": "47.46亿"
+    },
+    {
+      "name": "通信",
+      "count": 2,
+      "total_amount": "19.80亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 1,
+      "total_amount": "35.41亿"
+    },
+    {
+      "name": "物流",
+      "count": 1,
+      "total_amount": "10.52亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "长光华芯",
+      "code": "688048",
+      "change": "+20.00%",
+      "amount": "96.13亿"
+    },
+    {
+      "name": "昊志机电",
+      "code": "300503",
+      "change": "+19.99%",
+      "amount": "35.41亿"
+    },
+    {
+      "name": "富满微",
+      "code": "300671",
+      "change": "+19.96%",
+      "amount": "30.20亿"
+    },
+    {
+      "name": "翱捷科技-U",
+      "code": "688220",
+      "change": "+20.00%",
+      "amount": "29.65亿"
+    },
+    {
+      "name": "茂莱光学",
+      "code": "688502",
+      "change": "+20.00%",
+      "amount": "20.03亿"
+    },
+    {
+      "name": "锐捷网络",
+      "code": "301165",
+      "change": "+20.00%",
+      "amount": "17.03亿"
+    },
+    {
+      "name": "格科微",
+      "code": "688728",
+      "change": "+20.02%",
+      "amount": "16.16亿"
+    },
+    {
+      "name": "颀中科技",
+      "code": "688352",
+      "change": "+20.00%",
+      "amount": "13.06亿"
+    },
+    {
+      "name": "海晨股份",
+      "code": "300873",
+      "change": "+20.01%",
+      "amount": "10.52亿"
+    },
+    {
+      "name": "新相微",
+      "code": "688593",
+      "change": "+19.52%",
+      "amount": "10.38亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "长光华芯 688048",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "昊志机电 300503",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "富满微 300671",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
