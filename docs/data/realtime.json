@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-07-01 05:55",
+  "update_time": "2026-07-01 06:07",
   "market_status": "休市",
-  "sentiment": "偏弱",
-  "limit_up_count": 0,
+  "sentiment": "中性",
+  "limit_up_count": 32,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4091.68",
-      "change": -0.07
+      "price": "4113.65",
+      "change": 0.47
     },
     {
       "name": "深证成指",
-      "price": "16020.7",
-      "change": -1.14
+      "price": "16152.32",
+      "change": -0.33
     },
     {
       "name": "创业板",
-      "price": "4244.42",
-      "change": -2.26
+      "price": "4282.09",
+      "change": -1.4
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "塑料",
+      "count": 3,
+      "total_amount": "18.76亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 3,
+      "total_amount": "15.31亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 2,
+      "total_amount": "79.24亿"
+    },
+    {
+      "name": "半导体",
+      "count": 2,
+      "total_amount": "51.60亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 2,
+      "total_amount": "36.97亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "C惠科",
+      "code": "001399",
+      "change": "+25.72%",
+      "amount": "75.70亿"
+    },
+    {
+      "name": "格科微",
+      "code": "688728",
+      "change": "+20.01%",
+      "amount": "41.18亿"
+    },
+    {
+      "name": "金宏气体",
+      "code": "688106",
+      "change": "+20.01%",
+      "amount": "26.10亿"
+    },
+    {
+      "name": "拓斯达",
+      "code": "300607",
+      "change": "+20.01%",
+      "amount": "23.94亿"
+    },
+    {
+      "name": "天风证券",
+      "code": "601162",
+      "change": "+10.09%",
+      "amount": "15.61亿"
+    },
+    {
+      "name": "阳谷华泰",
+      "code": "300121",
+      "change": "+19.92%",
+      "amount": "13.63亿"
+    },
+    {
+      "name": "蓝晓科技",
+      "code": "300487",
+      "change": "+20.00%",
+      "amount": "13.05亿"
+    },
+    {
+      "name": "濮阳惠成",
+      "code": "300481",
+      "change": "+19.98%",
+      "amount": "10.87亿"
+    },
+    {
+      "name": "龙图光罩",
+      "code": "688721",
+      "change": "+20.01%",
+      "amount": "10.42亿"
+    },
+    {
+      "name": "闰土股份",
+      "code": "002440",
+      "change": "+10.05%",
+      "amount": "6.81亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "C惠科 001399",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "格科微 688728",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "金宏气体 688106",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
