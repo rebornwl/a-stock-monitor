@@ -1,113 +1,113 @@
 {
-  "update_time": "2026-07-01 06:07",
+  "update_time": "2026-07-01 06:40",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 32,
+  "sentiment": "偏弱",
+  "limit_up_count": 47,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4113.65",
-      "change": 0.47
+      "price": "4094.87",
+      "change": 0.01
     },
     {
       "name": "深证成指",
-      "price": "16152.32",
-      "change": -0.33
+      "price": "16015.43",
+      "change": -1.17
     },
     {
       "name": "创业板",
-      "price": "4282.09",
-      "change": -1.4
+      "price": "4233.4",
+      "change": -2.52
     }
   ],
   "hot_sectors": [
     {
+      "name": "医药",
+      "count": 4,
+      "total_amount": "8.14亿"
+    },
+    {
+      "name": "电力",
+      "count": 3,
+      "total_amount": "53.80亿"
+    },
+    {
       "name": "塑料",
       "count": 3,
-      "total_amount": "18.76亿"
+      "total_amount": "19.07亿"
     },
     {
       "name": "化学制品",
       "count": 3,
-      "total_amount": "15.31亿"
+      "total_amount": "15.56亿"
     },
     {
-      "name": "光学光电子",
-      "count": 2,
-      "total_amount": "79.24亿"
-    },
-    {
-      "name": "半导体",
-      "count": 2,
-      "total_amount": "51.60亿"
-    },
-    {
-      "name": "电子化学品Ⅱ",
-      "count": 2,
-      "total_amount": "36.97亿"
+      "name": "养殖业",
+      "count": 3,
+      "total_amount": "13.39亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "C惠科",
       "code": "001399",
-      "change": "+25.72%",
-      "amount": "75.70亿"
+      "change": "+23.23%",
+      "amount": "85.15亿"
+    },
+    {
+      "name": "大唐发电",
+      "code": "601991",
+      "change": "+10.03%",
+      "amount": "51.71亿"
     },
     {
       "name": "格科微",
       "code": "688728",
       "change": "+20.01%",
-      "amount": "41.18亿"
+      "amount": "42.53亿"
     },
     {
       "name": "金宏气体",
       "code": "688106",
       "change": "+20.01%",
-      "amount": "26.10亿"
+      "amount": "26.41亿"
     },
     {
       "name": "拓斯达",
       "code": "300607",
       "change": "+20.01%",
-      "amount": "23.94亿"
+      "amount": "24.21亿"
     },
     {
       "name": "天风证券",
       "code": "601162",
       "change": "+10.09%",
-      "amount": "15.61亿"
-    },
-    {
-      "name": "阳谷华泰",
-      "code": "300121",
-      "change": "+19.92%",
-      "amount": "13.63亿"
+      "amount": "15.77亿"
     },
     {
       "name": "蓝晓科技",
       "code": "300487",
       "change": "+20.00%",
-      "amount": "13.05亿"
+      "amount": "13.32亿"
     },
     {
       "name": "濮阳惠成",
       "code": "300481",
       "change": "+19.98%",
-      "amount": "10.87亿"
+      "amount": "11.10亿"
     },
     {
       "name": "龙图光罩",
       "code": "688721",
       "change": "+20.01%",
-      "amount": "10.42亿"
+      "amount": "10.68亿"
     },
     {
       "name": "闰土股份",
       "code": "002440",
       "change": "+10.05%",
-      "amount": "6.81亿"
+      "amount": "6.87亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "格科微 688728",
+      "stock": "大唐发电 601991",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "金宏气体 688106",
+      "stock": "格科微 688728",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
