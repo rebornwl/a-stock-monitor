@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-02 06:07",
+  "update_time": "2026-07-02 06:39",
   "market_status": "休市",
   "sentiment": "极度低迷",
   "limit_up_count": 84,
@@ -7,107 +7,107 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "4050.34",
-      "change": -1.51
+      "price": "4042.15",
+      "change": -1.71
     },
     {
       "name": "深证成指",
-      "price": "15582.37",
-      "change": -3.33
+      "price": "15541.75",
+      "change": -3.58
     },
     {
       "name": "创业板",
-      "price": "4042.37",
-      "change": -5.12
+      "price": "4026.06",
+      "change": -5.51
     }
   ],
   "hot_sectors": [
     {
       "name": "化学制品",
-      "count": 7,
-      "total_amount": "76.60亿"
+      "count": 6,
+      "total_amount": "73.90亿"
     },
     {
       "name": "塑料",
       "count": 6,
-      "total_amount": "21.73亿"
+      "total_amount": "22.25亿"
     },
     {
-      "name": "医药",
+      "name": "汽车",
       "count": 5,
-      "total_amount": "16.24亿"
+      "total_amount": "8.22亿"
     },
     {
       "name": "纺织制造",
       "count": 4,
-      "total_amount": "16.27亿"
+      "total_amount": "16.45亿"
     },
     {
-      "name": "汽车",
+      "name": "医药",
       "count": 4,
-      "total_amount": "6.03亿"
+      "total_amount": "15.40亿"
     }
   ],
   "dragon_stocks": [
     {
       "name": "N华润",
       "code": "001248",
-      "change": "+150.94%",
-      "amount": "155.99亿"
-    },
-    {
-      "name": "黄河旋风",
-      "code": "600172",
-      "change": "+10.01%",
-      "amount": "37.01亿"
+      "change": "+144.11%",
+      "amount": "164.85亿"
     },
     {
       "name": "东方锆业",
       "code": "002167",
       "change": "+10.01%",
-      "amount": "35.02亿"
+      "amount": "44.06亿"
+    },
+    {
+      "name": "黄河旋风",
+      "code": "600172",
+      "change": "+10.01%",
+      "amount": "38.04亿"
     },
     {
       "name": "先导基电",
       "code": "600641",
       "change": "+10.01%",
-      "amount": "31.15亿"
+      "amount": "31.45亿"
     },
     {
       "name": "江化微",
       "code": "603078",
       "change": "+10.01%",
-      "amount": "29.06亿"
+      "amount": "30.16亿"
     },
     {
       "name": "永和股份",
       "code": "605020",
       "change": "+10.00%",
-      "amount": "25.78亿"
+      "amount": "26.31亿"
     },
     {
       "name": "翔鹭钨业",
       "code": "002842",
       "change": "+10.00%",
-      "amount": "22.85亿"
+      "amount": "25.87亿"
     },
     {
       "name": "金石资源",
       "code": "603505",
       "change": "+10.01%",
-      "amount": "21.30亿"
+      "amount": "21.69亿"
     },
     {
       "name": "赤峰黄金",
       "code": "600988",
       "change": "+10.00%",
-      "amount": "17.90亿"
+      "amount": "18.15亿"
     },
     {
-      "name": "和远气体",
-      "code": "002971",
+      "name": "滨化股份",
+      "code": "601678",
       "change": "+10.00%",
-      "amount": "16.08亿"
+      "amount": "16.41亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "黄河旋风 600172",
+      "stock": "东方锆业 002167",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "东方锆业 002167",
+      "stock": "黄河旋风 600172",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
