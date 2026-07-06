@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-07-06 06:44",
+  "update_time": "2026-07-06 07:09",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 74,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4040.59",
-      "change": -0.08
+      "price": "4041.24",
+      "change": -0.06
     },
     {
       "name": "深证成指",
-      "price": "15395.56",
-      "change": -1.29
+      "price": "15416.8",
+      "change": -1.16
     },
     {
       "name": "创业板",
-      "price": "3938.75",
-      "change": -2.02
+      "price": "3948.86",
+      "change": -1.77
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通用设备",
-      "count": 8,
-      "total_amount": "83.57亿"
-    },
-    {
-      "name": "通信",
-      "count": 3,
-      "total_amount": "37.16亿"
-    },
-    {
-      "name": "房地产",
-      "count": 3,
-      "total_amount": "30.35亿"
-    },
-    {
-      "name": "医药",
-      "count": 3,
-      "total_amount": "21.11亿"
-    },
-    {
-      "name": "专用设备",
-      "count": 3,
-      "total_amount": "17.42亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "紫光股份",
-      "code": "000938",
-      "change": "+10.01%",
-      "amount": "97.56亿"
-    },
-    {
-      "name": "黄河旋风",
-      "code": "600172",
-      "change": "+10.02%",
-      "amount": "51.58亿"
-    },
-    {
-      "name": "中国长城",
-      "code": "000066",
-      "change": "+9.99%",
-      "amount": "36.52亿"
-    },
-    {
-      "name": "中石科技",
-      "code": "300684",
-      "change": "+20.00%",
-      "amount": "33.23亿"
-    },
-    {
-      "name": "蔚蓝锂芯",
-      "code": "002245",
-      "change": "+9.98%",
-      "amount": "29.73亿"
-    },
-    {
-      "name": "航天电器",
-      "code": "002025",
-      "change": "+10.00%",
-      "amount": "25.04亿"
-    },
-    {
-      "name": "松发股份",
-      "code": "603268",
-      "change": "+10.00%",
-      "amount": "22.57亿"
-    },
-    {
-      "name": "万通发展",
-      "code": "600246",
-      "change": "+10.02%",
-      "amount": "20.73亿"
-    },
-    {
-      "name": "菲菱科思",
-      "code": "301191",
-      "change": "+20.00%",
-      "amount": "16.64亿"
-    },
-    {
-      "name": "洪田股份",
-      "code": "603800",
-      "change": "+9.50%",
-      "amount": "16.43亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "紫光股份 000938",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "黄河旋风 600172",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "中国长城 000066",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
