@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-07-03 09:52",
-  "market_status": "盘中",
+  "update_time": "2026-07-06 05:41",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 65,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "4047.17",
+      "change": 0.09
+    },
+    {
+      "name": "深证成指",
+      "price": "15534.53",
+      "change": -0.4
+    },
+    {
+      "name": "创业板",
+      "price": "3991.71",
+      "change": -0.7
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "通用设备",
+      "count": 8,
+      "total_amount": "82.19亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "34.76亿"
+    },
+    {
+      "name": "房地产",
+      "count": 3,
+      "total_amount": "29.94亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "14.49亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 3,
+      "total_amount": "4.98亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "黄河旋风",
+      "code": "600172",
+      "change": "+10.02%",
+      "amount": "50.67亿"
+    },
+    {
+      "name": "中国长城",
+      "code": "000066",
+      "change": "+9.99%",
+      "amount": "34.97亿"
+    },
+    {
+      "name": "中石科技",
+      "code": "300684",
+      "change": "+20.00%",
+      "amount": "32.28亿"
+    },
+    {
+      "name": "蔚蓝锂芯",
+      "code": "002245",
+      "change": "+9.98%",
+      "amount": "29.08亿"
+    },
+    {
+      "name": "航天电器",
+      "code": "002025",
+      "change": "+10.00%",
+      "amount": "24.79亿"
+    },
+    {
+      "name": "松发股份",
+      "code": "603268",
+      "change": "+10.00%",
+      "amount": "21.10亿"
+    },
+    {
+      "name": "万通发展",
+      "code": "600246",
+      "change": "+10.02%",
+      "amount": "20.45亿"
+    },
+    {
+      "name": "菲菱科思",
+      "code": "301191",
+      "change": "+20.00%",
+      "amount": "15.67亿"
+    },
+    {
+      "name": "洪田股份",
+      "code": "603800",
+      "change": "+10.01%",
+      "amount": "13.52亿"
+    },
+    {
+      "name": "崇达技术",
+      "code": "002815",
+      "change": "+10.02%",
+      "amount": "12.22亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "黄河旋风 600172",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "中国长城 000066",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "中石科技 300684",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
