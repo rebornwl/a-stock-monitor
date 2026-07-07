@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-07-07 06:16",
+  "update_time": "2026-07-07 06:42",
   "market_status": "休市",
-  "sentiment": "极度低迷",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 32,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3976.68",
-      "change": -1.6
+      "price": "3993.03",
+      "change": -1.19
     },
     {
       "name": "深证成指",
-      "price": "15164.03",
-      "change": -1.64
+      "price": "15235.26",
+      "change": -1.18
     },
     {
       "name": "创业板",
-      "price": "3889.29",
-      "change": -1.51
+      "price": "3912.48",
+      "change": -0.92
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "半导体",
+      "count": 4,
+      "total_amount": "225.68亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 3,
+      "total_amount": "18.73亿"
+    },
+    {
+      "name": "汽车",
+      "count": 3,
+      "total_amount": "5.42亿"
+    },
+    {
+      "name": "计算机设备",
+      "count": 3,
+      "total_amount": "5.31亿"
+    },
+    {
+      "name": "房地产",
+      "count": 2,
+      "total_amount": "44.89亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "华天科技",
+      "code": "002185",
+      "change": "+9.98%",
+      "amount": "119.48亿"
+    },
+    {
+      "name": "有研新材",
+      "code": "600206",
+      "change": "+10.00%",
+      "amount": "44.87亿"
+    },
+    {
+      "name": "万通发展",
+      "code": "600246",
+      "change": "+9.99%",
+      "amount": "43.68亿"
+    },
+    {
+      "name": "TCL中环",
+      "code": "002129",
+      "change": "+9.98%",
+      "amount": "37.74亿"
+    },
+    {
+      "name": "有研硅",
+      "code": "688432",
+      "change": "+20.00%",
+      "amount": "33.57亿"
+    },
+    {
+      "name": "华微电子",
+      "code": "600360",
+      "change": "+9.98%",
+      "amount": "27.77亿"
+    },
+    {
+      "name": "佛塑科技",
+      "code": "000973",
+      "change": "+10.04%",
+      "amount": "14.36亿"
+    },
+    {
+      "name": "宿迁联盛",
+      "code": "603065",
+      "change": "+9.99%",
+      "amount": "13.20亿"
+    },
+    {
+      "name": "实益达",
+      "code": "002137",
+      "change": "+10.01%",
+      "amount": "11.12亿"
+    },
+    {
+      "name": "白云电器",
+      "code": "603861",
+      "change": "+9.99%",
+      "amount": "6.46亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "华天科技 002185",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "有研新材 600206",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "万通发展 600246",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
