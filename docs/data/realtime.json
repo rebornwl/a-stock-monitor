@@ -1,27 +1,120 @@
 {
-  "update_time": "2026-07-08 04:37",
+  "update_time": "2026-07-08 04:49",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 42,
   "limit_down_count": 0,
-  "indices": [
+  "indices": [],
+  "hot_sectors": [
     {
-      "name": "上证指数",
-      "price": "4011.05",
-      "change": 0.52
+      "name": "消费",
+      "count": 7,
+      "total_amount": "55.29亿"
     },
     {
-      "name": "深证成指",
-      "price": "15237.45",
-      "change": 0.08
+      "name": "通信",
+      "count": 5,
+      "total_amount": "35.45亿"
     },
     {
-      "name": "创业板",
-      "price": "3949.04",
-      "change": 0.95
+      "name": "IT服务Ⅱ",
+      "count": 4,
+      "total_amount": "161.81亿"
+    },
+    {
+      "name": "数字经济",
+      "count": 4,
+      "total_amount": "44.70亿"
+    },
+    {
+      "name": "计算机设备",
+      "count": 3,
+      "total_amount": "28.96亿"
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "dragon_stocks": [
+    {
+      "name": "紫光股份",
+      "code": "000938",
+      "change": "+10.01%",
+      "amount": "120.63亿"
+    },
+    {
+      "name": "瑞芯微",
+      "code": "603893",
+      "change": "+10.00%",
+      "amount": "65.21亿"
+    },
+    {
+      "name": "网宿科技",
+      "code": "300017",
+      "change": "+19.97%",
+      "amount": "38.71亿"
+    },
+    {
+      "name": "华勤技术",
+      "code": "603296",
+      "change": "+10.00%",
+      "amount": "34.61亿"
+    },
+    {
+      "name": "浪潮信息",
+      "code": "000977",
+      "change": "+10.01%",
+      "amount": "25.60亿"
+    },
+    {
+      "name": "深信服",
+      "code": "300454",
+      "change": "+20.00%",
+      "amount": "22.03亿"
+    },
+    {
+      "name": "灿芯股份",
+      "code": "688691",
+      "change": "+20.00%",
+      "amount": "20.14亿"
+    },
+    {
+      "name": "大恒科技",
+      "code": "600288",
+      "change": "+10.03%",
+      "amount": "15.58亿"
+    },
+    {
+      "name": "星网锐捷",
+      "code": "002396",
+      "change": "+10.02%",
+      "amount": "14.89亿"
+    },
+    {
+      "name": "视源股份",
+      "code": "002841",
+      "change": "+10.00%",
+      "amount": "11.22亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "紫光股份 000938",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "瑞芯微 603893",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "网宿科技 300017",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
