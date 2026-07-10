@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-07-10 05:12",
+  "update_time": "2026-07-10 05:41",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 46,
+  "sentiment": "偏弱",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "4074.41",
-      "change": 0.94
+      "price": "4044.22",
+      "change": 0.19
     },
     {
       "name": "深证成指",
-      "price": "15494.46",
-      "change": 0.62
+      "price": "15353.13",
+      "change": -0.3
     },
     {
       "name": "创业板",
-      "price": "3990.88",
-      "change": -0.68
+      "price": "3950.27",
+      "change": -1.69
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "医药",
-      "count": 4,
-      "total_amount": "35.97亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 3,
-      "total_amount": "36.94亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 3,
-      "total_amount": "6.99亿"
-    },
-    {
-      "name": "航天装备Ⅱ",
-      "count": 2,
-      "total_amount": "54.52亿"
-    },
-    {
-      "name": "广告营销",
-      "count": 2,
-      "total_amount": "18.63亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "XD航天电",
-      "code": "600879",
-      "change": "+10.01%",
-      "amount": "48.42亿"
-    },
-    {
-      "name": "N托伦斯",
-      "code": "301583",
-      "change": "+978.23%",
-      "amount": "48.30亿"
-    },
-    {
-      "name": "海兰信",
-      "code": "300065",
-      "change": "+20.01%",
-      "amount": "26.01亿"
-    },
-    {
-      "name": "神火股份",
-      "code": "000933",
-      "change": "+10.02%",
-      "amount": "20.81亿"
-    },
-    {
-      "name": "巨力索具",
-      "code": "002342",
-      "change": "+10.04%",
-      "amount": "18.02亿"
-    },
-    {
-      "name": "崇达技术",
-      "code": "002815",
-      "change": "+10.03%",
-      "amount": "17.54亿"
-    },
-    {
-      "name": "深科达",
-      "code": "688328",
-      "change": "+20.00%",
-      "amount": "17.19亿"
-    },
-    {
-      "name": "利欧股份",
-      "code": "002131",
-      "change": "+10.11%",
-      "amount": "17.18亿"
-    },
-    {
-      "name": "众生药业",
-      "code": "002317",
-      "change": "+10.02%",
-      "amount": "15.58亿"
-    },
-    {
-      "name": "常山药业",
-      "code": "300255",
-      "change": "+20.00%",
-      "amount": "14.67亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "XD航天电 600879",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "N托伦斯 301583",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "海兰信 300065",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
