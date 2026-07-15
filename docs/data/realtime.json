@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-07-15 05:07",
+  "update_time": "2026-07-15 05:27",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 72,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 16,
+      "total_amount": "74.73亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 5,
+      "total_amount": "34.37亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "12.16亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "9.27亿"
+    },
+    {
+      "name": "互联网电商",
+      "count": 3,
+      "total_amount": "8.37亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "巨人网络",
+      "code": "002558",
+      "change": "+10.01%",
+      "amount": "38.27亿"
+    },
+    {
+      "name": "众生药业",
+      "code": "002317",
+      "change": "+10.02%",
+      "amount": "21.52亿"
+    },
+    {
+      "name": "昭衍新药",
+      "code": "603127",
+      "change": "+10.00%",
+      "amount": "20.06亿"
+    },
+    {
+      "name": "恺英网络",
+      "code": "002517",
+      "change": "+9.99%",
+      "amount": "17.89亿"
+    },
+    {
+      "name": "儒意电影",
+      "code": "002739",
+      "change": "+9.96%",
+      "amount": "8.72亿"
+    },
+    {
+      "name": "海思科",
+      "code": "002653",
+      "change": "+10.00%",
+      "amount": "8.40亿"
+    },
+    {
+      "name": "美盈森",
+      "code": "002303",
+      "change": "+10.11%",
+      "amount": "7.31亿"
+    },
+    {
+      "name": "睿智医药",
+      "code": "300149",
+      "change": "+19.98%",
+      "amount": "7.17亿"
+    },
+    {
+      "name": "中赋科技",
+      "code": "300692",
+      "change": "+20.05%",
+      "amount": "6.65亿"
+    },
+    {
+      "name": "古井贡酒",
+      "code": "000596",
+      "change": "+10.00%",
+      "amount": "5.79亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "巨人网络 002558",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "众生药业 002317",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "昭衍新药 603127",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
