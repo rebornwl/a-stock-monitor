@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-07-14 09:01",
+  "update_time": "2026-07-15 04:19",
   "market_status": "休市",
-  "sentiment": "极度亢奋",
-  "limit_up_count": 67,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3967.13",
-      "change": 1.36
+      "price": "3963.9",
+      "change": -0.08
     },
     {
       "name": "深证成指",
-      "price": "14924.87",
-      "change": 2.77
+      "price": "14868.23",
+      "change": -0.38
     },
     {
       "name": "创业板",
-      "price": "3851.14",
-      "change": 3.43
+      "price": "3837.23",
+      "change": -0.36
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "元件",
-      "count": 9,
-      "total_amount": "700.97亿"
-    },
-    {
-      "name": "汽车",
-      "count": 7,
-      "total_amount": "37.23亿"
-    },
-    {
-      "name": "医药",
-      "count": 5,
-      "total_amount": "29.72亿"
-    },
-    {
-      "name": "工业金属",
-      "count": 3,
-      "total_amount": "51.24亿"
-    },
-    {
-      "name": "油气开采Ⅱ",
-      "count": 3,
-      "total_amount": "20.18亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "东山精密",
-      "code": "002384",
-      "change": "+10.00%",
-      "amount": "238.56亿"
-    },
-    {
-      "name": "沪电股份",
-      "code": "002463",
-      "change": "+10.00%",
-      "amount": "125.54亿"
-    },
-    {
-      "name": "生益科技",
-      "code": "600183",
-      "change": "+10.00%",
-      "amount": "117.80亿"
-    },
-    {
-      "name": "风华高科",
-      "code": "000636",
-      "change": "+10.00%",
-      "amount": "73.31亿"
-    },
-    {
-      "name": "金安国纪",
-      "code": "002636",
-      "change": "+10.00%",
-      "amount": "47.09亿"
-    },
-    {
-      "name": "行云科技",
-      "code": "300209",
-      "change": "+20.00%",
-      "amount": "37.32亿"
-    },
-    {
-      "name": "华正新材",
-      "code": "603186",
-      "change": "+10.00%",
-      "amount": "35.83亿"
-    },
-    {
-      "name": "蔚蓝锂芯",
-      "code": "002245",
-      "change": "+10.01%",
-      "amount": "34.89亿"
-    },
-    {
-      "name": "江海股份",
-      "code": "002484",
-      "change": "+10.01%",
-      "amount": "32.43亿"
-    },
-    {
-      "name": "通源石油",
-      "code": "300164",
-      "change": "+20.04%",
-      "amount": "27.30亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "东山精密 002384",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "沪电股份 002463",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "生益科技 600183",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
