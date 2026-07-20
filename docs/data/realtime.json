@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-07-20 04:56",
+  "update_time": "2026-07-20 05:08",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 54,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3808.39",
-      "change": 1.18
+      "price": "3798.0",
+      "change": 0.9
     },
     {
       "name": "深证成指",
-      "price": "13735.81",
-      "change": 0.21
+      "price": "13687.4",
+      "change": -0.14
     },
     {
       "name": "创业板",
-      "price": "3467.32",
-      "change": 1.13
+      "price": "3452.26",
+      "change": 0.69
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "电力",
+      "count": 9,
+      "total_amount": "67.81亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "31.89亿"
+    },
+    {
+      "name": "煤炭开采",
+      "count": 5,
+      "total_amount": "18.20亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "12.15亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 3,
+      "total_amount": "8.70亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "中国海油",
+      "code": "600938",
+      "change": "+10.01%",
+      "amount": "26.76亿"
+    },
+    {
+      "name": "利通电子",
+      "code": "603629",
+      "change": "+10.00%",
+      "amount": "16.38亿"
+    },
+    {
+      "name": "华银电力",
+      "code": "600744",
+      "change": "+10.07%",
+      "amount": "11.08亿"
+    },
+    {
+      "name": "中煤能源",
+      "code": "601898",
+      "change": "+9.97%",
+      "amount": "10.04亿"
+    },
+    {
+      "name": "晋控电力",
+      "code": "000767",
+      "change": "+9.94%",
+      "amount": "9.45亿"
+    },
+    {
+      "name": "粤电力Ａ",
+      "code": "000539",
+      "change": "+9.98%",
+      "amount": "9.13亿"
+    },
+    {
+      "name": "古井贡酒",
+      "code": "000596",
+      "change": "+10.00%",
+      "amount": "8.90亿"
+    },
+    {
+      "name": "桂冠电力",
+      "code": "600236",
+      "change": "+9.79%",
+      "amount": "7.54亿"
+    },
+    {
+      "name": "立新能源",
+      "code": "001258",
+      "change": "+10.04%",
+      "amount": "7.23亿"
+    },
+    {
+      "name": "闰土股份",
+      "code": "002440",
+      "change": "+9.99%",
+      "amount": "7.23亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "中国海油 600938",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "利通电子 603629",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华银电力 600744",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
