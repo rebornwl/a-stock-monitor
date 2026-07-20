@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-07-20 07:49",
+  "update_time": "2026-07-20 08:48",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 58,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "电力",
+      "count": 20,
+      "total_amount": "259.91亿"
+    },
+    {
+      "name": "煤炭开采",
+      "count": 6,
+      "total_amount": "41.54亿"
+    },
+    {
+      "name": "消费",
+      "count": 3,
+      "total_amount": "15.69亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 3,
+      "total_amount": "12.85亿"
+    },
+    {
+      "name": "化学原料",
+      "count": 3,
+      "total_amount": "9.57亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "大唐发电",
+      "code": "601991",
+      "change": "+10.00%",
+      "amount": "51.83亿"
+    },
+    {
+      "name": "华电辽能",
+      "code": "600396",
+      "change": "+10.04%",
+      "amount": "34.23亿"
+    },
+    {
+      "name": "中国海油",
+      "code": "600938",
+      "change": "+10.01%",
+      "amount": "29.98亿"
+    },
+    {
+      "name": "上海电力",
+      "code": "600021",
+      "change": "+9.66%",
+      "amount": "24.09亿"
+    },
+    {
+      "name": "百合花",
+      "code": "603823",
+      "change": "+10.00%",
+      "amount": "23.99亿"
+    },
+    {
+      "name": "华能蒙电",
+      "code": "600863",
+      "change": "+10.09%",
+      "amount": "16.15亿"
+    },
+    {
+      "name": "兖矿能源",
+      "code": "600188",
+      "change": "+10.00%",
+      "amount": "15.08亿"
+    },
+    {
+      "name": "京能电力",
+      "code": "600578",
+      "change": "+10.00%",
+      "amount": "14.05亿"
+    },
+    {
+      "name": "中煤能源",
+      "code": "601898",
+      "change": "+9.97%",
+      "amount": "12.70亿"
+    },
+    {
+      "name": "陇神戎发",
+      "code": "300534",
+      "change": "+20.04%",
+      "amount": "12.46亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "大唐发电 601991",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华电辽能 600396",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "中国海油 600938",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
