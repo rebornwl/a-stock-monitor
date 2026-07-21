@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-07-21 08:17",
-  "market_status": "休市",
+  "update_time": "2026-07-21 09:23",
+  "market_status": "盘中",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 40,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "半导体",
+      "count": 17,
+      "total_amount": "676.20亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "55.33亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 2,
+      "total_amount": "64.90亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 2,
+      "total_amount": "28.44亿"
+    },
+    {
+      "name": "元件",
+      "count": 2,
+      "total_amount": "16.77亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "华虹宏力",
+      "code": "688347",
+      "change": "+20.00%",
+      "amount": "128.77亿"
+    },
+    {
+      "name": "长川科技",
+      "code": "300604",
+      "change": "+20.00%",
+      "amount": "120.48亿"
+    },
+    {
+      "name": "拓荆科技",
+      "code": "688072",
+      "change": "+20.00%",
+      "amount": "80.78亿"
+    },
+    {
+      "name": "国瓷材料",
+      "code": "300285",
+      "change": "+19.99%",
+      "amount": "61.00亿"
+    },
+    {
+      "name": "中科飞测",
+      "code": "688361",
+      "change": "+20.00%",
+      "amount": "55.70亿"
+    },
+    {
+      "name": "华海清科",
+      "code": "688120",
+      "change": "+20.00%",
+      "amount": "54.24亿"
+    },
+    {
+      "name": "东芯股份",
+      "code": "688110",
+      "change": "+20.00%",
+      "amount": "43.89亿"
+    },
+    {
+      "name": "睿创微纳",
+      "code": "688002",
+      "change": "+20.00%",
+      "amount": "43.33亿"
+    },
+    {
+      "name": "精智达",
+      "code": "688627",
+      "change": "+20.00%",
+      "amount": "39.01亿"
+    },
+    {
+      "name": "芯源微",
+      "code": "688037",
+      "change": "+20.00%",
+      "amount": "32.53亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "华虹宏力 688347",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "长川科技 300604",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "拓荆科技 688072",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
