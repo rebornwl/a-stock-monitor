@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-07-22 09:23",
-  "market_status": "盘中",
+  "update_time": "2026-07-23 04:41",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 73,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3859.69",
+      "change": -0.19
+    },
+    {
+      "name": "深证成指",
+      "price": "14035.01",
+      "change": -0.19
+    },
+    {
+      "name": "创业板",
+      "price": "3555.09",
+      "change": -0.33
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "电网设备",
+      "count": 14,
+      "total_amount": "59.14亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 6,
+      "total_amount": "9.24亿"
+    },
+    {
+      "name": "电力",
+      "count": 5,
+      "total_amount": "24.51亿"
+    },
+    {
+      "name": "化学原料",
+      "count": 3,
+      "total_amount": "24.23亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "5.30亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "中国西电",
+      "code": "601179",
+      "change": "+9.99%",
+      "amount": "22.90亿"
+    },
+    {
+      "name": "美利云",
+      "code": "000815",
+      "change": "+9.98%",
+      "amount": "20.72亿"
+    },
+    {
+      "name": "盛新锂能",
+      "code": "002240",
+      "change": "+10.02%",
+      "amount": "16.94亿"
+    },
+    {
+      "name": "南山铝业",
+      "code": "600219",
+      "change": "+10.11%",
+      "amount": "16.85亿"
+    },
+    {
+      "name": "盛达资源",
+      "code": "000603",
+      "change": "+10.01%",
+      "amount": "16.24亿"
+    },
+    {
+      "name": "宏桥控股",
+      "code": "002379",
+      "change": "+10.01%",
+      "amount": "13.72亿"
+    },
+    {
+      "name": "金牛化工",
+      "code": "600722",
+      "change": "+9.99%",
+      "amount": "13.41亿"
+    },
+    {
+      "name": "立新能源",
+      "code": "001258",
+      "change": "+9.99%",
+      "amount": "12.55亿"
+    },
+    {
+      "name": "川能动力",
+      "code": "000155",
+      "change": "+10.03%",
+      "amount": "8.71亿"
+    },
+    {
+      "name": "证通电子",
+      "code": "002197",
+      "change": "+10.04%",
+      "amount": "7.99亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "中国西电 601179",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "美利云 000815",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "盛新锂能 002240",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
