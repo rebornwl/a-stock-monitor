@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-07-23 09:21",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 83,
+  "update_time": "2026-07-24 04:39",
+  "market_status": "休市",
+  "sentiment": "极度低迷",
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "电网设备",
-      "count": 19,
-      "total_amount": "62.80亿"
+      "name": "上证指数",
+      "price": "3830.19",
+      "change": -1.2
     },
     {
-      "name": "电力",
-      "count": 5,
-      "total_amount": "19.47亿"
+      "name": "深证成指",
+      "price": "13873.5",
+      "change": -1.77
     },
     {
-      "name": "通用设备",
-      "count": 4,
-      "total_amount": "13.29亿"
-    },
-    {
-      "name": "专用设备",
-      "count": 4,
-      "total_amount": "5.22亿"
-    },
-    {
-      "name": "工业金属",
-      "count": 3,
-      "total_amount": "40.90亿"
+      "name": "创业板",
+      "price": "3511.75",
+      "change": -1.78
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "德业股份",
-      "code": "605117",
-      "change": "+10.00%",
-      "amount": "21.03亿"
-    },
-    {
-      "name": "南山铝业",
-      "code": "600219",
-      "change": "+10.11%",
-      "amount": "18.75亿"
-    },
-    {
-      "name": "盛新锂能",
-      "code": "002240",
-      "change": "+10.02%",
-      "amount": "17.41亿"
-    },
-    {
-      "name": "盛达资源",
-      "code": "000603",
-      "change": "+10.01%",
-      "amount": "16.56亿"
-    },
-    {
-      "name": "宏桥控股",
-      "code": "002379",
-      "change": "+10.01%",
-      "amount": "14.72亿"
-    },
-    {
-      "name": "海科新源",
-      "code": "301292",
-      "change": "+20.00%",
-      "amount": "11.52亿"
-    },
-    {
-      "name": "创新医疗",
-      "code": "002173",
-      "change": "+10.03%",
-      "amount": "11.03亿"
-    },
-    {
-      "name": "川能动力",
-      "code": "000155",
-      "change": "+10.03%",
-      "amount": "9.73亿"
-    },
-    {
-      "name": "航天动力",
-      "code": "600343",
-      "change": "+10.01%",
-      "amount": "9.50亿"
-    },
-    {
-      "name": "双杰电气",
-      "code": "300444",
-      "change": "+20.00%",
-      "amount": "9.44亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "德业股份 605117",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "南山铝业 600219",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "盛新锂能 002240",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
