@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-07-27 06:26",
+  "update_time": "2026-07-27 08:19",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 64,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3839.24",
-      "change": 0.66
+      "price": "3858.25",
+      "change": 1.15
     },
     {
       "name": "深证成指",
-      "price": "13999.81",
-      "change": 1.63
+      "price": "14148.73",
+      "change": 2.72
     },
     {
       "name": "创业板",
-      "price": "3540.35",
-      "change": 1.71
+      "price": "3590.79",
+      "change": 3.16
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "医药",
-      "count": 8,
-      "total_amount": "32.95亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 4,
-      "total_amount": "25.92亿"
-    },
-    {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "6.15亿"
-    },
-    {
-      "name": "家居用品",
-      "count": 3,
-      "total_amount": "1.79亿"
-    },
-    {
-      "name": "半导体",
-      "count": 2,
-      "total_amount": "1422.64亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "N长鑫",
-      "code": "688825",
-      "change": "+471.36%",
-      "amount": "1337.49亿"
-    },
-    {
-      "name": "雅克科技",
-      "code": "002409",
-      "change": "+10.00%",
-      "amount": "85.15亿"
-    },
-    {
-      "name": "太极实业",
-      "code": "600667",
-      "change": "+10.01%",
-      "amount": "34.02亿"
-    },
-    {
-      "name": "长城军工",
-      "code": "601606",
-      "change": "+10.02%",
-      "amount": "24.47亿"
-    },
-    {
-      "name": "博迁新材",
-      "code": "605376",
-      "change": "+10.00%",
-      "amount": "19.10亿"
-    },
-    {
-      "name": "红板科技",
-      "code": "603459",
-      "change": "+10.00%",
-      "amount": "16.94亿"
-    },
-    {
-      "name": "日科化学",
-      "code": "300214",
-      "change": "+19.98%",
-      "amount": "10.20亿"
-    },
-    {
-      "name": "陇神戎发",
-      "code": "300534",
-      "change": "+20.04%",
-      "amount": "9.71亿"
-    },
-    {
-      "name": "长缆科技",
-      "code": "002879",
-      "change": "+10.03%",
-      "amount": "9.54亿"
-    },
-    {
-      "name": "中利集团",
-      "code": "002309",
-      "change": "+10.07%",
-      "amount": "8.24亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "N长鑫 688825",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "雅克科技 002409",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "太极实业 600667",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
