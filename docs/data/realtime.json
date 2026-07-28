@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-07-28 04:44",
+  "update_time": "2026-07-28 05:21",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 0,
+  "limit_up_count": 65,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3820.52",
-      "change": -0.98
+      "price": "3810.54",
+      "change": -1.24
     },
     {
       "name": "深证成指",
-      "price": "13664.8",
-      "change": -3.42
+      "price": "13609.42",
+      "change": -3.81
     },
     {
       "name": "创业板",
-      "price": "3397.97",
-      "change": -5.37
+      "price": "3374.63",
+      "change": -6.02
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "IT服务Ⅱ",
+      "count": 6,
+      "total_amount": "29.24亿"
+    },
+    {
+      "name": "数字经济",
+      "count": 5,
+      "total_amount": "14.63亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 5,
+      "total_amount": "6.74亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "10.58亿"
+    },
+    {
+      "name": "包装印刷",
+      "count": 4,
+      "total_amount": "5.46亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "共进股份",
+      "code": "603118",
+      "change": "+10.00%",
+      "amount": "26.33亿"
+    },
+    {
+      "name": "顺钠股份",
+      "code": "000533",
+      "change": "+9.99%",
+      "amount": "20.40亿"
+    },
+    {
+      "name": "岩山科技",
+      "code": "002195",
+      "change": "+9.98%",
+      "amount": "14.73亿"
+    },
+    {
+      "name": "东方新能",
+      "code": "002310",
+      "change": "+9.96%",
+      "amount": "10.37亿"
+    },
+    {
+      "name": "创新医疗",
+      "code": "002173",
+      "change": "+10.00%",
+      "amount": "8.07亿"
+    },
+    {
+      "name": "艾艾精工",
+      "code": "603580",
+      "change": "+10.00%",
+      "amount": "7.34亿"
+    },
+    {
+      "name": "安诺其",
+      "code": "300067",
+      "change": "+20.09%",
+      "amount": "6.64亿"
+    },
+    {
+      "name": "浪潮软件",
+      "code": "600756",
+      "change": "+10.01%",
+      "amount": "5.89亿"
+    },
+    {
+      "name": "科蓝软件",
+      "code": "300663",
+      "change": "+19.95%",
+      "amount": "5.66亿"
+    },
+    {
+      "name": "新亚制程",
+      "code": "002388",
+      "change": "+10.00%",
+      "amount": "5.57亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "共进股份 603118",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "顺钠股份 000533",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "岩山科技 002195",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
