@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-07-28 05:21",
+  "update_time": "2026-07-28 05:43",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 65,
+  "limit_up_count": 68,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3810.54",
-      "change": -1.24
+      "price": "3815.98",
+      "change": -1.1
     },
     {
       "name": "深证成指",
-      "price": "13609.42",
-      "change": -3.81
+      "price": "13640.34",
+      "change": -3.59
     },
     {
       "name": "创业板",
-      "price": "3374.63",
-      "change": -6.02
+      "price": "3383.07",
+      "change": -5.78
     }
   ],
   "hot_sectors": [
     {
       "name": "IT服务Ⅱ",
       "count": 6,
-      "total_amount": "29.24亿"
+      "total_amount": "29.65亿"
     },
     {
       "name": "数字经济",
       "count": 5,
-      "total_amount": "14.63亿"
+      "total_amount": "16.41亿"
     },
     {
       "name": "光学光电子",
       "count": 5,
-      "total_amount": "6.74亿"
+      "total_amount": "7.50亿"
     },
     {
-      "name": "化学制品",
+      "name": "通信",
       "count": 4,
-      "total_amount": "10.58亿"
+      "total_amount": "36.35亿"
     },
     {
-      "name": "包装印刷",
+      "name": "医药",
       "count": 4,
-      "total_amount": "5.46亿"
+      "total_amount": "19.29亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "共进股份",
       "code": "603118",
       "change": "+10.00%",
-      "amount": "26.33亿"
+      "amount": "26.60亿"
     },
     {
       "name": "顺钠股份",
       "code": "000533",
       "change": "+9.99%",
-      "amount": "20.40亿"
+      "amount": "21.16亿"
     },
     {
       "name": "岩山科技",
       "code": "002195",
       "change": "+9.98%",
-      "amount": "14.73亿"
+      "amount": "14.90亿"
     },
     {
       "name": "东方新能",
       "code": "002310",
       "change": "+9.96%",
-      "amount": "10.37亿"
+      "amount": "10.42亿"
+    },
+    {
+      "name": "珍宝岛",
+      "code": "603567",
+      "change": "+9.78%",
+      "amount": "9.47亿"
     },
     {
       "name": "创新医疗",
       "code": "002173",
       "change": "+10.00%",
-      "amount": "8.07亿"
-    },
-    {
-      "name": "艾艾精工",
-      "code": "603580",
-      "change": "+10.00%",
-      "amount": "7.34亿"
+      "amount": "8.12亿"
     },
     {
       "name": "安诺其",
       "code": "300067",
       "change": "+20.09%",
-      "amount": "6.64亿"
+      "amount": "8.00亿"
+    },
+    {
+      "name": "艾艾精工",
+      "code": "603580",
+      "change": "+10.00%",
+      "amount": "7.41亿"
     },
     {
       "name": "浪潮软件",
       "code": "600756",
       "change": "+10.01%",
-      "amount": "5.89亿"
+      "amount": "6.06亿"
     },
     {
       "name": "科蓝软件",
       "code": "300663",
       "change": "+19.95%",
-      "amount": "5.66亿"
-    },
-    {
-      "name": "新亚制程",
-      "code": "002388",
-      "change": "+10.00%",
-      "amount": "5.57亿"
+      "amount": "5.69亿"
     }
   ],
   "opportunities": [
