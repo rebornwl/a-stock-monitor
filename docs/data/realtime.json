@@ -1,10 +1,26 @@
 {
-  "update_time": "2026-07-29 04:37",
+  "update_time": "2026-07-29 04:49",
   "market_status": "休市",
   "sentiment": "中性",
   "limit_up_count": 58,
   "limit_down_count": 0,
-  "indices": [],
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3793.18",
+      "change": -0.53
+    },
+    {
+      "name": "深证成指",
+      "price": "13452.05",
+      "change": -0.43
+    },
+    {
+      "name": "创业板",
+      "price": "3311.32",
+      "change": -0.47
+    }
+  ],
   "hot_sectors": [
     {
       "name": "饮料乳品",
