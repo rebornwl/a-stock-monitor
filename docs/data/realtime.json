@@ -1,26 +1,10 @@
 {
-  "update_time": "2026-07-29 08:30",
-  "market_status": "休市",
-  "sentiment": "偏强",
+  "update_time": "2026-07-29 09:33",
+  "market_status": "盘中",
+  "sentiment": "中性",
   "limit_up_count": 86,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "3828.47",
-      "change": 0.4
-    },
-    {
-      "name": "深证成指",
-      "price": "13658.44",
-      "change": 1.1
-    },
-    {
-      "name": "创业板",
-      "price": "3378.7",
-      "change": 1.55
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
       "name": "化学制品",
