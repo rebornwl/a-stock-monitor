@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-07-28 09:32",
-  "market_status": "盘中",
+  "update_time": "2026-07-29 04:37",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 58,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "饮料乳品",
+      "count": 6,
+      "total_amount": "8.15亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "18.03亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 4,
+      "total_amount": "15.91亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "12.96亿"
+    },
+    {
+      "name": "化学原料",
+      "count": 3,
+      "total_amount": "11.85亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "巨人网络",
+      "code": "002558",
+      "change": "+9.99%",
+      "amount": "26.17亿"
+    },
+    {
+      "name": "贤丰控股",
+      "code": "002141",
+      "change": "+9.95%",
+      "amount": "16.15亿"
+    },
+    {
+      "name": "圣阳股份",
+      "code": "002580",
+      "change": "+9.99%",
+      "amount": "15.72亿"
+    },
+    {
+      "name": "孚日股份",
+      "code": "002083",
+      "change": "+10.00%",
+      "amount": "13.21亿"
+    },
+    {
+      "name": "东百集团",
+      "code": "600693",
+      "change": "+9.99%",
+      "amount": "10.68亿"
+    },
+    {
+      "name": "闰土股份",
+      "code": "002440",
+      "change": "+10.00%",
+      "amount": "10.51亿"
+    },
+    {
+      "name": "中电鑫龙",
+      "code": "002298",
+      "change": "+10.04%",
+      "amount": "8.86亿"
+    },
+    {
+      "name": "北汽蓝谷",
+      "code": "600733",
+      "change": "+9.96%",
+      "amount": "7.06亿"
+    },
+    {
+      "name": "中公教育",
+      "code": "002607",
+      "change": "+10.05%",
+      "amount": "5.67亿"
+    },
+    {
+      "name": "科达制造",
+      "code": "600499",
+      "change": "+9.97%",
+      "amount": "5.39亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "巨人网络 002558",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "贤丰控股 002141",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "圣阳股份 002580",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
