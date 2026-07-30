@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-07-29 09:33",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 86,
+  "update_time": "2026-07-30 04:24",
+  "market_status": "休市",
+  "sentiment": "极度低迷",
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "化学制品",
-      "count": 7,
-      "total_amount": "23.37亿"
+      "name": "上证指数",
+      "price": "3784.55",
+      "change": -1.15
     },
     {
-      "name": "饮料乳品",
-      "count": 7,
-      "total_amount": "10.15亿"
+      "name": "深证成指",
+      "price": "13141.22",
+      "change": -3.79
     },
     {
-      "name": "消费",
-      "count": 6,
-      "total_amount": "27.04亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 5,
-      "total_amount": "34.14亿"
-    },
-    {
-      "name": "家居用品",
-      "count": 4,
-      "total_amount": "4.15亿"
+      "name": "创业板",
+      "price": "3179.58",
+      "change": -5.89
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "风华高科",
-      "code": "000636",
-      "change": "+10.00%",
-      "amount": "80.87亿"
-    },
-    {
-      "name": "巨人网络",
-      "code": "002558",
-      "change": "+9.99%",
-      "amount": "27.53亿"
-    },
-    {
-      "name": "圣阳股份",
-      "code": "002580",
-      "change": "+9.99%",
-      "amount": "20.22亿"
-    },
-    {
-      "name": "汉缆股份",
-      "code": "002498",
-      "change": "+9.94%",
-      "amount": "17.46亿"
-    },
-    {
-      "name": "恺英网络",
-      "code": "002517",
-      "change": "+10.02%",
-      "amount": "17.09亿"
-    },
-    {
-      "name": "贤丰控股",
-      "code": "002141",
-      "change": "+9.95%",
-      "amount": "16.46亿"
-    },
-    {
-      "name": "孚日股份",
-      "code": "002083",
-      "change": "+10.00%",
-      "amount": "13.63亿"
-    },
-    {
-      "name": "永杉锂业",
-      "code": "603399",
-      "change": "+10.02%",
-      "amount": "12.40亿"
-    },
-    {
-      "name": "闰土股份",
-      "code": "002440",
-      "change": "+10.00%",
-      "amount": "10.86亿"
-    },
-    {
-      "name": "东百集团",
-      "code": "600693",
-      "change": "+9.99%",
-      "amount": "10.85亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "风华高科 000636",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "巨人网络 002558",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "圣阳股份 002580",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
