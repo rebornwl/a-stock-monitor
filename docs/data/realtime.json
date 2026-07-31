@@ -1,27 +1,120 @@
 {
-  "update_time": "2026-07-31 06:08",
+  "update_time": "2026-07-31 07:42",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 12,
   "limit_down_count": 0,
-  "indices": [
+  "indices": [],
+  "hot_sectors": [
     {
-      "name": "上证指数",
-      "price": "3837.34",
-      "change": 0.86
+      "name": "广告营销",
+      "count": 2,
+      "total_amount": "106.29亿"
     },
     {
-      "name": "深证成指",
-      "price": "13674.5",
-      "change": 2.93
+      "name": "数字媒体",
+      "count": 2,
+      "total_amount": "81.19亿"
     },
     {
-      "name": "创业板",
-      "price": "3384.76",
-      "change": 4.32
+      "name": "数字经济",
+      "count": 2,
+      "total_amount": "16.50亿"
+    },
+    {
+      "name": "计算机设备",
+      "count": 2,
+      "total_amount": "2.48亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 1,
+      "total_amount": "10.32亿"
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "dragon_stocks": [
+    {
+      "name": "蓝色光标",
+      "code": "300058",
+      "change": "+19.98%",
+      "amount": "85.53亿"
+    },
+    {
+      "name": "昆仑万维",
+      "code": "300418",
+      "change": "+20.00%",
+      "amount": "60.66亿"
+    },
+    {
+      "name": "易点天下",
+      "code": "301171",
+      "change": "+19.99%",
+      "amount": "20.77亿"
+    },
+    {
+      "name": "中文在线",
+      "code": "300364",
+      "change": "+20.01%",
+      "amount": "20.54亿"
+    },
+    {
+      "name": "普联软件",
+      "code": "300996",
+      "change": "+19.97%",
+      "amount": "11.92亿"
+    },
+    {
+      "name": "宏景科技",
+      "code": "301396",
+      "change": "+20.00%",
+      "amount": "10.32亿"
+    },
+    {
+      "name": "米奥会展",
+      "code": "300795",
+      "change": "+20.00%",
+      "amount": "8.95亿"
+    },
+    {
+      "name": "福昕软件",
+      "code": "688095",
+      "change": "+20.00%",
+      "amount": "4.58亿"
+    },
+    {
+      "name": "海川智能",
+      "code": "300720",
+      "change": "+20.01%",
+      "amount": "3.35亿"
+    },
+    {
+      "name": "荣信文化",
+      "code": "301231",
+      "change": "+19.99%",
+      "amount": "2.55亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "蓝色光标 300058",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "昆仑万维 300418",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "易点天下 301171",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
