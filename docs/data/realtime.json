@@ -1,10 +1,26 @@
 {
-  "update_time": "2026-08-04 04:45",
+  "update_time": "2026-08-04 05:21",
   "market_status": "休市",
   "sentiment": "中性",
   "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3817.91",
+      "change": 0.22
+    },
+    {
+      "name": "深证成指",
+      "price": "13824.68",
+      "change": 2.8
+    },
+    {
+      "name": "创业板",
+      "price": "3463.28",
+      "change": 4.87
+    }
+  ],
   "hot_sectors": [],
   "dragon_stocks": [],
   "opportunities": []
