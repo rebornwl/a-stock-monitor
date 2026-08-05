@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-08-05 04:45",
+  "update_time": "2026-08-05 05:21",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 54,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 19,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3873.56",
-      "change": 1.34
+      "price": "3880.81",
+      "change": 1.53
     },
     {
       "name": "深证成指",
-      "price": "14101.9",
-      "change": 1.56
+      "price": "14212.64",
+      "change": 2.35
     },
     {
       "name": "创业板",
-      "price": "3519.86",
-      "change": 0.89
+      "price": "3566.79",
+      "change": 2.23
     }
   ],
   "hot_sectors": [
     {
       "name": "汽车",
-      "count": 5,
-      "total_amount": "22.09亿"
-    },
-    {
-      "name": "半导体",
-      "count": 3,
-      "total_amount": "49.52亿"
+      "count": 2,
+      "total_amount": "19.85亿"
     },
     {
       "name": "通用设备",
-      "count": 3,
-      "total_amount": "36.49亿"
+      "count": 2,
+      "total_amount": "13.08亿"
     },
     {
-      "name": "通信",
-      "count": 3,
-      "total_amount": "31.58亿"
+      "name": "游戏Ⅱ",
+      "count": 2,
+      "total_amount": "1.67亿"
     },
     {
-      "name": "化学原料",
-      "count": 3,
-      "total_amount": "21.67亿"
+      "name": "电子化学品Ⅱ",
+      "count": 1,
+      "total_amount": "21.38亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 1,
+      "total_amount": "19.33亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "有研新材",
-      "code": "600206",
-      "change": "+10.00%",
-      "amount": "32.72亿"
-    },
-    {
-      "name": "云南锗业",
-      "code": "002428",
-      "change": "+10.00%",
-      "amount": "25.00亿"
-    },
-    {
-      "name": "东材科技",
-      "code": "601208",
-      "change": "+10.01%",
-      "amount": "21.86亿"
-    },
-    {
-      "name": "星网锐捷",
-      "code": "002396",
-      "change": "+10.00%",
-      "amount": "21.19亿"
-    },
-    {
       "name": "中巨芯-U",
       "code": "688549",
       "change": "+20.01%",
-      "amount": "21.10亿"
-    },
-    {
-      "name": "冰轮环境",
-      "code": "000811",
-      "change": "+10.01%",
-      "amount": "19.17亿"
+      "amount": "21.38亿"
     },
     {
       "name": "正帆科技",
       "code": "688596",
       "change": "+20.00%",
-      "amount": "19.15亿"
+      "amount": "19.33亿"
     },
     {
       "name": "山子高科",
       "code": "000981",
       "change": "+10.07%",
-      "amount": "18.24亿"
+      "amount": "18.35亿"
     },
     {
-      "name": "华正新材",
-      "code": "603186",
-      "change": "+10.00%",
-      "amount": "16.24亿"
+      "name": "五洋自控",
+      "code": "300420",
+      "change": "+20.03%",
+      "amount": "11.60亿"
     },
     {
-      "name": "黄河旋风",
-      "code": "600172",
-      "change": "+10.00%",
-      "amount": "15.90亿"
+      "name": "新金路",
+      "code": "000510",
+      "change": "+10.03%",
+      "amount": "8.87亿"
+    },
+    {
+      "name": "华建集团",
+      "code": "600629",
+      "change": "+10.04%",
+      "amount": "5.46亿"
+    },
+    {
+      "name": "浩通科技",
+      "code": "301026",
+      "change": "+19.99%",
+      "amount": "5.44亿"
+    },
+    {
+      "name": "传智教育",
+      "code": "003032",
+      "change": "+10.04%",
+      "amount": "4.19亿"
+    },
+    {
+      "name": "兴业股份",
+      "code": "603928",
+      "change": "+10.05%",
+      "amount": "3.87亿"
+    },
+    {
+      "name": "锌业股份",
+      "code": "000751",
+      "change": "+10.11%",
+      "amount": "3.70亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "有研新材 600206",
+      "stock": "中巨芯-U 688549",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "云南锗业 002428",
+      "stock": "正帆科技 688596",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "东材科技 601208",
+      "stock": "山子高科 000981",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
