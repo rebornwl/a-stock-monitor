@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-08-10 03:20",
+  "update_time": "2026-08-10 03:28",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏弱",
+  "limit_up_count": 76,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3946.68",
+      "change": 0.17
+    },
+    {
+      "name": "深证成指",
+      "price": "14141.68",
+      "change": -1.18
+    },
+    {
+      "name": "创业板",
+      "price": "3482.58",
+      "change": -2.26
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 8,
+      "total_amount": "28.96亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 5,
+      "total_amount": "20.62亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 5,
+      "total_amount": "17.39亿"
+    },
+    {
+      "name": "电力",
+      "count": 3,
+      "total_amount": "31.60亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 3,
+      "total_amount": "17.27亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "立新能源",
+      "code": "001258",
+      "change": "+10.03%",
+      "amount": "24.79亿"
+    },
+    {
+      "name": "贤丰控股",
+      "code": "002141",
+      "change": "+9.98%",
+      "amount": "15.80亿"
+    },
+    {
+      "name": "长城军工",
+      "code": "601606",
+      "change": "+10.00%",
+      "amount": "13.10亿"
+    },
+    {
+      "name": "海正药业",
+      "code": "600267",
+      "change": "+9.99%",
+      "amount": "12.50亿"
+    },
+    {
+      "name": "宝鼎科技",
+      "code": "002552",
+      "change": "+10.00%",
+      "amount": "12.11亿"
+    },
+    {
+      "name": "百普赛斯",
+      "code": "301080",
+      "change": "+19.69%",
+      "amount": "11.95亿"
+    },
+    {
+      "name": "美年健康",
+      "code": "002044",
+      "change": "+9.96%",
+      "amount": "9.50亿"
+    },
+    {
+      "name": "西藏天路",
+      "code": "600326",
+      "change": "+10.00%",
+      "amount": "9.46亿"
+    },
+    {
+      "name": "先导基电",
+      "code": "600641",
+      "change": "+10.01%",
+      "amount": "8.11亿"
+    },
+    {
+      "name": "三变科技",
+      "code": "002112",
+      "change": "+10.01%",
+      "amount": "7.71亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "立新能源 001258",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "贤丰控股 002141",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "长城军工 601606",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
