@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-08-17 05:24",
+  "update_time": "2026-08-17 05:54",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "极度亢奋",
+  "limit_up_count": 69,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3963.51",
-      "change": 0.93
+      "price": "3970.58",
+      "change": 1.11
     },
     {
       "name": "深证成指",
-      "price": "14601.52",
-      "change": 1.72
+      "price": "14648.33",
+      "change": 2.05
     },
     {
       "name": "创业板",
-      "price": "3707.32",
-      "change": 2.23
+      "price": "3721.94",
+      "change": 2.64
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "32.61亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "20.75亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "88.11亿"
+    },
+    {
+      "name": "电子化学品Ⅱ",
+      "count": 3,
+      "total_amount": "42.74亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "29.22亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "通富微电",
+      "code": "002156",
+      "change": "+10.01%",
+      "amount": "97.00亿"
+    },
+    {
+      "name": "太辰光",
+      "code": "300570",
+      "change": "+20.00%",
+      "amount": "44.61亿"
+    },
+    {
+      "name": "有研新材",
+      "code": "600206",
+      "change": "+10.00%",
+      "amount": "36.88亿"
+    },
+    {
+      "name": "杰瑞股份",
+      "code": "002353",
+      "change": "+10.00%",
+      "amount": "32.79亿"
+    },
+    {
+      "name": "天通股份",
+      "code": "600330",
+      "change": "+10.01%",
+      "amount": "29.71亿"
+    },
+    {
+      "name": "金 螳 螂",
+      "code": "002081",
+      "change": "+10.02%",
+      "amount": "27.66亿"
+    },
+    {
+      "name": "聚和材料",
+      "code": "688503",
+      "change": "+20.01%",
+      "amount": "23.70亿"
+    },
+    {
+      "name": "中瓷电子",
+      "code": "003031",
+      "change": "+10.00%",
+      "amount": "23.41亿"
+    },
+    {
+      "name": "思源电气",
+      "code": "002028",
+      "change": "+10.00%",
+      "amount": "23.25亿"
+    },
+    {
+      "name": "共进股份",
+      "code": "603118",
+      "change": "+10.02%",
+      "amount": "20.10亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "通富微电 002156",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "太辰光 300570",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "有研新材 600206",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
