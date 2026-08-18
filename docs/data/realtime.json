@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-08-18 05:17",
+  "update_time": "2026-08-18 05:46",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 62,
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3967.33",
-      "change": -0.38
+      "price": "3972.42",
+      "change": -0.26
     },
     {
       "name": "深证成指",
-      "price": "14529.94",
-      "change": -1.19
+      "price": "14534.71",
+      "change": -1.15
     },
     {
       "name": "创业板",
-      "price": "3684.51",
-      "change": -1.49
+      "price": "3685.9",
+      "change": -1.45
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "种植业",
-      "count": 7,
-      "total_amount": "51.76亿"
-    },
-    {
-      "name": "农产品加工",
-      "count": 4,
-      "total_amount": "24.91亿"
-    },
-    {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "13.92亿"
-    },
-    {
-      "name": "医药",
-      "count": 4,
-      "total_amount": "13.27亿"
-    },
-    {
-      "name": "光学光电子",
-      "count": 3,
-      "total_amount": "62.55亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "N频准",
-      "code": "688826",
-      "change": "+526.06%",
-      "amount": "60.62亿"
-    },
-    {
-      "name": "中石科技",
-      "code": "300684",
-      "change": "+20.00%",
-      "amount": "38.33亿"
-    },
-    {
-      "name": "神农种业",
-      "code": "300189",
-      "change": "+20.04%",
-      "amount": "22.54亿"
-    },
-    {
-      "name": "旭光电子",
-      "code": "600353",
-      "change": "+9.99%",
-      "amount": "21.88亿"
-    },
-    {
-      "name": "红星发展",
-      "code": "600367",
-      "change": "+10.01%",
-      "amount": "20.60亿"
-    },
-    {
-      "name": "博敏电子",
-      "code": "603936",
-      "change": "+10.01%",
-      "amount": "17.64亿"
-    },
-    {
-      "name": "金牛化工",
-      "code": "600722",
-      "change": "+9.97%",
-      "amount": "15.63亿"
-    },
-    {
-      "name": "北大荒",
-      "code": "600598",
-      "change": "+9.97%",
-      "amount": "12.86亿"
-    },
-    {
-      "name": "中粮糖业",
-      "code": "600737",
-      "change": "+9.99%",
-      "amount": "12.77亿"
-    },
-    {
-      "name": "瑞丰高材",
-      "code": "300243",
-      "change": "+20.00%",
-      "amount": "12.50亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "N频准 688826",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "中石科技 300684",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "神农种业 300189",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
