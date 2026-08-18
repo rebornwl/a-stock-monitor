@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-08-18 07:21",
+  "update_time": "2026-08-18 07:32",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 80,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "种植业",
+      "count": 11,
+      "total_amount": "79.89亿"
+    },
+    {
+      "name": "医药",
+      "count": 5,
+      "total_amount": "25.45亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "15.64亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "110.22亿"
+    },
+    {
+      "name": "农产品加工",
+      "count": 4,
+      "total_amount": "28.73亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "N频准",
+      "code": "688826",
+      "change": "+516.44%",
+      "amount": "72.72亿"
+    },
+    {
+      "name": "中石科技",
+      "code": "300684",
+      "change": "+20.00%",
+      "amount": "48.48亿"
+    },
+    {
+      "name": "埃斯顿",
+      "code": "002747",
+      "change": "+10.00%",
+      "amount": "45.28亿"
+    },
+    {
+      "name": "彩虹股份",
+      "code": "600707",
+      "change": "+9.98%",
+      "amount": "35.53亿"
+    },
+    {
+      "name": "旭光电子",
+      "code": "600353",
+      "change": "+9.99%",
+      "amount": "24.27亿"
+    },
+    {
+      "name": "神农种业",
+      "code": "300189",
+      "change": "+20.04%",
+      "amount": "22.91亿"
+    },
+    {
+      "name": "红星发展",
+      "code": "600367",
+      "change": "+10.01%",
+      "amount": "21.09亿"
+    },
+    {
+      "name": "航天电器",
+      "code": "002025",
+      "change": "+10.01%",
+      "amount": "19.65亿"
+    },
+    {
+      "name": "博敏电子",
+      "code": "603936",
+      "change": "+10.01%",
+      "amount": "18.72亿"
+    },
+    {
+      "name": "中国软件",
+      "code": "600536",
+      "change": "+9.99%",
+      "amount": "16.65亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "N频准 688826",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "中石科技 300684",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "埃斯顿 002747",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
