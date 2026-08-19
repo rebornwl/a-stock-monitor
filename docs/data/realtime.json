@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-08-19 02:41",
+  "update_time": "2026-08-19 03:04",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "极度低迷",
+  "limit_up_count": 33,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3919.76",
+      "change": -1.77
+    },
+    {
+      "name": "深证成指",
+      "price": "14098.56",
+      "change": -3.58
+    },
+    {
+      "name": "创业板",
+      "price": "3537.64",
+      "change": -4.53
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 4,
+      "total_amount": "11.10亿"
+    },
+    {
+      "name": "焦炭Ⅱ",
+      "count": 3,
+      "total_amount": "13.02亿"
+    },
+    {
+      "name": "房地产",
+      "count": 3,
+      "total_amount": "11.55亿"
+    },
+    {
+      "name": "农产品加工",
+      "count": 3,
+      "total_amount": "7.92亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 2,
+      "total_amount": "8.45亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "N宇树-W",
+      "code": "688836",
+      "change": "+489.40%",
+      "amount": "167.38亿"
+    },
+    {
+      "name": "斯达半导",
+      "code": "603290",
+      "change": "+10.00%",
+      "amount": "16.89亿"
+    },
+    {
+      "name": "金田股份",
+      "code": "601609",
+      "change": "+10.04%",
+      "amount": "14.79亿"
+    },
+    {
+      "name": "我爱我家",
+      "code": "000560",
+      "change": "+10.19%",
+      "amount": "9.49亿"
+    },
+    {
+      "name": "鲁信创投",
+      "code": "600783",
+      "change": "+10.03%",
+      "amount": "8.10亿"
+    },
+    {
+      "name": "大有能源",
+      "code": "600403",
+      "change": "+10.00%",
+      "amount": "7.55亿"
+    },
+    {
+      "name": "美锦能源",
+      "code": "000723",
+      "change": "+9.89%",
+      "amount": "6.11亿"
+    },
+    {
+      "name": "金利华电",
+      "code": "300069",
+      "change": "+20.01%",
+      "amount": "5.94亿"
+    },
+    {
+      "name": "陕西黑猫",
+      "code": "601015",
+      "change": "+10.09%",
+      "amount": "5.10亿"
+    },
+    {
+      "name": "京粮控股",
+      "code": "000505",
+      "change": "+10.01%",
+      "amount": "4.22亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "N宇树-W 688836",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "斯达半导 603290",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "金田股份 601609",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
