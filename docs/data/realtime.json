@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-08-20 02:32",
+  "update_time": "2026-08-20 02:40",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 66,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3905.32",
-      "change": 0.28
+      "price": "3901.53",
+      "change": 0.18
     },
     {
       "name": "深证成指",
-      "price": "13993.82",
-      "change": 0.75
+      "price": "13975.28",
+      "change": 0.61
     },
     {
       "name": "创业板",
-      "price": "3499.88",
-      "change": 0.76
+      "price": "3494.19",
+      "change": 0.6
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 20,
+      "total_amount": "91.95亿"
+    },
+    {
+      "name": "生物制品",
+      "count": 10,
+      "total_amount": "30.83亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 5,
+      "total_amount": "25.04亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 4,
+      "total_amount": "3.79亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "15.15亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "通鼎互联",
+      "code": "002491",
+      "change": "+9.99%",
+      "amount": "38.24亿"
+    },
+    {
+      "name": "石药创新",
+      "code": "300765",
+      "change": "+20.00%",
+      "amount": "28.64亿"
+    },
+    {
+      "name": "金健米业",
+      "code": "600127",
+      "change": "+9.97%",
+      "amount": "21.99亿"
+    },
+    {
+      "name": "誉衡药业",
+      "code": "002437",
+      "change": "+10.00%",
+      "amount": "20.95亿"
+    },
+    {
+      "name": "兴业银锡",
+      "code": "000426",
+      "change": "+10.01%",
+      "amount": "16.71亿"
+    },
+    {
+      "name": "宝鼎科技",
+      "code": "002552",
+      "change": "+10.01%",
+      "amount": "15.44亿"
+    },
+    {
+      "name": "博腾股份",
+      "code": "300363",
+      "change": "+20.00%",
+      "amount": "12.28亿"
+    },
+    {
+      "name": "艾艾精工",
+      "code": "603580",
+      "change": "+10.00%",
+      "amount": "9.09亿"
+    },
+    {
+      "name": "N绿控",
+      "code": "301655",
+      "change": "+335.06%",
+      "amount": "8.92亿"
+    },
+    {
+      "name": "永安药业",
+      "code": "002365",
+      "change": "+9.98%",
+      "amount": "8.87亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "通鼎互联 002491",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "石药创新 300765",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "金健米业 600127",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
