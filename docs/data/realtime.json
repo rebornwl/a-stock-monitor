@@ -1,27 +1,120 @@
 {
-  "update_time": "2026-08-20 05:19",
+  "update_time": "2026-08-20 05:49",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 61,
   "limit_down_count": 0,
-  "indices": [
+  "indices": [],
+  "hot_sectors": [
     {
-      "name": "上证指数",
-      "price": "3902.88",
-      "change": 0.22
+      "name": "生物制品",
+      "count": 14,
+      "total_amount": "92.20亿"
     },
     {
-      "name": "深证成指",
-      "price": "13977.96",
-      "change": 0.63
+      "name": "医药",
+      "count": 14,
+      "total_amount": "79.95亿"
     },
     {
-      "name": "创业板",
-      "price": "3494.16",
-      "change": 0.6
+      "name": "医疗服务",
+      "count": 4,
+      "total_amount": "24.87亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 4,
+      "total_amount": "6.05亿"
+    },
+    {
+      "name": "消费",
+      "count": 3,
+      "total_amount": "6.53亿"
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "dragon_stocks": [
+    {
+      "name": "石药创新",
+      "code": "300765",
+      "change": "+20.00%",
+      "amount": "31.39亿"
+    },
+    {
+      "name": "誉衡药业",
+      "code": "002437",
+      "change": "+10.00%",
+      "amount": "21.46亿"
+    },
+    {
+      "name": "义翘神州",
+      "code": "301047",
+      "change": "+20.00%",
+      "amount": "21.18亿"
+    },
+    {
+      "name": "安科生物",
+      "code": "300009",
+      "change": "+19.98%",
+      "amount": "17.60亿"
+    },
+    {
+      "name": "宝鼎科技",
+      "code": "002552",
+      "change": "+10.01%",
+      "amount": "16.37亿"
+    },
+    {
+      "name": "康泰生物",
+      "code": "300601",
+      "change": "+19.98%",
+      "amount": "13.99亿"
+    },
+    {
+      "name": "博腾股份",
+      "code": "300363",
+      "change": "+20.00%",
+      "amount": "12.53亿"
+    },
+    {
+      "name": "新开源",
+      "code": "300109",
+      "change": "+19.97%",
+      "amount": "11.94亿"
+    },
+    {
+      "name": "N绿控",
+      "code": "301655",
+      "change": "+285.88%",
+      "amount": "11.65亿"
+    },
+    {
+      "name": "华曙高科",
+      "code": "688433",
+      "change": "+20.00%",
+      "amount": "10.37亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "石药创新 300765",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "誉衡药业 002437",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "义翘神州 301047",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
