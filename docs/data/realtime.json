@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-08-21 02:46",
+  "update_time": "2026-08-21 03:10",
   "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 42,
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3903.39",
+      "price": "3903.4",
       "change": -0.01
     },
     {
       "name": "深证成指",
-      "price": "14078.66",
-      "change": 0.76
+      "price": "14060.7",
+      "change": 0.63
     },
     {
       "name": "创业板",
-      "price": "3541.25",
-      "change": 1.31
+      "price": "3535.29",
+      "change": 1.14
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "32.93亿"
-    },
-    {
-      "name": "专用设备",
-      "count": 4,
-      "total_amount": "22.57亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "19.30亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 4,
-      "total_amount": "16.29亿"
-    },
-    {
-      "name": "医药",
-      "count": 4,
-      "total_amount": "10.81亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "湖南白银",
-      "code": "002716",
-      "change": "+10.03%",
-      "amount": "36.43亿"
-    },
-    {
-      "name": "士兰微",
-      "code": "600460",
-      "change": "+9.99%",
-      "amount": "24.38亿"
-    },
-    {
-      "name": "星网锐捷",
-      "code": "002396",
-      "change": "+10.02%",
-      "amount": "22.36亿"
-    },
-    {
-      "name": "白银有色",
-      "code": "601212",
-      "change": "+9.93%",
-      "amount": "19.15亿"
-    },
-    {
-      "name": "飞龙股份",
-      "code": "002536",
-      "change": "+10.00%",
-      "amount": "15.62亿"
-    },
-    {
-      "name": "康希诺",
-      "code": "688185",
-      "change": "+20.01%",
-      "amount": "14.28亿"
-    },
-    {
-      "name": "江钨装备",
-      "code": "600397",
-      "change": "+10.01%",
-      "amount": "13.89亿"
-    },
-    {
-      "name": "融捷股份",
-      "code": "002192",
-      "change": "+10.00%",
-      "amount": "12.22亿"
-    },
-    {
-      "name": "共达电声",
-      "code": "002655",
-      "change": "+9.99%",
-      "amount": "11.30亿"
-    },
-    {
-      "name": "天洋新材",
-      "code": "603330",
-      "change": "+10.04%",
-      "amount": "10.84亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "湖南白银 002716",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "士兰微 600460",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "星网锐捷 002396",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
