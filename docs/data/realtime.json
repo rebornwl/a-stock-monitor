@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-08-25 06:19",
+  "update_time": "2026-08-25 06:36",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 67,
+  "limit_up_count": 69,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3890.26",
-      "change": 0.21
+      "price": "3891.83",
+      "change": 0.25
     },
     {
       "name": "深证成指",
-      "price": "13757.07",
-      "change": -0.27
+      "price": "13768.01",
+      "change": -0.19
     },
     {
       "name": "创业板",
-      "price": "3401.17",
-      "change": -0.9
+      "price": "3405.31",
+      "change": -0.77
     }
   ],
   "hot_sectors": [
     {
       "name": "医药",
-      "count": 7,
-      "total_amount": "57.76亿"
+      "count": 6,
+      "total_amount": "27.45亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 5,
+      "total_amount": "30.71亿"
     },
     {
       "name": "消费",
       "count": 5,
-      "total_amount": "17.65亿"
-    },
-    {
-      "name": "通用设备",
-      "count": 4,
-      "total_amount": "27.05亿"
+      "total_amount": "17.71亿"
     },
     {
       "name": "装修装饰Ⅱ",
       "count": 4,
-      "total_amount": "15.55亿"
+      "total_amount": "15.61亿"
     },
     {
       "name": "专用设备",
       "count": 3,
-      "total_amount": "90.82亿"
+      "total_amount": "91.46亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "英维克",
       "code": "002837",
       "change": "+10.01%",
-      "amount": "55.82亿"
+      "amount": "55.92亿"
     },
     {
       "name": "N高凯",
       "code": "688835",
-      "change": "+287.97%",
-      "amount": "32.16亿"
-    },
-    {
-      "name": "誉衡药业",
-      "code": "002437",
-      "change": "+9.90%",
-      "amount": "30.80亿"
+      "change": "+289.49%",
+      "amount": "32.70亿"
     },
     {
       "name": "凯莱英",
       "code": "002821",
       "change": "+10.00%",
-      "amount": "27.72亿"
+      "amount": "27.82亿"
+    },
+    {
+      "name": "金健米业",
+      "code": "600127",
+      "change": "+10.05%",
+      "amount": "26.10亿"
     },
     {
       "name": "石头科技",
       "code": "688169",
       "change": "+20.00%",
-      "amount": "25.31亿"
+      "amount": "25.37亿"
     },
     {
       "name": "黄河旋风",
       "code": "600172",
       "change": "+9.98%",
-      "amount": "23.64亿"
+      "amount": "24.01亿"
     },
     {
       "name": "*ST闻泰",
       "code": "600745",
-      "change": "+9.59%",
-      "amount": "13.33亿"
+      "change": "+9.71%",
+      "amount": "13.91亿"
     },
     {
       "name": "汉森制药",
       "code": "002412",
       "change": "+9.99%",
-      "amount": "11.57亿"
+      "amount": "12.01亿"
     },
     {
       "name": "浙江世宝",
       "code": "002703",
       "change": "+9.98%",
-      "amount": "11.53亿"
+      "amount": "11.55亿"
     },
     {
       "name": "金 螳 螂",
       "code": "002081",
       "change": "+10.00%",
-      "amount": "11.29亿"
+      "amount": "11.32亿"
     }
   ],
   "opportunities": [
@@ -127,7 +127,7 @@
     },
     {
       "name": "打板机会",
-      "stock": "誉衡药业 002437",
+      "stock": "凯莱英 002821",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
