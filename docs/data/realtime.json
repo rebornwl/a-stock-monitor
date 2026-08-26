@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-08-26 02:40",
+  "update_time": "2026-08-26 02:49",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏强",
+  "limit_up_count": 50,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3921.74",
+      "change": 0.83
+    },
+    {
+      "name": "深证成指",
+      "price": "13922.59",
+      "change": 1.29
+    },
+    {
+      "name": "创业板",
+      "price": "3447.79",
+      "change": 1.48
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "工业金属",
+      "count": 4,
+      "total_amount": "75.26亿"
+    },
+    {
+      "name": "计算机设备",
+      "count": 3,
+      "total_amount": "22.13亿"
+    },
+    {
+      "name": "饰品",
+      "count": 3,
+      "total_amount": "16.43亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "4.89亿"
+    },
+    {
+      "name": "通信",
+      "count": 2,
+      "total_amount": "59.35亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "剑桥科技",
+      "code": "603083",
+      "change": "+10.00%",
+      "amount": "43.80亿"
+    },
+    {
+      "name": "江西铜业",
+      "code": "600362",
+      "change": "+10.01%",
+      "amount": "35.26亿"
+    },
+    {
+      "name": "白银有色",
+      "code": "601212",
+      "change": "+10.03%",
+      "amount": "34.62亿"
+    },
+    {
+      "name": "杭电股份",
+      "code": "603618",
+      "change": "+9.99%",
+      "amount": "24.39亿"
+    },
+    {
+      "name": "C高凯",
+      "code": "688835",
+      "change": "+22.93%",
+      "amount": "16.62亿"
+    },
+    {
+      "name": "楚天龙",
+      "code": "003040",
+      "change": "+10.01%",
+      "amount": "15.55亿"
+    },
+    {
+      "name": "新 大 陆",
+      "code": "000997",
+      "change": "+9.99%",
+      "amount": "13.42亿"
+    },
+    {
+      "name": "浙江世宝",
+      "code": "002703",
+      "change": "+10.02%",
+      "amount": "12.36亿"
+    },
+    {
+      "name": "赤天化",
+      "code": "600227",
+      "change": "+9.97%",
+      "amount": "9.73亿"
+    },
+    {
+      "name": "深中华A",
+      "code": "000017",
+      "change": "+10.00%",
+      "amount": "9.37亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "剑桥科技 603083",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "江西铜业 600362",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "白银有色 601212",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
