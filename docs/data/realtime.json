@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-08-31 08:33",
-  "market_status": "休市",
-  "sentiment": "偏强",
-  "limit_up_count": 68,
+  "update_time": "2026-08-31 09:16",
+  "market_status": "盘中",
+  "sentiment": "中性",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,116 +21,7 @@
       "change": 0.42
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "通用设备",
-      "count": 6,
-      "total_amount": "24.34亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "78.48亿"
-    },
-    {
-      "name": "汽车",
-      "count": 4,
-      "total_amount": "17.19亿"
-    },
-    {
-      "name": "元件",
-      "count": 3,
-      "total_amount": "42.73亿"
-    },
-    {
-      "name": "房地产",
-      "count": 3,
-      "total_amount": "24.88亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "浪潮信息",
-      "code": "000977",
-      "change": "+9.99%",
-      "amount": "96.01亿"
-    },
-    {
-      "name": "大族激光",
-      "code": "002008",
-      "change": "+10.00%",
-      "amount": "53.37亿"
-    },
-    {
-      "name": "星网锐捷",
-      "code": "002396",
-      "change": "+10.00%",
-      "amount": "52.55亿"
-    },
-    {
-      "name": "中文在线",
-      "code": "300364",
-      "change": "+20.02%",
-      "amount": "36.41亿"
-    },
-    {
-      "name": "瑞芯微",
-      "code": "603893",
-      "change": "+10.00%",
-      "amount": "34.36亿"
-    },
-    {
-      "name": "锦龙股份",
-      "code": "000712",
-      "change": "+10.00%",
-      "amount": "31.19亿"
-    },
-    {
-      "name": "金牛化工",
-      "code": "600722",
-      "change": "+10.02%",
-      "amount": "26.36亿"
-    },
-    {
-      "name": "红板科技",
-      "code": "603459",
-      "change": "+10.00%",
-      "amount": "19.72亿"
-    },
-    {
-      "name": "万通发展",
-      "code": "600246",
-      "change": "+9.98%",
-      "amount": "18.93亿"
-    },
-    {
-      "name": "沃特股份",
-      "code": "002886",
-      "change": "+10.00%",
-      "amount": "18.86亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "浪潮信息 000977",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "大族激光 002008",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "星网锐捷 002396",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
