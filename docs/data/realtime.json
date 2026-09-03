@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-03 05:55",
+  "update_time": "2026-09-03 06:20",
   "market_status": "休市",
   "sentiment": "中性",
   "limit_up_count": 0,
@@ -7,18 +7,18 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "3943.05",
-      "change": 0.04
+      "price": "3951.57",
+      "change": 0.26
     },
     {
       "name": "深证成指",
-      "price": "13621.82",
-      "change": 0.08
+      "price": "13667.17",
+      "change": 0.41
     },
     {
       "name": "创业板",
-      "price": "3311.78",
-      "change": -0.01
+      "price": "3324.46",
+      "change": 0.37
     }
   ],
   "hot_sectors": [],
