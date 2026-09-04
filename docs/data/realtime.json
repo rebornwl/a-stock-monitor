@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-09-03 11:52",
-  "market_status": "盘中",
+  "update_time": "2026-09-04 06:02",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 53,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3946.17",
+      "change": 0.1
+    },
+    {
+      "name": "深证成指",
+      "price": "13599.12",
+      "change": -0.19
+    },
+    {
+      "name": "创业板",
+      "price": "3310.47",
+      "change": -0.06
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "饲料",
+      "count": 7,
+      "total_amount": "23.74亿"
+    },
+    {
+      "name": "汽车",
+      "count": 3,
+      "total_amount": "33.36亿"
+    },
+    {
+      "name": "工程咨询服务Ⅱ",
+      "count": 3,
+      "total_amount": "15.88亿"
+    },
+    {
+      "name": "养殖业",
+      "count": 3,
+      "total_amount": "13.98亿"
+    },
+    {
+      "name": "消费",
+      "count": 3,
+      "total_amount": "13.01亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "中国船舶",
+      "code": "600150",
+      "change": "+9.88%",
+      "amount": "96.59亿"
+    },
+    {
+      "name": "景旺电子",
+      "code": "603228",
+      "change": "+9.70%",
+      "amount": "64.41亿"
+    },
+    {
+      "name": "天娱数科",
+      "code": "002354",
+      "change": "+10.04%",
+      "amount": "39.15亿"
+    },
+    {
+      "name": "双环传动",
+      "code": "002472",
+      "change": "+9.63%",
+      "amount": "28.17亿"
+    },
+    {
+      "name": "平潭发展",
+      "code": "000592",
+      "change": "+9.99%",
+      "amount": "24.04亿"
+    },
+    {
+      "name": "我爱我家",
+      "code": "000560",
+      "change": "+10.14%",
+      "amount": "22.70亿"
+    },
+    {
+      "name": "欢瑞世纪",
+      "code": "000892",
+      "change": "+9.84%",
+      "amount": "15.97亿"
+    },
+    {
+      "name": "海通发展",
+      "code": "603162",
+      "change": "+9.99%",
+      "amount": "11.81亿"
+    },
+    {
+      "name": "敦煌种业",
+      "code": "600354",
+      "change": "+10.04%",
+      "amount": "11.36亿"
+    },
+    {
+      "name": "新 希 望",
+      "code": "000876",
+      "change": "+10.00%",
+      "amount": "11.23亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "中国船舶 600150",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "景旺电子 603228",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "天娱数科 002354",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
