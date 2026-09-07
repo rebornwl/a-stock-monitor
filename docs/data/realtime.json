@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-09-07 06:12",
+  "update_time": "2026-09-07 06:33",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 61,
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "元件",
-      "count": 8,
-      "total_amount": "138.51亿"
+      "name": "上证指数",
+      "price": "3932.69",
+      "change": 0.07
     },
     {
-      "name": "汽车",
-      "count": 7,
-      "total_amount": "57.32亿"
+      "name": "深证成指",
+      "price": "13767.92",
+      "change": 1.86
     },
     {
-      "name": "消费",
-      "count": 5,
-      "total_amount": "31.73亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "63.67亿"
-    },
-    {
-      "name": "家电零部件Ⅱ",
-      "count": 3,
-      "total_amount": "18.27亿"
+      "name": "创业板",
+      "price": "3396.14",
+      "change": 3.33
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "华正新材",
-      "code": "603186",
-      "change": "+10.00%",
-      "amount": "36.77亿"
-    },
-    {
-      "name": "剑桥科技",
-      "code": "603083",
-      "change": "+10.00%",
-      "amount": "34.88亿"
-    },
-    {
-      "name": "深南电路",
-      "code": "002916",
-      "change": "+10.00%",
-      "amount": "32.76亿"
-    },
-    {
-      "name": "天通股份",
-      "code": "600330",
-      "change": "+10.02%",
-      "amount": "22.05亿"
-    },
-    {
-      "name": "顺络电子",
-      "code": "002138",
-      "change": "+10.00%",
-      "amount": "19.68亿"
-    },
-    {
-      "name": "青山纸业",
-      "code": "600103",
-      "change": "+10.14%",
-      "amount": "18.65亿"
-    },
-    {
-      "name": "金健米业",
-      "code": "600127",
-      "change": "+10.00%",
-      "amount": "18.14亿"
-    },
-    {
-      "name": "斯菱智驱",
-      "code": "301550",
-      "change": "+20.00%",
-      "amount": "15.51亿"
-    },
-    {
-      "name": "汇绿生态",
-      "code": "001267",
-      "change": "+10.00%",
-      "amount": "15.26亿"
-    },
-    {
-      "name": "中京电子",
-      "code": "002579",
-      "change": "+10.00%",
-      "amount": "14.31亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "华正新材 603186",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "剑桥科技 603083",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "深南电路 002916",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
