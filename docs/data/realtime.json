@@ -1,136 +1,27 @@
 {
-  "update_time": "2026-09-08 06:02",
+  "update_time": "2026-09-08 06:25",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 76,
+  "sentiment": "偏弱",
+  "limit_up_count": 0,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3942.48",
-      "change": 0.25
+      "price": "3931.71",
+      "change": -0.03
     },
     {
       "name": "深证成指",
-      "price": "13729.17",
-      "change": -0.33
+      "price": "13675.79",
+      "change": -0.72
     },
     {
       "name": "创业板",
-      "price": "3365.32",
-      "change": -0.98
+      "price": "3351.11",
+      "change": -1.4
     }
   ],
-  "hot_sectors": [
-    {
-      "name": "农化制品",
-      "count": 9,
-      "total_amount": "66.84亿"
-    },
-    {
-      "name": "房地产",
-      "count": 5,
-      "total_amount": "49.55亿"
-    },
-    {
-      "name": "种植业",
-      "count": 4,
-      "total_amount": "29.15亿"
-    },
-    {
-      "name": "综合Ⅱ",
-      "count": 4,
-      "total_amount": "24.03亿"
-    },
-    {
-      "name": "出版",
-      "count": 4,
-      "total_amount": "19.29亿"
-    }
-  ],
-  "dragon_stocks": [
-    {
-      "name": "北方铜业",
-      "code": "000737",
-      "change": "+9.91%",
-      "amount": "33.58亿"
-    },
-    {
-      "name": "我爱我家",
-      "code": "000560",
-      "change": "+9.90%",
-      "amount": "21.64亿"
-    },
-    {
-      "name": "华盛昌",
-      "code": "002980",
-      "change": "+10.00%",
-      "amount": "20.43亿"
-    },
-    {
-      "name": "海南橡胶",
-      "code": "601118",
-      "change": "+10.00%",
-      "amount": "17.82亿"
-    },
-    {
-      "name": "中粮糖业",
-      "code": "600737",
-      "change": "+9.99%",
-      "amount": "17.03亿"
-    },
-    {
-      "name": "赤天化",
-      "code": "600227",
-      "change": "+9.98%",
-      "amount": "13.48亿"
-    },
-    {
-      "name": "和邦生物",
-      "code": "603077",
-      "change": "+10.00%",
-      "amount": "13.37亿"
-    },
-    {
-      "name": "新安股份",
-      "code": "600596",
-      "change": "+10.02%",
-      "amount": "12.43亿"
-    },
-    {
-      "name": "盈新发展",
-      "code": "000620",
-      "change": "+9.93%",
-      "amount": "11.94亿"
-    },
-    {
-      "name": "龙版传媒",
-      "code": "605577",
-      "change": "+9.94%",
-      "amount": "10.48亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "北方铜业 000737",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "我爱我家 000560",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "华盛昌 002980",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
