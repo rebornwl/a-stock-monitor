@@ -1,27 +1,136 @@
 {
-  "update_time": "2026-09-09 06:06",
+  "update_time": "2026-09-09 06:31",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 52,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3949.01",
-      "change": 0.21
+      "price": "3953.26",
+      "change": 0.32
     },
     {
       "name": "深证成指",
-      "price": "13710.32",
-      "change": 0.05
+      "price": "13733.42",
+      "change": 0.22
     },
     {
       "name": "创业板",
-      "price": "3354.55",
-      "change": -0.15
+      "price": "3361.54",
+      "change": 0.05
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "46.45亿"
+    },
+    {
+      "name": "农产品加工",
+      "count": 4,
+      "total_amount": "15.87亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 3,
+      "total_amount": "81.33亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "63.56亿"
+    },
+    {
+      "name": "种植业",
+      "count": 3,
+      "total_amount": "58.86亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "远东股份",
+      "code": "600869",
+      "change": "+10.02%",
+      "amount": "68.94亿"
+    },
+    {
+      "name": "华正新材",
+      "code": "603186",
+      "change": "+10.00%",
+      "amount": "45.22亿"
+    },
+    {
+      "name": "亚盛集团",
+      "code": "600108",
+      "change": "+9.66%",
+      "amount": "42.85亿"
+    },
+    {
+      "name": "湖南黄金",
+      "code": "002155",
+      "change": "+10.02%",
+      "amount": "37.72亿"
+    },
+    {
+      "name": "招商轮船",
+      "code": "601872",
+      "change": "+10.01%",
+      "amount": "36.75亿"
+    },
+    {
+      "name": "彤程新材",
+      "code": "603650",
+      "change": "+10.00%",
+      "amount": "21.35亿"
+    },
+    {
+      "name": "N洛轴",
+      "code": "301699",
+      "change": "+106.61%",
+      "amount": "17.11亿"
+    },
+    {
+      "name": "中百集团",
+      "code": "000759",
+      "change": "+10.00%",
+      "amount": "15.37亿"
+    },
+    {
+      "name": "应流股份",
+      "code": "603308",
+      "change": "+10.00%",
+      "amount": "14.19亿"
+    },
+    {
+      "name": "奥士康",
+      "code": "002913",
+      "change": "+10.00%",
+      "amount": "13.40亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "远东股份 600869",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "华正新材 603186",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "亚盛集团 600108",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
