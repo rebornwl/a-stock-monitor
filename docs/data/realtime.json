@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-09-11 07:45",
+  "update_time": "2026-09-11 09:12",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 42,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "元件",
+      "count": 9,
+      "total_amount": "210.18亿"
+    },
+    {
+      "name": "电力",
+      "count": 4,
+      "total_amount": "20.31亿"
+    },
+    {
+      "name": "地面兵装Ⅱ",
+      "count": 3,
+      "total_amount": "44.08亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "24.82亿"
+    },
+    {
+      "name": "汽车",
+      "count": 2,
+      "total_amount": "15.66亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "风华高科",
+      "code": "000636",
+      "change": "+10.00%",
+      "amount": "99.85亿"
+    },
+    {
+      "name": "N燧原-U",
+      "code": "688801",
+      "change": "+179.22%",
+      "amount": "56.48亿"
+    },
+    {
+      "name": "超声电子",
+      "code": "000823",
+      "change": "+10.00%",
+      "amount": "35.25亿"
+    },
+    {
+      "name": "内蒙一机",
+      "code": "600967",
+      "change": "+9.99%",
+      "amount": "25.64亿"
+    },
+    {
+      "name": "博敏电子",
+      "code": "603936",
+      "change": "+10.01%",
+      "amount": "23.03亿"
+    },
+    {
+      "name": "华胜天成",
+      "code": "600410",
+      "change": "+9.99%",
+      "amount": "21.41亿"
+    },
+    {
+      "name": "崇达技术",
+      "code": "002815",
+      "change": "+10.03%",
+      "amount": "20.14亿"
+    },
+    {
+      "name": "三孚股份",
+      "code": "603938",
+      "change": "+10.01%",
+      "amount": "13.18亿"
+    },
+    {
+      "name": "嘉立创",
+      "code": "001232",
+      "change": "+10.00%",
+      "amount": "12.49亿"
+    },
+    {
+      "name": "众泰汽车",
+      "code": "000980",
+      "change": "+9.84%",
+      "amount": "12.29亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "风华高科 000636",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "N燧原-U 688801",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "超声电子 000823",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
