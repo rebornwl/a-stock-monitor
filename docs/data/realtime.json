@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-09-15 06:34",
+  "update_time": "2026-09-15 07:35",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 32,
+  "sentiment": "偏弱",
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "新能源",
-      "count": 4,
-      "total_amount": "47.50亿"
+      "name": "上证指数",
+      "price": "3864.28",
+      "change": -0.54
     },
     {
-      "name": "电力",
-      "count": 3,
-      "total_amount": "39.34亿"
+      "name": "深证成指",
+      "price": "13287.97",
+      "change": -0.72
     },
     {
-      "name": "塑料",
-      "count": 2,
-      "total_amount": "33.07亿"
-    },
-    {
-      "name": "元件",
-      "count": 2,
-      "total_amount": "31.45亿"
-    },
-    {
-      "name": "半导体",
-      "count": 2,
-      "total_amount": "10.87亿"
+      "name": "创业板",
+      "price": "3247.92",
+      "change": -1.15
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "通鼎互联",
-      "code": "002491",
-      "change": "+10.00%",
-      "amount": "54.78亿"
-    },
-    {
-      "name": "大金重工",
-      "code": "002487",
-      "change": "+10.01%",
-      "amount": "29.85亿"
-    },
-    {
-      "name": "华正新材",
-      "code": "603186",
-      "change": "+10.00%",
-      "amount": "24.32亿"
-    },
-    {
-      "name": "双星新材",
-      "code": "002585",
-      "change": "+10.04%",
-      "amount": "23.13亿"
-    },
-    {
-      "name": "诺德股份",
-      "code": "600110",
-      "change": "+9.97%",
-      "amount": "22.28亿"
-    },
-    {
-      "name": "闽东电力",
-      "code": "000993",
-      "change": "+9.95%",
-      "amount": "21.22亿"
-    },
-    {
-      "name": "天顺风能",
-      "code": "002531",
-      "change": "+10.00%",
-      "amount": "12.65亿"
-    },
-    {
-      "name": "中闽能源",
-      "code": "600163",
-      "change": "+9.97%",
-      "amount": "11.45亿"
-    },
-    {
-      "name": "中新赛克",
-      "code": "002912",
-      "change": "+10.02%",
-      "amount": "10.53亿"
-    },
-    {
-      "name": "国风新材",
-      "code": "000859",
-      "change": "+9.70%",
-      "amount": "9.94亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "通鼎互联 002491",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "大金重工 002487",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "华正新材 603186",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
