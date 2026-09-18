@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-09-18 06:27",
+  "update_time": "2026-09-18 07:19",
   "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 77,
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "消费",
-      "count": 6,
-      "total_amount": "46.49亿"
+      "name": "上证指数",
+      "price": "3911.87",
+      "change": 0.94
     },
     {
-      "name": "半导体",
-      "count": 5,
-      "total_amount": "96.31亿"
+      "name": "深证成指",
+      "price": "13640.87",
+      "change": 1.72
     },
     {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "74.08亿"
-    },
-    {
-      "name": "电网设备",
-      "count": 5,
-      "total_amount": "28.09亿"
-    },
-    {
-      "name": "家居用品",
-      "count": 5,
-      "total_amount": "10.25亿"
+      "name": "创业板",
+      "price": "3372.68",
+      "change": 2.25
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "华天科技",
-      "code": "002185",
-      "change": "+10.01%",
-      "amount": "62.67亿"
-    },
-    {
-      "name": "C沈鼓",
-      "code": "601091",
-      "change": "+232.64%",
-      "amount": "42.46亿"
-    },
-    {
-      "name": "金健米业",
-      "code": "600127",
-      "change": "+9.98%",
-      "amount": "41.19亿"
-    },
-    {
-      "name": "国芳集团",
-      "code": "601086",
-      "change": "+10.00%",
-      "amount": "17.29亿"
-    },
-    {
-      "name": "C信诺维",
-      "code": "688837",
-      "change": "+44.96%",
-      "amount": "17.19亿"
-    },
-    {
-      "name": "托伦斯",
-      "code": "301583",
-      "change": "+20.00%",
-      "amount": "16.51亿"
-    },
-    {
-      "name": "共进股份",
-      "code": "603118",
-      "change": "+10.03%",
-      "amount": "15.94亿"
-    },
-    {
-      "name": "电科思仪",
-      "code": "301689",
-      "change": "+20.00%",
-      "amount": "15.71亿"
-    },
-    {
-      "name": "科森科技",
-      "code": "603626",
-      "change": "+10.00%",
-      "amount": "15.43亿"
-    },
-    {
-      "name": "惠科股份",
-      "code": "001399",
-      "change": "+10.02%",
-      "amount": "14.24亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "华天科技 002185",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "C沈鼓 601091",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "金健米业 600127",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
