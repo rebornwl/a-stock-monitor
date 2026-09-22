@@ -1,11 +1,120 @@
 {
-  "update_time": "2026-09-22 10:49",
+  "update_time": "2026-09-22 12:16",
   "market_status": "盘中",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 66,
   "limit_down_count": 0,
   "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "医药",
+      "count": 6,
+      "total_amount": "77.72亿"
+    },
+    {
+      "name": "家居用品",
+      "count": 5,
+      "total_amount": "12.40亿"
+    },
+    {
+      "name": "出版",
+      "count": 4,
+      "total_amount": "12.81亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "93.89亿"
+    },
+    {
+      "name": "塑料",
+      "count": 3,
+      "total_amount": "39.72亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "瑞芯微",
+      "code": "603893",
+      "change": "+10.00%",
+      "amount": "54.63亿"
+    },
+    {
+      "name": "江淮汽车",
+      "code": "600418",
+      "change": "+10.01%",
+      "amount": "29.14亿"
+    },
+    {
+      "name": "哈药股份",
+      "code": "600664",
+      "change": "+10.06%",
+      "amount": "27.79亿"
+    },
+    {
+      "name": "百花医药",
+      "code": "600721",
+      "change": "+10.04%",
+      "amount": "27.39亿"
+    },
+    {
+      "name": "先导基电",
+      "code": "600641",
+      "change": "+10.01%",
+      "amount": "25.52亿"
+    },
+    {
+      "name": "N中塑",
+      "code": "301686",
+      "change": "+683.29%",
+      "amount": "23.39亿"
+    },
+    {
+      "name": "贤丰控股",
+      "code": "002141",
+      "change": "+10.07%",
+      "amount": "20.52亿"
+    },
+    {
+      "name": "新华制药",
+      "code": "000756",
+      "change": "+10.02%",
+      "amount": "15.63亿"
+    },
+    {
+      "name": "泛微网络",
+      "code": "603039",
+      "change": "+10.00%",
+      "amount": "14.40亿"
+    },
+    {
+      "name": "我爱我家",
+      "code": "000560",
+      "change": "+10.03%",
+      "amount": "14.13亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "瑞芯微 603893",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "江淮汽车 600418",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "哈药股份 600664",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
