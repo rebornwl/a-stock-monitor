@@ -1,10 +1,26 @@
 {
-  "update_time": "2026-09-30 11:47",
+  "update_time": "2026-09-30 13:14",
   "market_status": "盘中",
   "sentiment": "中性",
   "limit_up_count": 59,
   "limit_down_count": 0,
-  "indices": [],
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3842.19",
+      "change": 0.31
+    },
+    {
+      "name": "深证成指",
+      "price": "12887.62",
+      "change": -0.11
+    },
+    {
+      "name": "创业板",
+      "price": "3135.28",
+      "change": -0.23
+    }
+  ],
   "hot_sectors": [
     {
       "name": "房地产",
