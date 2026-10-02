@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-10-02 08:19",
-  "market_status": "休市",
+  "update_time": "2026-10-02 09:18",
+  "market_status": "盘中",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 59,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3842.19",
+      "change": 0.31
+    },
+    {
+      "name": "深证成指",
+      "price": "12887.62",
+      "change": -0.11
+    },
+    {
+      "name": "创业板",
+      "price": "3135.28",
+      "change": -0.23
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "房地产",
+      "count": 5,
+      "total_amount": "17.33亿"
+    },
+    {
+      "name": "医疗服务",
+      "count": 4,
+      "total_amount": "41.89亿"
+    },
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "21.42亿"
+    },
+    {
+      "name": "汽车",
+      "count": 4,
+      "total_amount": "17.15亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "7.53亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "N力勤",
+      "code": "001246",
+      "change": "+206.59%",
+      "amount": "83.45亿"
+    },
+    {
+      "name": "昭衍新药",
+      "code": "603127",
+      "change": "+10.00%",
+      "amount": "26.47亿"
+    },
+    {
+      "name": "美诺华",
+      "code": "603538",
+      "change": "+10.00%",
+      "amount": "13.24亿"
+    },
+    {
+      "name": "古越龙山",
+      "code": "600059",
+      "change": "+10.04%",
+      "amount": "10.93亿"
+    },
+    {
+      "name": "襄阳轴承",
+      "code": "000678",
+      "change": "+9.98%",
+      "amount": "10.75亿"
+    },
+    {
+      "name": "康希诺",
+      "code": "688185",
+      "change": "+20.00%",
+      "amount": "10.65亿"
+    },
+    {
+      "name": "上海洗霸",
+      "code": "603200",
+      "change": "+10.01%",
+      "amount": "10.64亿"
+    },
+    {
+      "name": "深物业A",
+      "code": "000011",
+      "change": "+9.97%",
+      "amount": "9.71亿"
+    },
+    {
+      "name": "南华生物",
+      "code": "000504",
+      "change": "+10.01%",
+      "amount": "8.60亿"
+    },
+    {
+      "name": "龙蟠科技",
+      "code": "603906",
+      "change": "+9.99%",
+      "amount": "6.88亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "N力勤 001246",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "昭衍新药 603127",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "美诺华 603538",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
