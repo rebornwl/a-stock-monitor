@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-10-14 06:15",
+  "update_time": "2026-10-14 06:35",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 37,
+  "limit_up_count": 36,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3775.64",
-      "change": -0.66
+      "price": "3763.06",
+      "change": -0.99
     },
     {
       "name": "深证成指",
-      "price": "12150.81",
-      "change": -1.64
+      "price": "12103.64",
+      "change": -2.02
     },
     {
       "name": "创业板",
-      "price": "2879.52",
-      "change": -2.66
+      "price": "2867.92",
+      "change": -3.06
     }
   ],
   "hot_sectors": [
     {
       "name": "出版",
       "count": 3,
-      "total_amount": "29.53亿"
+      "total_amount": "30.28亿"
     },
     {
       "name": "房地产",
       "count": 3,
-      "total_amount": "3.42亿"
+      "total_amount": "3.50亿"
     },
     {
       "name": "医药",
       "count": 2,
-      "total_amount": "17.28亿"
-    },
-    {
-      "name": "游戏Ⅱ",
-      "count": 2,
-      "total_amount": "12.28亿"
+      "total_amount": "17.40亿"
     },
     {
       "name": "元件",
       "count": 2,
-      "total_amount": "9.29亿"
+      "total_amount": "9.40亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 2,
+      "total_amount": "8.69亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "掌阅科技",
       "code": "603533",
       "change": "+10.00%",
-      "amount": "18.86亿"
+      "amount": "18.96亿"
     },
     {
       "name": "新华文轩",
       "code": "601811",
       "change": "+9.98%",
-      "amount": "13.40亿"
+      "amount": "13.93亿"
     },
     {
       "name": "郑州煤电",
       "code": "600121",
       "change": "+9.94%",
-      "amount": "13.32亿"
+      "amount": "13.49亿"
     },
     {
       "name": "莱美药业",
       "code": "300006",
       "change": "+20.06%",
-      "amount": "12.63亿"
+      "amount": "12.71亿"
     },
     {
       "name": "安泰集团",
       "code": "600408",
       "change": "+10.03%",
-      "amount": "10.85亿"
-    },
-    {
-      "name": "富春股份",
-      "code": "300299",
-      "change": "+20.07%",
-      "amount": "10.58亿"
-    },
-    {
-      "name": "韶能股份",
-      "code": "000601",
-      "change": "+10.00%",
-      "amount": "10.40亿"
+      "amount": "11.14亿"
     },
     {
       "name": "引力传媒",
       "code": "603598",
       "change": "+9.99%",
-      "amount": "8.78亿"
+      "amount": "10.98亿"
+    },
+    {
+      "name": "韶能股份",
+      "code": "000601",
+      "change": "+10.00%",
+      "amount": "10.48亿"
     },
     {
       "name": "中国科传",
       "code": "601858",
       "change": "+9.98%",
-      "amount": "8.60亿"
+      "amount": "8.71亿"
+    },
+    {
+      "name": "新经典",
+      "code": "603096",
+      "change": "+10.01%",
+      "amount": "7.64亿"
     },
     {
       "name": "航发科技",
       "code": "600391",
       "change": "+10.01%",
-      "amount": "7.52亿"
+      "amount": "7.57亿"
     }
   ],
   "opportunities": [
