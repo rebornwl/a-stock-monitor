@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-10-15 12:22",
-  "market_status": "盘中",
+  "update_time": "2026-10-16 05:57",
+  "market_status": "休市",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 76,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3715.44",
+      "change": 0.21
+    },
+    {
+      "name": "深证成指",
+      "price": "11851.52",
+      "change": 0.29
+    },
+    {
+      "name": "创业板",
+      "price": "2785.28",
+      "change": 0.08
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 16,
+      "total_amount": "48.74亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 6,
+      "total_amount": "29.03亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 6,
+      "total_amount": "13.31亿"
+    },
+    {
+      "name": "出版",
+      "count": 4,
+      "total_amount": "20.14亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 4,
+      "total_amount": "7.36亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "新华文轩",
+      "code": "601811",
+      "change": "+9.81%",
+      "amount": "15.54亿"
+    },
+    {
+      "name": "海南橡胶",
+      "code": "601118",
+      "change": "+10.00%",
+      "amount": "13.88亿"
+    },
+    {
+      "name": "冰山冷热",
+      "code": "000530",
+      "change": "+9.96%",
+      "amount": "13.73亿"
+    },
+    {
+      "name": "江淮汽车",
+      "code": "600418",
+      "change": "+9.98%",
+      "amount": "13.09亿"
+    },
+    {
+      "name": "天顺风能",
+      "code": "002531",
+      "change": "+9.94%",
+      "amount": "10.99亿"
+    },
+    {
+      "name": "均胜电子",
+      "code": "600699",
+      "change": "+10.03%",
+      "amount": "9.52亿"
+    },
+    {
+      "name": "宗申动力",
+      "code": "001696",
+      "change": "+9.98%",
+      "amount": "8.81亿"
+    },
+    {
+      "name": "吉大正元",
+      "code": "003029",
+      "change": "+10.01%",
+      "amount": "7.67亿"
+    },
+    {
+      "name": "华力创通",
+      "code": "300045",
+      "change": "+20.04%",
+      "amount": "7.19亿"
+    },
+    {
+      "name": "华建集团",
+      "code": "600629",
+      "change": "+10.03%",
+      "amount": "6.99亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "新华文轩 601811",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "海南橡胶 601118",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "冰山冷热 000530",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
