@@ -1,51 +1,51 @@
 {
-  "update_time": "2026-10-20 06:08",
+  "update_time": "2026-10-20 06:26",
   "market_status": "休市",
   "sentiment": "偏弱",
-  "limit_up_count": 49,
+  "limit_up_count": 50,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3707.76",
-      "change": -0.62
+      "price": "3712.72",
+      "change": -0.49
     },
     {
       "name": "深证成指",
-      "price": "11712.9",
-      "change": -0.88
+      "price": "11746.01",
+      "change": -0.6
     },
     {
       "name": "创业板",
-      "price": "2713.22",
-      "change": -1.2
+      "price": "2724.46",
+      "change": -0.79
     }
   ],
   "hot_sectors": [
     {
       "name": "通用设备",
       "count": 6,
-      "total_amount": "22.35亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "36.98亿"
+      "total_amount": "22.54亿"
     },
     {
       "name": "消费",
       "count": 3,
-      "total_amount": "39.27亿"
+      "total_amount": "39.62亿"
+    },
+    {
+      "name": "通信",
+      "count": 3,
+      "total_amount": "28.90亿"
     },
     {
       "name": "医药",
       "count": 3,
-      "total_amount": "12.10亿"
+      "total_amount": "12.37亿"
     },
     {
       "name": "小家电",
       "count": 2,
-      "total_amount": "26.86亿"
+      "total_amount": "26.89亿"
     }
   ],
   "dragon_stocks": [
@@ -53,61 +53,61 @@
       "name": "九阳股份",
       "code": "002242",
       "change": "+10.01%",
-      "amount": "23.79亿"
-    },
-    {
-      "name": "长盈精密",
-      "code": "300115",
-      "change": "+19.99%",
-      "amount": "20.94亿"
+      "amount": "23.81亿"
     },
     {
       "name": "移远通信",
       "code": "603236",
       "change": "+10.00%",
-      "amount": "20.32亿"
+      "amount": "21.43亿"
+    },
+    {
+      "name": "长盈精密",
+      "code": "300115",
+      "change": "+19.99%",
+      "amount": "21.19亿"
     },
     {
       "name": "迪安诊断",
       "code": "300244",
       "change": "+19.99%",
-      "amount": "17.56亿"
+      "amount": "18.18亿"
     },
     {
       "name": "恒玄科技",
       "code": "688608",
-      "change": "+19.76%",
-      "amount": "12.16亿"
+      "change": "+20.00%",
+      "amount": "12.95亿"
     },
     {
       "name": "吉大正元",
       "code": "003029",
       "change": "+10.00%",
-      "amount": "11.19亿"
+      "amount": "11.20亿"
     },
     {
       "name": "凡拓数创",
       "code": "301313",
       "change": "+20.00%",
-      "amount": "10.95亿"
+      "amount": "10.96亿"
     },
     {
       "name": "龙旗科技",
       "code": "603341",
       "change": "+10.01%",
-      "amount": "9.68亿"
+      "amount": "9.73亿"
     },
     {
       "name": "宁波东力",
       "code": "002164",
       "change": "+10.01%",
-      "amount": "9.59亿"
+      "amount": "9.71亿"
     },
     {
-      "name": "通宇通讯",
-      "code": "002792",
+      "name": "科森科技",
+      "code": "603626",
       "change": "+10.00%",
-      "amount": "9.21亿"
+      "amount": "8.70亿"
     }
   ],
   "opportunities": [
@@ -120,14 +120,14 @@
     },
     {
       "name": "打板机会",
-      "stock": "长盈精密 300115",
+      "stock": "移远通信 603236",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "移远通信 603236",
+      "stock": "长盈精密 300115",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
