@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-10-20 12:28",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-10-21 06:07",
+  "market_status": "休市",
+  "sentiment": "偏弱",
+  "limit_up_count": 49,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3715.93",
+      "change": -0.52
+    },
+    {
+      "name": "深证成指",
+      "price": "11734.17",
+      "change": -0.57
+    },
+    {
+      "name": "创业板",
+      "price": "2702.46",
+      "change": -1.34
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "通信",
+      "count": 5,
+      "total_amount": "74.95亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 5,
+      "total_amount": "22.66亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "16.12亿"
+    },
+    {
+      "name": "医药",
+      "count": 3,
+      "total_amount": "28.12亿"
+    },
+    {
+      "name": "出版",
+      "count": 3,
+      "total_amount": "11.96亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "移远通信",
+      "code": "603236",
+      "change": "+10.00%",
+      "amount": "39.64亿"
+    },
+    {
+      "name": "利通电子",
+      "code": "603629",
+      "change": "+10.00%",
+      "amount": "36.17亿"
+    },
+    {
+      "name": "平潭发展",
+      "code": "000592",
+      "change": "+9.87%",
+      "amount": "22.55亿"
+    },
+    {
+      "name": "莱美药业",
+      "code": "300006",
+      "change": "+20.00%",
+      "amount": "19.32亿"
+    },
+    {
+      "name": "利亚德",
+      "code": "300296",
+      "change": "+20.04%",
+      "amount": "15.61亿"
+    },
+    {
+      "name": "通宇通讯",
+      "code": "002792",
+      "change": "+10.01%",
+      "amount": "14.82亿"
+    },
+    {
+      "name": "雪人集团",
+      "code": "002639",
+      "change": "+10.00%",
+      "amount": "11.71亿"
+    },
+    {
+      "name": "润建股份",
+      "code": "002929",
+      "change": "+9.99%",
+      "amount": "10.34亿"
+    },
+    {
+      "name": "美格智能",
+      "code": "002881",
+      "change": "+9.97%",
+      "amount": "9.56亿"
+    },
+    {
+      "name": "南威软件",
+      "code": "603636",
+      "change": "+10.01%",
+      "amount": "8.15亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "移远通信 603236",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "利通电子 603629",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "平潭发展 000592",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
