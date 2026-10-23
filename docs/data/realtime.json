@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-10-22 12:42",
-  "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-10-23 06:06",
+  "market_status": "休市",
+  "sentiment": "偏强",
+  "limit_up_count": 56,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3653.37",
+      "change": -0.13
+    },
+    {
+      "name": "深证成指",
+      "price": "11507.67",
+      "change": 1.32
+    },
+    {
+      "name": "创业板",
+      "price": "2636.17",
+      "change": 2.3
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "专用设备",
+      "count": 6,
+      "total_amount": "28.17亿"
+    },
+    {
+      "name": "IT服务Ⅱ",
+      "count": 5,
+      "total_amount": "53.64亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 4,
+      "total_amount": "26.82亿"
+    },
+    {
+      "name": "半导体",
+      "count": 3,
+      "total_amount": "50.76亿"
+    },
+    {
+      "name": "汽车",
+      "count": 3,
+      "total_amount": "30.00亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "利亚德",
+      "code": "300296",
+      "change": "+20.00%",
+      "amount": "40.87亿"
+    },
+    {
+      "name": "粤芯半导-U",
+      "code": "301660",
+      "change": "+20.01%",
+      "amount": "35.85亿"
+    },
+    {
+      "name": "兆威机电",
+      "code": "003021",
+      "change": "+10.00%",
+      "amount": "23.32亿"
+    },
+    {
+      "name": "天娱数科",
+      "code": "002354",
+      "change": "+10.00%",
+      "amount": "22.87亿"
+    },
+    {
+      "name": "达实智能",
+      "code": "002421",
+      "change": "+9.94%",
+      "amount": "17.90亿"
+    },
+    {
+      "name": "凡拓数创",
+      "code": "301313",
+      "change": "+20.00%",
+      "amount": "16.57亿"
+    },
+    {
+      "name": "大业股份",
+      "code": "603278",
+      "change": "+9.99%",
+      "amount": "16.51亿"
+    },
+    {
+      "name": "襄阳轴承",
+      "code": "000678",
+      "change": "+9.98%",
+      "amount": "15.82亿"
+    },
+    {
+      "name": "风语筑",
+      "code": "603466",
+      "change": "+10.04%",
+      "amount": "13.09亿"
+    },
+    {
+      "name": "海天瑞声",
+      "code": "688787",
+      "change": "+20.00%",
+      "amount": "12.66亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "利亚德 300296",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "粤芯半导-U 301660",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "兆威机电 003021",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
