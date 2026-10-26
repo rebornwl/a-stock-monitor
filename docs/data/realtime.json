@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-10-26 12:06",
+  "update_time": "2026-10-26 13:47",
   "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 59,
+  "sentiment": "偏弱",
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "汽车",
-      "count": 7,
-      "total_amount": "66.65亿"
+      "name": "上证指数",
+      "price": "3697.52",
+      "change": 0.19
     },
     {
-      "name": "专用设备",
-      "count": 6,
-      "total_amount": "19.63亿"
+      "name": "深证成指",
+      "price": "11534.38",
+      "change": -1.19
     },
     {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "16.62亿"
-    },
-    {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "18.48亿"
-    },
-    {
-      "name": "塑料",
-      "count": 3,
-      "total_amount": "31.04亿"
+      "name": "创业板",
+      "price": "2638.23",
+      "change": -1.71
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "万向钱潮",
-      "code": "000559",
-      "change": "+10.04%",
-      "amount": "25.08亿"
-    },
-    {
-      "name": "上纬新材",
-      "code": "688585",
-      "change": "+20.00%",
-      "amount": "19.52亿"
-    },
-    {
-      "name": "模塑科技",
-      "code": "000700",
-      "change": "+10.02%",
-      "amount": "15.31亿"
-    },
-    {
-      "name": "襄阳轴承",
-      "code": "000678",
-      "change": "+9.98%",
-      "amount": "12.75亿"
-    },
-    {
-      "name": "百洋股份",
-      "code": "002696",
-      "change": "+10.05%",
-      "amount": "9.43亿"
-    },
-    {
-      "name": "上海洗霸",
-      "code": "603200",
-      "change": "+9.99%",
-      "amount": "8.85亿"
-    },
-    {
-      "name": "锋龙股份",
-      "code": "002931",
-      "change": "+9.99%",
-      "amount": "8.83亿"
-    },
-    {
-      "name": "创维数字",
-      "code": "000810",
-      "change": "+9.98%",
-      "amount": "8.08亿"
-    },
-    {
-      "name": "晶华新材",
-      "code": "603683",
-      "change": "+10.00%",
-      "amount": "7.74亿"
-    },
-    {
-      "name": "福莱新材",
-      "code": "605488",
-      "change": "+10.01%",
-      "amount": "7.48亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "万向钱潮 000559",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "上纬新材 688585",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "模塑科技 000700",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
