@@ -1,26 +1,10 @@
 {
-  "update_time": "2026-11-02 10:29",
+  "update_time": "2026-11-02 12:55",
   "market_status": "盘中",
-  "sentiment": "极度亢奋",
+  "sentiment": "中性",
   "limit_up_count": 24,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "3638.03",
-      "change": 1.08
-    },
-    {
-      "name": "深证成指",
-      "price": "11010.68",
-      "change": 1.63
-    },
-    {
-      "name": "创业板",
-      "price": "2458.7",
-      "change": 1.87
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
       "name": "数字经济",
