@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-11-06 12:32",
+  "update_time": "2026-11-06 13:37",
   "market_status": "盘中",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "极度低迷",
+  "limit_up_count": 33,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3649.18",
+      "change": -1.1
+    },
+    {
+      "name": "深证成指",
+      "price": "11175.78",
+      "change": -2.57
+    },
+    {
+      "name": "创业板",
+      "price": "2465.23",
+      "change": -3.96
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "新能源",
+      "count": 4,
+      "total_amount": "11.49亿"
+    },
+    {
+      "name": "电力",
+      "count": 3,
+      "total_amount": "7.03亿"
+    },
+    {
+      "name": "纺织制造",
+      "count": 2,
+      "total_amount": "15.72亿"
+    },
+    {
+      "name": "种植业",
+      "count": 2,
+      "total_amount": "12.68亿"
+    },
+    {
+      "name": "消费",
+      "count": 2,
+      "total_amount": "11.60亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "润建股份",
+      "code": "002929",
+      "change": "+10.01%",
+      "amount": "25.95亿"
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "change": "+9.97%",
+      "amount": "25.76亿"
+    },
+    {
+      "name": "浙文影业",
+      "code": "601599",
+      "change": "+9.96%",
+      "amount": "12.95亿"
+    },
+    {
+      "name": "阳光照明",
+      "code": "600261",
+      "change": "+9.98%",
+      "amount": "12.75亿"
+    },
+    {
+      "name": "龙江交通",
+      "code": "601188",
+      "change": "+10.12%",
+      "amount": "10.53亿"
+    },
+    {
+      "name": "大东方",
+      "code": "600327",
+      "change": "+10.09%",
+      "amount": "8.65亿"
+    },
+    {
+      "name": "万向德农",
+      "code": "600371",
+      "change": "+10.04%",
+      "amount": "8.05亿"
+    },
+    {
+      "name": "上海电影",
+      "code": "601595",
+      "change": "+10.00%",
+      "amount": "7.57亿"
+    },
+    {
+      "name": "贝特利",
+      "code": "301697",
+      "change": "+20.00%",
+      "amount": "6.31亿"
+    },
+    {
+      "name": "新亚制程",
+      "code": "002388",
+      "change": "+10.07%",
+      "amount": "6.25亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "润建股份 002929",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "东方海洋 002086",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "浙文影业 601599",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
