@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-11-09 09:35",
+  "update_time": "2026-11-09 10:51",
   "market_status": "盘中",
   "sentiment": "中性",
-  "limit_up_count": 0,
+  "limit_up_count": 58,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3660.79",
+      "change": 0.32
+    },
+    {
+      "name": "深证成指",
+      "price": "11145.49",
+      "change": -0.27
+    },
+    {
+      "name": "创业板",
+      "price": "2458.56",
+      "change": -0.27
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "通用设备",
+      "count": 5,
+      "total_amount": "47.62亿"
+    },
+    {
+      "name": "汽车",
+      "count": 5,
+      "total_amount": "25.91亿"
+    },
+    {
+      "name": "元件",
+      "count": 3,
+      "total_amount": "26.35亿"
+    },
+    {
+      "name": "燃气Ⅱ",
+      "count": 3,
+      "total_amount": "4.41亿"
+    },
+    {
+      "name": "游戏Ⅱ",
+      "count": 2,
+      "total_amount": "20.56亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "上纬新材",
+      "code": "688585",
+      "change": "+20.00%",
+      "amount": "33.25亿"
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "change": "+10.08%",
+      "amount": "31.80亿"
+    },
+    {
+      "name": "雪人集团",
+      "code": "002639",
+      "change": "+10.00%",
+      "amount": "27.45亿"
+    },
+    {
+      "name": "光洋股份",
+      "code": "002708",
+      "change": "+10.02%",
+      "amount": "16.30亿"
+    },
+    {
+      "name": "超声电子",
+      "code": "000823",
+      "change": "+9.98%",
+      "amount": "15.27亿"
+    },
+    {
+      "name": "红太阳",
+      "code": "000525",
+      "change": "+9.96%",
+      "amount": "11.90亿"
+    },
+    {
+      "name": "澳洋健康",
+      "code": "002172",
+      "change": "+9.96%",
+      "amount": "11.14亿"
+    },
+    {
+      "name": "文投控股",
+      "code": "600715",
+      "change": "+10.21%",
+      "amount": "10.87亿"
+    },
+    {
+      "name": "上海九百",
+      "code": "600838",
+      "change": "+10.05%",
+      "amount": "10.81亿"
+    },
+    {
+      "name": "大晟文化",
+      "code": "600892",
+      "change": "+9.94%",
+      "amount": "9.69亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "上纬新材 688585",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "东方海洋 002086",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "雪人集团 002639",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
