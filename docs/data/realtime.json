@@ -1,11 +1,136 @@
 {
-  "update_time": "2026-11-09 17:03",
+  "update_time": "2026-11-10 08:29",
   "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "sentiment": "偏强",
+  "limit_up_count": 68,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "indices": [
+    {
+      "name": "上证指数",
+      "price": "3663.72",
+      "change": 0.08
+    },
+    {
+      "name": "深证成指",
+      "price": "11241.54",
+      "change": 0.86
+    },
+    {
+      "name": "创业板",
+      "price": "2494.4",
+      "change": 1.46
+    }
+  ],
+  "hot_sectors": [
+    {
+      "name": "汽车",
+      "count": 8,
+      "total_amount": "39.80亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 6,
+      "total_amount": "42.62亿"
+    },
+    {
+      "name": "消费",
+      "count": 5,
+      "total_amount": "21.56亿"
+    },
+    {
+      "name": "影视院线",
+      "count": 4,
+      "total_amount": "33.43亿"
+    },
+    {
+      "name": "光学光电子",
+      "count": 4,
+      "total_amount": "27.27亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "瑞芯微",
+      "code": "603893",
+      "change": "+10.00%",
+      "amount": "41.45亿"
+    },
+    {
+      "name": "钧达股份",
+      "code": "002865",
+      "change": "+10.01%",
+      "amount": "24.98亿"
+    },
+    {
+      "name": "富瀚微",
+      "code": "300613",
+      "change": "+20.01%",
+      "amount": "22.17亿"
+    },
+    {
+      "name": "龙江交通",
+      "code": "601188",
+      "change": "+10.02%",
+      "amount": "19.26亿"
+    },
+    {
+      "name": "九安医疗",
+      "code": "002432",
+      "change": "+10.00%",
+      "amount": "16.91亿"
+    },
+    {
+      "name": "N钶锐",
+      "code": "688827",
+      "change": "+184.77%",
+      "amount": "16.10亿"
+    },
+    {
+      "name": "冰山冷热",
+      "code": "000530",
+      "change": "+10.03%",
+      "amount": "15.33亿"
+    },
+    {
+      "name": "盛洋科技",
+      "code": "603703",
+      "change": "+10.00%",
+      "amount": "14.36亿"
+    },
+    {
+      "name": "宁波华翔",
+      "code": "002048",
+      "change": "+10.02%",
+      "amount": "13.63亿"
+    },
+    {
+      "name": "福莱新材",
+      "code": "605488",
+      "change": "+10.00%",
+      "amount": "12.82亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "瑞芯微 603893",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "钧达股份 002865",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "富瀚微 300613",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
