@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-11-12 08:26",
+  "update_time": "2026-11-12 08:45",
   "market_status": "休市",
   "sentiment": "极度低迷",
-  "limit_up_count": 0,
+  "limit_up_count": 37,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": -2.44
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "消费",
+      "count": 4,
+      "total_amount": "37.52亿"
+    },
+    {
+      "name": "专用设备",
+      "count": 3,
+      "total_amount": "23.54亿"
+    },
+    {
+      "name": "水泥",
+      "count": 2,
+      "total_amount": "18.30亿"
+    },
+    {
+      "name": "服装家纺",
+      "count": 2,
+      "total_amount": "10.58亿"
+    },
+    {
+      "name": "燃气Ⅱ",
+      "count": 2,
+      "total_amount": "5.45亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "change": "+10.02%",
+      "amount": "28.51亿"
+    },
+    {
+      "name": "大东方",
+      "code": "600327",
+      "change": "+9.95%",
+      "amount": "22.92亿"
+    },
+    {
+      "name": "长城军工",
+      "code": "601606",
+      "change": "+10.02%",
+      "amount": "21.57亿"
+    },
+    {
+      "name": "日出东方",
+      "code": "603366",
+      "change": "+10.03%",
+      "amount": "21.05亿"
+    },
+    {
+      "name": "吉视传媒",
+      "code": "601929",
+      "change": "+10.20%",
+      "amount": "19.29亿"
+    },
+    {
+      "name": "福建水泥",
+      "code": "600802",
+      "change": "+9.99%",
+      "amount": "16.88亿"
+    },
+    {
+      "name": "龙江交通",
+      "code": "601188",
+      "change": "+10.02%",
+      "amount": "15.54亿"
+    },
+    {
+      "name": "澳洋健康",
+      "code": "002172",
+      "change": "+10.08%",
+      "amount": "14.61亿"
+    },
+    {
+      "name": "百洋股份",
+      "code": "002696",
+      "change": "+9.98%",
+      "amount": "14.12亿"
+    },
+    {
+      "name": "沈鼓集团",
+      "code": "601091",
+      "change": "+9.99%",
+      "amount": "13.97亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "东方海洋 002086",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "大东方 600327",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "长城军工 601606",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
