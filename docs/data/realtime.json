@@ -1,133 +1,133 @@
 {
-  "update_time": "2026-11-16 16:41",
-  "market_status": "休市",
-  "sentiment": "极度低迷",
-  "limit_up_count": 33,
+  "update_time": "2026-11-17 09:19",
+  "market_status": "盘中",
+  "sentiment": "偏弱",
+  "limit_up_count": 37,
   "limit_down_count": 0,
   "indices": [
     {
       "name": "上证指数",
-      "price": "3602.57",
-      "change": -0.87
+      "price": "3584.58",
+      "change": -0.5
     },
     {
       "name": "深证成指",
-      "price": "10690.78",
-      "change": -2.53
+      "price": "10638.52",
+      "change": -0.49
     },
     {
       "name": "创业板",
-      "price": "2320.02",
-      "change": -4.37
+      "price": "2292.2",
+      "change": -1.2
     }
   ],
   "hot_sectors": [
     {
-      "name": "消费",
-      "count": 4,
-      "total_amount": "11.35亿"
-    },
-    {
-      "name": "电池",
+      "name": "IT服务Ⅱ",
       "count": 3,
-      "total_amount": "8.69亿"
+      "total_amount": "25.94亿"
     },
     {
-      "name": "游戏Ⅱ",
-      "count": 2,
-      "total_amount": "47.62亿"
+      "name": "电子化学品Ⅱ",
+      "count": 3,
+      "total_amount": "8.66亿"
     },
     {
-      "name": "通信",
-      "count": 2,
-      "total_amount": "38.04亿"
+      "name": "环保设备Ⅱ",
+      "count": 3,
+      "total_amount": "5.45亿"
     },
     {
-      "name": "电视广播Ⅱ",
+      "name": "小家电",
       "count": 2,
-      "total_amount": "23.02亿"
+      "total_amount": "39.58亿"
+    },
+    {
+      "name": "电网设备",
+      "count": 2,
+      "total_amount": "19.03亿"
     }
   ],
   "dragon_stocks": [
     {
-      "name": "文投控股",
-      "code": "600715",
-      "change": "+10.00%",
-      "amount": "39.57亿"
+      "name": "有研新材",
+      "code": "600206",
+      "change": "+10.01%",
+      "amount": "47.51亿"
     },
     {
-      "name": "共进股份",
-      "code": "603118",
+      "name": "九阳股份",
+      "code": "002242",
       "change": "+10.02%",
-      "amount": "21.50亿"
+      "amount": "35.44亿"
     },
     {
-      "name": "北纬科技",
-      "code": "002148",
-      "change": "+10.06%",
-      "amount": "16.53亿"
-    },
-    {
-      "name": "吉视传媒",
-      "code": "601929",
+      "name": "阳光照明",
+      "code": "600261",
       "change": "+10.04%",
-      "amount": "14.80亿"
+      "amount": "18.92亿"
     },
     {
-      "name": "龙江交通",
-      "code": "601188",
-      "change": "+10.00%",
-      "amount": "10.12亿"
-    },
-    {
-      "name": "新能股份",
-      "code": "000595",
-      "change": "+9.95%",
-      "amount": "9.21亿"
-    },
-    {
-      "name": "华东重机",
-      "code": "002685",
-      "change": "+9.93%",
-      "amount": "8.61亿"
-    },
-    {
-      "name": "华数传媒",
-      "code": "000156",
-      "change": "+10.05%",
-      "amount": "8.22亿"
-    },
-    {
-      "name": "岳阳兴长",
-      "code": "000819",
+      "name": "顺钠股份",
+      "code": "000533",
       "change": "+9.98%",
-      "amount": "8.20亿"
+      "amount": "18.65亿"
     },
     {
-      "name": "凯撒文化",
-      "code": "002425",
-      "change": "+10.10%",
-      "amount": "8.05亿"
+      "name": "华胜天成",
+      "code": "600410",
+      "change": "+10.00%",
+      "amount": "14.03亿"
+    },
+    {
+      "name": "北投科技",
+      "code": "600936",
+      "change": "+9.95%",
+      "amount": "10.51亿"
+    },
+    {
+      "name": "泰嘉股份",
+      "code": "002843",
+      "change": "+9.98%",
+      "amount": "6.91亿"
+    },
+    {
+      "name": "好当家",
+      "code": "600467",
+      "change": "+10.00%",
+      "amount": "6.47亿"
+    },
+    {
+      "name": "海立股份",
+      "code": "600619",
+      "change": "+9.99%",
+      "amount": "6.40亿"
+    },
+    {
+      "name": "联合化学",
+      "code": "301209",
+      "change": "+20.01%",
+      "amount": "6.33亿"
     }
   ],
   "opportunities": [
     {
       "name": "打板机会",
-      "stock": "文投控股 600715",
+      "stock": "有研新材 600206",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "共进股份 603118",
+      "stock": "九阳股份 002242",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
     },
     {
       "name": "打板机会",
-      "stock": "北纬科技 002148",
+      "stock": "阳光照明 600261",
       "entry": "强势涨停，关注明日溢价",
       "risk": "高",
       "potential": "涨停溢价"
