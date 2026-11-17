@@ -1,26 +1,10 @@
 {
-  "update_time": "2026-11-17 11:27",
+  "update_time": "2026-11-17 13:56",
   "market_status": "盘中",
-  "sentiment": "偏弱",
+  "sentiment": "中性",
   "limit_up_count": 37,
   "limit_down_count": 0,
-  "indices": [
-    {
-      "name": "上证指数",
-      "price": "3584.58",
-      "change": -0.5
-    },
-    {
-      "name": "深证成指",
-      "price": "10638.52",
-      "change": -0.49
-    },
-    {
-      "name": "创业板",
-      "price": "2292.2",
-      "change": -1.2
-    }
-  ],
+  "indices": [],
   "hot_sectors": [
     {
       "name": "IT服务Ⅱ",
