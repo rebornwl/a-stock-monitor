@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-11-23 09:13",
-  "market_status": "休市",
-  "sentiment": "中性",
-  "limit_up_count": 0,
+  "update_time": "2026-11-23 09:37",
+  "market_status": "盘中",
+  "sentiment": "极度亢奋",
+  "limit_up_count": 32,
   "limit_down_count": 0,
   "indices": [
     {
@@ -21,7 +21,116 @@
       "change": 3.08
     }
   ],
-  "hot_sectors": [],
-  "dragon_stocks": [],
-  "opportunities": []
+  "hot_sectors": [
+    {
+      "name": "IT服务Ⅱ",
+      "count": 3,
+      "total_amount": "29.39亿"
+    },
+    {
+      "name": "塑料",
+      "count": 3,
+      "total_amount": "27.06亿"
+    },
+    {
+      "name": "通用设备",
+      "count": 3,
+      "total_amount": "23.21亿"
+    },
+    {
+      "name": "汽车",
+      "count": 3,
+      "total_amount": "16.07亿"
+    },
+    {
+      "name": "化学制品",
+      "count": 2,
+      "total_amount": "20.50亿"
+    }
+  ],
+  "dragon_stocks": [
+    {
+      "name": "宇树科技-W",
+      "code": "688836",
+      "change": "+20.00%",
+      "amount": "46.77亿"
+    },
+    {
+      "name": "上纬新材",
+      "code": "688585",
+      "change": "+20.00%",
+      "amount": "20.95亿"
+    },
+    {
+      "name": "奥比中光-W",
+      "code": "688322",
+      "change": "+19.81%",
+      "amount": "20.86亿"
+    },
+    {
+      "name": "凡拓数创",
+      "code": "301313",
+      "change": "+20.00%",
+      "amount": "17.41亿"
+    },
+    {
+      "name": "莱美药业",
+      "code": "300006",
+      "change": "+20.05%",
+      "amount": "17.05亿"
+    },
+    {
+      "name": "华是科技",
+      "code": "301218",
+      "change": "+20.00%",
+      "amount": "16.16亿"
+    },
+    {
+      "name": "果麦文化",
+      "code": "301052",
+      "change": "+20.00%",
+      "amount": "14.68亿"
+    },
+    {
+      "name": "金丹科技",
+      "code": "300829",
+      "change": "+20.00%",
+      "amount": "13.56亿"
+    },
+    {
+      "name": "汉威科技",
+      "code": "300007",
+      "change": "+20.01%",
+      "amount": "11.29亿"
+    },
+    {
+      "name": "福赛科技",
+      "code": "301529",
+      "change": "+20.00%",
+      "amount": "9.84亿"
+    }
+  ],
+  "opportunities": [
+    {
+      "name": "打板机会",
+      "stock": "宇树科技-W 688836",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "上纬新材 688585",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    },
+    {
+      "name": "打板机会",
+      "stock": "奥比中光-W 688322",
+      "entry": "强势涨停，关注明日溢价",
+      "risk": "高",
+      "potential": "涨停溢价"
+    }
+  ]
 }
