@@ -1,120 +1,27 @@
 {
-  "update_time": "2026-11-26 09:57",
+  "update_time": "2026-11-26 10:42",
   "market_status": "盘中",
   "sentiment": "中性",
-  "limit_up_count": 72,
+  "limit_up_count": 0,
   "limit_down_count": 0,
-  "indices": [],
-  "hot_sectors": [
+  "indices": [
     {
-      "name": "元件",
-      "count": 6,
-      "total_amount": "48.96亿"
+      "name": "上证指数",
+      "price": "3476.88",
+      "change": 0.01
     },
     {
-      "name": "消费",
-      "count": 6,
-      "total_amount": "39.96亿"
+      "name": "深证成指",
+      "price": "10084.04",
+      "change": -0.02
     },
     {
-      "name": "通用设备",
-      "count": 5,
-      "total_amount": "49.20亿"
-    },
-    {
-      "name": "化学制品",
-      "count": 5,
-      "total_amount": "19.90亿"
-    },
-    {
-      "name": "通信",
-      "count": 4,
-      "total_amount": "50.53亿"
+      "name": "创业板",
+      "price": "2189.82",
+      "change": 0.29
     }
   ],
-  "dragon_stocks": [
-    {
-      "name": "东方海洋",
-      "code": "002086",
-      "change": "+9.91%",
-      "amount": "30.97亿"
-    },
-    {
-      "name": "青山纸业",
-      "code": "600103",
-      "change": "+10.05%",
-      "amount": "30.48亿"
-    },
-    {
-      "name": "冰山冷热",
-      "code": "000530",
-      "change": "+10.00%",
-      "amount": "27.30亿"
-    },
-    {
-      "name": "旋极信息",
-      "code": "300324",
-      "change": "+20.00%",
-      "amount": "25.31亿"
-    },
-    {
-      "name": "北纬科技",
-      "code": "002148",
-      "change": "+10.03%",
-      "amount": "25.03亿"
-    },
-    {
-      "name": "襄阳轴承",
-      "code": "000678",
-      "change": "+10.02%",
-      "amount": "24.67亿"
-    },
-    {
-      "name": "拓维信息",
-      "code": "002261",
-      "change": "+10.03%",
-      "amount": "24.49亿"
-    },
-    {
-      "name": "崇达技术",
-      "code": "002815",
-      "change": "+10.02%",
-      "amount": "21.09亿"
-    },
-    {
-      "name": "好当家",
-      "code": "600467",
-      "change": "+10.00%",
-      "amount": "15.48亿"
-    },
-    {
-      "name": "共进股份",
-      "code": "603118",
-      "change": "+10.04%",
-      "amount": "15.06亿"
-    }
-  ],
-  "opportunities": [
-    {
-      "name": "打板机会",
-      "stock": "东方海洋 002086",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "青山纸业 600103",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    },
-    {
-      "name": "打板机会",
-      "stock": "冰山冷热 000530",
-      "entry": "强势涨停，关注明日溢价",
-      "risk": "高",
-      "potential": "涨停溢价"
-    }
-  ]
+  "hot_sectors": [],
+  "dragon_stocks": [],
+  "opportunities": []
 }
